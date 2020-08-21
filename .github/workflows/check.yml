@@ -30,4 +30,4 @@ jobs:
         run: yarn
 
       - name: Build emojis-list
-        run: yarn start
+        run: yarn build
