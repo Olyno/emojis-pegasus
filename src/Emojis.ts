@@ -1,7 +1,6 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
-import fs from 'fs';
-import fsa from 'fs/promises';
+import fs, { promises as fsa } from 'fs';
 import path from 'path';
 import { categories } from './constants';
 import { EmojiModel } from './models/emoji.model';
