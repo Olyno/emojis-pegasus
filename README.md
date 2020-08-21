@@ -1,11 +1,15 @@
 # emoji-list
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Olyno/emojis-list?style=flat-square) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Olyno/emojis-list/Check%20if%20build?style=flat-square) ![GitHub](https://img.shields.io/github/license/Olyno/emojis-list?style=flat-square)
+
 All emojis based on [Emojipedia](https://emojipedia.org) up to date automatically each weeks.
 
 ## Install
 
 **npm:** ``npm i emojis-list``
+
 **yarn:** ``yarn add emojis-list``
+
 **Other:** simply fetch at ``https://raw.githubusercontent.com/Olyno/emojis-list/master/emojis.json``
 
 ## Usage
