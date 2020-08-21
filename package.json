@@ -1,0 +1,39 @@
+{
+  "name": "emojis-list",
+  "version": "0.1.0",
+  "description": "Get all emojis available up to date automatically",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olyno/emojis-list.git"
+  },
+  "keywords": [
+    "emojis",
+    "list"
+  ],
+  "author": "Olyno",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Olyno/emojis-list/issues"
+  },
+  "homepage": "https://github.com/Olyno/emojis-list#readme",
+  "files": [
+    "emojis.json",
+    "README.md",
+    "LICENSE",
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node lib"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.21",
+    "@types/node": "^14.6.0",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
