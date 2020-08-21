@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "description": "Get all emojis available up to date automatically",
   "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node lib",
+    "deploy": "yarn publish && node scripts/githubPublish.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Olyno/emojis-list.git"
@@ -23,10 +28,7 @@
     "LICENSE",
     "lib"
   ],
-  "scripts": {
-    "build": "tsc",
-    "start": "tsc && node lib"
-  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "devDependencies": {
     "@types/cheerio": "^0.22.21",
     "@types/node": "^14.6.0",
