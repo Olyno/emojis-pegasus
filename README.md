@@ -6,16 +6,16 @@ All emojis based on [Emojipedia](https://emojipedia.org) up to date automaticall
 
 ## Install
 
-**npm:** ``npm i emojis-list``
+**npm:** ``npm i @olyno/emojis-list``
 
-**yarn:** ``yarn add emojis-list``
+**yarn:** ``yarn add @olyno/emojis-list``
 
 **Other:** simply fetch at ``https://raw.githubusercontent.com/Olyno/emojis-list/master/emojis.json``
 
 ## Usage
 
 ```js
-const emojisList = require('emojis-list').default;
+const emojisList = require('@olyno/emojis-list').default;
 const emojis = emojisList.getEmojis();
 
 // Get a specific emoji
