@@ -1,4 +1,4 @@
-# emoji-list
+# emojis-list
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Olyno/emojis-list?style=flat-square) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Olyno/emojis-list/Check%20if%20build?style=flat-square) ![GitHub](https://img.shields.io/github/license/Olyno/emojis-list?style=flat-square)
 
