@@ -31,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: yarn
 
-      - name: Build emojis-list
+      - name: Build emojis-pegasus
         run: yarn start
 
       - name: Commit changes

@@ -1,21 +1,23 @@
-# emojis-list
+# emojis-pegasus
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Olyno/emojis-list?style=flat-square) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Olyno/emojis-list/Check%20if%20build?style=flat-square) ![GitHub](https://img.shields.io/github/license/Olyno/emojis-list?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Olyno/emojis-pegasus?style=flat-square) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Olyno/emojis-pegasus/Check%20if%20build?style=flat-square) ![GitHub](https://img.shields.io/github/license/Olyno/emojis-pegasus?style=flat-square)
 
 All emojis based on [Emojipedia](https://emojipedia.org) up to date automatically each weeks.
 
+***To note:** The package was initially available on Github Package Registry, but due to some issues and not friendly installation, it will not be updated anymore, so please don't try to use it.*
+
 ## Install
 
-**npm:** ``npm i @olyno/emojis-list``
+**npm:** ``npm i emojis-pegasus``
 
-**yarn:** ``yarn add @olyno/emojis-list``
+**yarn:** ``yarn add emojis-pegasus``
 
-**Other:** simply fetch at ``https://raw.githubusercontent.com/Olyno/emojis-list/master/emojis.json``
+**Other:** simply fetch at ``https://raw.githubusercontent.com/Olyno/emojis-pegasus/master/emojis.json``
 
 ## Usage
 
 ```js
-const emojisList = require('@olyno/emojis-list').default;
+const emojisList = require('emojis-pegasus').default;
 const emojis = emojisList.getEmojis();
 
 // Get a specific emoji

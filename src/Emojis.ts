@@ -18,7 +18,7 @@ export class Emojis {
     async setupEmojis() {
         if (!fs.existsSync(this.emojisPath)) {
             for (const category of categories) {
-                console.log('[emojis-list] Getting all emojis of:', `https://emojipedia.org/${category.url}`)
+                console.log('[emojis-pegasus] Getting all emojis of:', `https://emojipedia.org/${category.url}`)
                 const html = await this.getHtmlOfCategory(category.url);
                 if (html) {
                     const $ = cheerio.load(html);
@@ -38,7 +38,7 @@ export class Emojis {
                     });
                 }
             }
-            console.log('[emojis-list] Writing emojis at:', 'emojis.json');
+            console.log('[emojis-pegasus] Writing emojis at:', 'emojis.json');
 
             fsa.writeFile('emojis.json', JSON.stringify(this.emojis));
         } else {

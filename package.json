@@ -1,16 +1,16 @@
 {
-  "name": "emojis-list",
+  "name": "emojis-pegasus",
   "version": "0.1.0",
   "description": "Get all emojis available up to date automatically",
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
     "start": "tsc && node lib",
-    "deploy": "yarn publish && node scripts/githubPublish.js"
+    "deploy": "yarn publish"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Olyno/emojis-list.git"
+    "url": "git+https://github.com/Olyno/emojis-pegasus.git"
   },
   "keywords": [
     "emojis",
@@ -19,16 +19,15 @@
   "author": "Olyno",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Olyno/emojis-list/issues"
+    "url": "https://github.com/Olyno/emojis-pegasus/issues"
   },
-  "homepage": "https://github.com/Olyno/emojis-list#readme",
+  "homepage": "https://github.com/Olyno/emojis-pegasus#readme",
   "files": [
     "emojis.json",
     "README.md",
     "LICENSE",
     "lib"
   ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "devDependencies": {
     "@types/cheerio": "^0.22.21",
     "@types/node": "^14.6.0",
