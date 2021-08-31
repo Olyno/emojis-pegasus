@@ -6,6 +6,7 @@
   "scripts": {
     "build": "tsc",
     "start": "tsc && node lib",
+    "format": "prettier --write .",
     "deploy": "yarn publish"
   },
   "repository": {
@@ -31,6 +32,7 @@
   "devDependencies": {
     "@types/cheerio": "^0.22.21",
     "@types/node": "^14.6.0",
+    "prettier": "^2.3.2",
     "typescript": "^4.0.2"
   },
   "dependencies": {

@@ -1,1 +1,3619 @@
-[{"name":"Upside-Down","nameUrl":"upside-down-face","emoji":"🙃","unicode":"U+1F643Code","shortNames":[":upside_down_face:"]},{"name":"Smiling","nameUrl":"smiling-face-with-tear","emoji":"🥲","unicode":"U+1F972Code","shortNames":[":smiling_face_with_tear:"]},{"name":"Rolling","nameUrl":"rolling-on-the-floor-laughing","emoji":"🤣","unicode":"U+1F923Code","shortNames":[":rofl:",":rolling_on_the_floor_laughing:"]},{"name":"Face","nameUrl":"face-exhaling","emoji":"😮‍💨","unicode":"U+1F62E‍","shortNames":[]},{"name":"Pleading","nameUrl":"pleading-face","emoji":"🥺","unicode":"U+1F97ACode","shortNames":[":pleading_face:"]},{"name":"Hushed","nameUrl":"hushed-face","emoji":"😯","unicode":"U+1F62FCode","shortNames":[":hushed:",":hushed_face:"]},{"name":"Grinning","nameUrl":"grinning-cat","emoji":"😺","unicode":"U+1F63ACode","shortNames":[":smiley_cat:",":grinning_cat:"]},{"name":"Slightly","nameUrl":"slightly-smiling-face","emoji":"🙂","unicode":"U+1F642Code","shortNames":[":slightly_smiling_face:"]},{"name":"Smiling","nameUrl":"smiling-face-with-halo","emoji":"😇","unicode":"U+1F607Code","shortNames":[":innocent:",":smiling_face_with_halo:"]},{"name":"Grinning","nameUrl":"grinning-face-with-big-eyes","emoji":"😃","unicode":"U+1F603Code","shortNames":[":smiley:",":grinning_face_with_big_eyes:"]},{"name":"Flushed","nameUrl":"flushed-face","emoji":"😳","unicode":"U+1F633Code","shortNames":[":flushed:",":flushed_face:"]},{"name":"Loudly","nameUrl":"loudly-crying-face","emoji":"😭","unicode":"U+1F62DCode","shortNames":[":sob:",":loudly_crying_face:"]},{"name":"Astonished","nameUrl":"astonished-face","emoji":"😲","unicode":"U+1F632Code","shortNames":[":astonished:",":astonished_face:"]},{"name":"Person","nameUrl":"person-shrugging","emoji":"🤷","unicode":"U+1F937Code","shortNames":[":shrug:",":person_shrugging:"]},{"name":"Couple","nameUrl":"couple-with-heart","emoji":"💑","unicode":"U+1F491Code","shortNames":[":couple_with_heart:"]},{"name":"Robot","nameUrl":"robot","emoji":"🤖","unicode":"U+1F916Code","shortNames":[":robot:",":robot_face:"]},{"name":"Person","nameUrl":"person-gesturing-ok","emoji":"🙆","unicode":"U+1F646Code","shortNames":[":ok_woman:",":ok_person:",":person_gesturing_ok:"]},{"name":"Raising","nameUrl":"raising-hands","emoji":"🙌","unicode":"U+1F64CCode","shortNames":[":raised_hands:",":raising_hands:"]},{"name":"Face","nameUrl":"face-with-symbols-on-mouth","emoji":"🤬","unicode":"U+1F92CCode","shortNames":[":cursing_face:",":face_with_symbols_on_mouth:",":serious_face_with_symbols_covering_mouth:"]},{"name":"Grinning","nameUrl":"grinning-face-with-sweat","emoji":"😅","unicode":"U+1F605Code","shortNames":[":sweat_smile:",":grinning_face_with_sweat:"]},{"name":"Smiling","nameUrl":"smiling-face-with-heart-eyes","emoji":"😍","unicode":"U+1F60DCode","shortNames":[":heart_eyes:",":smiling_face_with_heart_eyes:"]},{"name":"Hugging","nameUrl":"hugging-face","emoji":"🤗","unicode":"U+1F917Code","shortNames":[":hugging_face:",":hugs:"]},{"name":"Smiling","nameUrl":"smiling-face-with-hearts","emoji":"🥰","unicode":"U+1F970Code","shortNames":[":smiling_face_with_hearts:",":smiling_face_with_3_hearts:",":smiling_face_with_three_hearts:"]},{"name":"Pensive","nameUrl":"pensive-face","emoji":"😔","unicode":"U+1F614Code","shortNames":[":pensive:",":pensive_face:"]},{"name":"Face","nameUrl":"face-with-medical-mask","emoji":"😷","unicode":"U+1F637Code","shortNames":[":mask:",":face_with_medical_mask:"]},{"name":"Smiling","nameUrl":"smiling-face-with-sunglasses","emoji":"😎","unicode":"U+1F60ECode","shortNames":[":sunglasses:",":smiling_face_with_sunglasses:"]},{"name":"Partying","nameUrl":"partying-face","emoji":"🥳","unicode":"U+1F973Code","shortNames":[":partying_face:"]},{"name":"OK","nameUrl":"ok-hand","emoji":"👌","unicode":"U+1F44CCode","shortNames":[":ok_hand:"]},{"name":"Pile","nameUrl":"pile-of-poo","emoji":"💩","unicode":"U+1F4A9Code","shortNames":[":poop:",":shit:",":hankey:",":pile_of_poo:"]},{"name":"Smiling","nameUrl":"smiling-face-with-horns","emoji":"😈","unicode":"U+1F608Code","shortNames":[":smiling_imp:",":smiling_face_with_horns:"]},{"name":"Weary","nameUrl":"weary-face","emoji":"😩","unicode":"U+1F629Code","shortNames":[":weary:",":weary_face:"]},{"name":"Eyes","nameUrl":"eyes","emoji":"👀","unicode":"U+1F440Code","shortNames":[":eyes:"]},{"name":"Kissing","nameUrl":"kissing-face-with-closed-eyes","emoji":"😚","unicode":"U+1F61ACode","shortNames":[":kissing_closed_eyes:",":kissing_face_with_closed_eyes:"]},{"name":"Face","nameUrl":"face-with-thermometer","emoji":"🤒","unicode":"U+1F912Code","shortNames":[":face_with_thermometer:"]},{"name":"Disguised","nameUrl":"disguised-face","emoji":"🥸","unicode":"U+1F978Code","shortNames":[":disguised_face:"]},{"name":"Face","nameUrl":"face-blowing-a-kiss","emoji":"😘","unicode":"U+1F618Code","shortNames":[":kissing_heart:",":face_blowing_a_kiss:"]},{"name":"Money-Mouth","nameUrl":"money-mouth-face","emoji":"🤑","unicode":"U+1F911Code","shortNames":[":money_mouth_face:"]},{"name":"Old","nameUrl":"old-woman","emoji":"👵","unicode":"U+1F475Code","shortNames":[":older_woman:",":old_woman:"]},{"name":"Face","nameUrl":"face-with-steam-from-nose","emoji":"😤","unicode":"U+1F624Code","shortNames":[":triumph:",":face_with_steam_from_nose:"]},{"name":"Winking","nameUrl":"winking-face","emoji":"😉","unicode":"U+1F609Code","shortNames":[":wink:",":winking_face:"]},{"name":"Zany","nameUrl":"zany-face","emoji":"🤪","unicode":"U+1F92ACode","shortNames":[":zany_face:",":grinning_face_with_one_large_and_one_small_eye:"]},{"name":"Leg","nameUrl":"leg","emoji":"🦵","unicode":"U+1F9B5Code","shortNames":[":leg:"]},{"name":"Face","nameUrl":"face-with-monocle","emoji":"🧐","unicode":"U+1F9D0Code","shortNames":[":face_with_monocle:",":monocle_face:"]},{"name":"Goblin","nameUrl":"goblin","emoji":"👺","unicode":"U+1F47ACode","shortNames":[":japanese_goblin:",":goblin:"]},{"name":"Beaming","nameUrl":"beaming-face-with-smiling-eyes","emoji":"😁","unicode":"U+1F601Code","shortNames":[":grin:",":beaming_face_with_smiling_eyes:"]},{"name":"Thumbs","nameUrl":"thumbs-down","emoji":"👎","unicode":"U+1F44ECode","shortNames":[":-1:",":thumbsdown:",":thumbs_down:"]},{"name":"Grinning","nameUrl":"grinning-face-with-smiling-eyes","emoji":"😄","unicode":"U+1F604Code","shortNames":[":smile:",":grinning_face_with_smiling_eyes:"]},{"name":"Tired","nameUrl":"tired-face","emoji":"😫","unicode":"U+1F62BCode","shortNames":[":tired_face:"]},{"name":"Grinning","nameUrl":"grinning-face","emoji":"😀","unicode":"U+1F600Code","shortNames":[":grinning:",":grinning_face:"]},{"name":"Nauseated","nameUrl":"nauseated-face","emoji":"🤢","unicode":"U+1F922Code","shortNames":[":nauseated_face:"]},{"name":"Persevering","nameUrl":"persevering-face","emoji":"😣","unicode":"U+1F623Code","shortNames":[":persevere:",":persevering_face:"]},{"name":"Thinking","nameUrl":"thinking-face","emoji":"🤔","unicode":"U+1F914Code","shortNames":[":thinking_face:",":thinking:"]},{"name":"Face","nameUrl":"face-with-rolling-eyes","emoji":"🙄","unicode":"U+1F644Code","shortNames":[":roll_eyes:",":face_with_rolling_eyes:"]},{"name":"Face","nameUrl":"face-with-head-bandage","emoji":"🤕","unicode":"U+1F915Code","shortNames":[":face_with_head_bandage:"]},{"name":"Flexed","nameUrl":"flexed-biceps","emoji":"💪","unicode":"U+1F4AACode","shortNames":[":muscle:",":flexed_biceps:"]},{"name":"Person","nameUrl":"person-frowning","emoji":"🙍","unicode":"U+1F64DCode","shortNames":[":person_frowning:",":frowning_person:"]},{"name":"Hot","nameUrl":"hot-face","emoji":"🥵","unicode":"U+1F975Code","shortNames":[":hot_face:"]},{"name":"Globe","nameUrl":"globe-with-meridians","emoji":"🌐","unicode":"U+1F310Code","shortNames":[":globe_with_meridians:"]},{"name":"Globe","nameUrl":"globe-showing-americas","emoji":"🌎","unicode":"U+1F30ECode","shortNames":[":earth_americas:",":globe_showing_americas:"]},{"name":"Smiling","nameUrl":"smiling-face","emoji":"☺️","unicode":"U+263A️","shortNames":[":relaxed:",":smiling_face:"]},{"name":"Sun","nameUrl":"sun","emoji":"☀️","unicode":"U+2600️","shortNames":[":sunny:",":sun:"]},{"name":"Cold","nameUrl":"cold-face","emoji":"🥶","unicode":"U+1F976Code","shortNames":[":cold_face:"]},{"name":"Fish","nameUrl":"fish","emoji":"🐟","unicode":"U+1F41FCode","shortNames":[":fish:"]},{"name":"Honeybee","nameUrl":"honeybee","emoji":"🐝","unicode":"U+1F41DCode","shortNames":[":honeybee:",":bee:"]},{"name":"Face","nameUrl":"face-in-clouds","emoji":"😶‍🌫️","unicode":"U+1F636‍","shortNames":[]},{"name":"Face","nameUrl":"face-with-open-mouth","emoji":"😮","unicode":"U+1F62ECode","shortNames":[":open_mouth:",":face_with_open_mouth:"]},{"name":"Face","nameUrl":"face-savoring-food","emoji":"😋","unicode":"U+1F60BCode","shortNames":[":yum:",":face_savoring_food:"]},{"name":"Military","nameUrl":"military-helmet","emoji":"🪖","unicode":"U+1FA96Code","shortNames":[":military_helmet:"]},{"name":"Kissing","nameUrl":"kissing-face","emoji":"😗","unicode":"U+1F617Code","shortNames":[":kissing:",":kissing_face:"]},{"name":"Jack-O-Lantern","nameUrl":"jack-o-lantern","emoji":"🎃","unicode":"U+1F383Code","shortNames":[":jack_o_lantern:"]},{"name":"Sneezing","nameUrl":"sneezing-face","emoji":"🤧","unicode":"U+1F927Code","shortNames":[":sneezing_face:"]},{"name":"Brain","nameUrl":"brain","emoji":"🧠","unicode":"U+1F9E0Code","shortNames":[":brain:"]},{"name":"Exploding","nameUrl":"exploding-head","emoji":"🤯","unicode":"U+1F92FCode","shortNames":[":exploding_head:",":shocked_face_with_exploding_head:"]},{"name":"Neutral","nameUrl":"neutral-face","emoji":"😐","unicode":"U+1F610Code","shortNames":[":neutral_face:"]},{"name":"Face","nameUrl":"face-without-mouth","emoji":"😶","unicode":"U+1F636Code","shortNames":[":no_mouth:",":face_without_mouth:"]},{"name":"Cat","nameUrl":"cat-with-wry-smile","emoji":"😼","unicode":"U+1F63CCode","shortNames":[":smirk_cat:",":cat_with_wry_smile:"]},{"name":"Confounded","nameUrl":"confounded-face","emoji":"😖","unicode":"U+1F616Code","shortNames":[":confounded:",":confounded_face:"]},{"name":"Bouquet","nameUrl":"bouquet","emoji":"💐","unicode":"U+1F490Code","shortNames":[":bouquet:"]},{"name":"Victory","nameUrl":"victory-hand","emoji":"✌️","unicode":"U+270C️","shortNames":[":v:",":victory_hand:"]},{"name":"Seedling","nameUrl":"seedling","emoji":"🌱","unicode":"U+1F331Code","shortNames":[":seedling:"]},{"name":"Family:","nameUrl":"family-man-girl-girl","emoji":"👨‍👧‍👧","unicode":"U+1F468‍","shortNames":[":family_man_girl_girl:",":man-girl-girl:"]},{"name":"Nail","nameUrl":"nail-polish","emoji":"💅","unicode":"U+1F485Code","shortNames":[":nail_care:",":nail_polish:"]},{"name":"Woman","nameUrl":"woman-student","emoji":"👩‍🎓","unicode":"U+1F469‍","shortNames":[":woman_student:",":female-student:"]},{"name":"Skull","nameUrl":"skull","emoji":"💀","unicode":"U+1F480Code","shortNames":[":skull:"]},{"name":"Face","nameUrl":"face-with-tears-of-joy","emoji":"😂","unicode":"U+1F602Code","shortNames":[":joy:",":face_with_tears_of_joy:"]},{"name":"Smirking","nameUrl":"smirking-face","emoji":"😏","unicode":"U+1F60FCode","shortNames":[":smirk:",":smirking_face:"]},{"name":"Expressionless","nameUrl":"expressionless-face","emoji":"😑","unicode":"U+1F611Code","shortNames":[":expressionless:",":expressionless_face:"]},{"name":"Kissing","nameUrl":"kissing-face-with-smiling-eyes","emoji":"😙","unicode":"U+1F619Code","shortNames":[":kissing_smiling_eyes:",":kissing_face_with_smiling_eyes:"]},{"name":"Smiling","nameUrl":"smiling-face-with-smiling-eyes","emoji":"😊","unicode":"U+1F60ACode","shortNames":[":blush:",":smiling_face_with_smiling_eyes:"]},{"name":"Woozy","nameUrl":"woozy-face","emoji":"🥴","unicode":"U+1F974Code","shortNames":[":woozy_face:"]},{"name":"Face","nameUrl":"face-with-tongue","emoji":"😛","unicode":"U+1F61BCode","shortNames":[":stuck_out_tongue:",":face_with_tongue:"]},{"name":"Face","nameUrl":"face-with-raised-eyebrow","emoji":"🤨","unicode":"U+1F928Code","shortNames":[":face_with_raised_eyebrow:",":raised_eyebrow:",":face_with_one_eyebrow_raised:"]},{"name":"Squinting","nameUrl":"squinting-face-with-tongue","emoji":"😝","unicode":"U+1F61DCode","shortNames":[":stuck_out_tongue_closed_eyes:",":squinting_face_with_tongue:"]},{"name":"Person","nameUrl":"person-in-lotus-position","emoji":"🧘","unicode":"U+1F9D8Code","shortNames":[":lotus_position:",":person_in_lotus_position:"]},{"name":"Lying","nameUrl":"lying-face","emoji":"🤥","unicode":"U+1F925Code","shortNames":[":lying_face:"]},{"name":"Man","nameUrl":"man-cook","emoji":"👨‍🍳","unicode":"U+1F468‍","shortNames":[":man_cook:",":male-cook:"]},{"name":"Zipper-Mouth","nameUrl":"zipper-mouth-face","emoji":"🤐","unicode":"U+1F910Code","shortNames":[":zipper_mouth_face:"]},{"name":"Squid","nameUrl":"squid","emoji":"🦑","unicode":"U+1F991Code","shortNames":[":squid:"]},{"name":"Tropical","nameUrl":"tropical-fish","emoji":"🐠","unicode":"U+1F420Code","shortNames":[":tropical_fish:"]},{"name":"Folded","nameUrl":"folded-hands","emoji":"🙏","unicode":"U+1F64FCode","shortNames":[":pray:",":folded_hands:"]},{"name":"Grinning","nameUrl":"grinning-squinting-face","emoji":"😆","unicode":"U+1F606Code","shortNames":[":laughing:",":satisfied:",":grinning_squinting_face:"]},{"name":"Face","nameUrl":"face-with-spiral-eyes","emoji":"😵‍💫","unicode":"U+1F635‍","shortNames":[]},{"name":"Relieved","nameUrl":"relieved-face","emoji":"😌","unicode":"U+1F60CCode","shortNames":[":relieved:",":relieved_face:"]},{"name":"Hand","nameUrl":"hand-with-fingers-splayed","emoji":"🖐️","unicode":"U+1F590️","shortNames":[":raised_hand_with_fingers_splayed:",":hand_with_fingers_splayed:"]},{"name":"Mechanical","nameUrl":"mechanical-leg","emoji":"🦿","unicode":"U+1F9BFCode","shortNames":[":mechanical_leg:"]},{"name":"Butterfly","nameUrl":"butterfly","emoji":"🦋","unicode":"U+1F98BCode","shortNames":[":butterfly:"]},{"name":"Face","nameUrl":"face-with-hand-over-mouth","emoji":"🤭","unicode":"U+1F92DCode","shortNames":[":face_with_hand_over_mouth:",":hand_over_mouth:",":smiling_face_with_smiling_eyes_and_hand_covering_mouth:"]},{"name":"Full","nameUrl":"full-moon-face","emoji":"🌝","unicode":"U+1F31DCode","shortNames":[":full_moon_with_face:",":full_moon_face:"]},{"name":"Pinched","nameUrl":"pinched-fingers","emoji":"🤌","unicode":"U+1F90CCode","shortNames":[":pinched_fingers:"]},{"name":"Drooling","nameUrl":"drooling-face","emoji":"🤤","unicode":"U+1F924Code","shortNames":[":drooling_face:"]},{"name":"Handshake","nameUrl":"handshake","emoji":"🤝","unicode":"U+1F91DCode","shortNames":[":handshake:"]},{"name":"Sunglasses","nameUrl":"sunglasses","emoji":"🕶️","unicode":"U+1F576️","shortNames":[":dark_sunglasses:",":sunglasses:"]},{"name":"Woman","nameUrl":"woman-cook","emoji":"👩‍🍳","unicode":"U+1F469‍","shortNames":[":woman_cook:",":female-cook:"]},{"name":"Woman","nameUrl":"woman-farmer","emoji":"👩‍🌾","unicode":"U+1F469‍","shortNames":[":woman_farmer:",":female-farmer:"]},{"name":"Pouting","nameUrl":"pouting-face","emoji":"😡","unicode":"U+1F621Code","shortNames":[":rage:",":pout:",":pouting_face:"]},{"name":"Grimacing","nameUrl":"grimacing-face","emoji":"😬","unicode":"U+1F62CCode","shortNames":[":grimacing:",":grimacing_face:"]},{"name":"Man","nameUrl":"man-shrugging","emoji":"🤷‍♂️","unicode":"U+1F937‍","shortNames":[":man_shrugging:",":man-shrugging:"]},{"name":"Blowfish","nameUrl":"blowfish","emoji":"🐡","unicode":"U+1F421Code","shortNames":[":blowfish:"]},{"name":"Orangutan","nameUrl":"orangutan","emoji":"🦧","unicode":"U+1F9A7Code","shortNames":[":orangutan:"]},{"name":"Raised","nameUrl":"raised-back-of-hand","emoji":"🤚","unicode":"U+1F91ACode","shortNames":[":raised_back_of_hand:"]},{"name":"Nerd","nameUrl":"nerd-face","emoji":"🤓","unicode":"U+1F913Code","shortNames":[":nerd_face:"]},{"name":"Cowboy","nameUrl":"cowboy-hat-face","emoji":"🤠","unicode":"U+1F920Code","shortNames":[":cowboy_hat_face:",":face_with_cowboy_hat:"]},{"name":"Goat","nameUrl":"goat","emoji":"🐐","unicode":"U+1F410Code","shortNames":[":goat:"]},{"name":"Frowning","nameUrl":"frowning-face","emoji":"☹️","unicode":"U+2639️","shortNames":[":frowning_face:",":white_frowning_face:"]},{"name":"Nose","nameUrl":"nose","emoji":"👃","unicode":"U+1F443Code","shortNames":[":nose:"]},{"name":"Face","nameUrl":"face-screaming-in-fear","emoji":"😱","unicode":"U+1F631Code","shortNames":[":scream:",":face_screaming_in_fear:"]},{"name":"Anatomical","nameUrl":"anatomical-heart","emoji":"🫀","unicode":"U+1FAC0Code","shortNames":[":anatomical_heart:"]},{"name":"Pouting","nameUrl":"pouting-cat","emoji":"😾","unicode":"U+1F63ECode","shortNames":[":pouting_cat:"]},{"name":"Grinning","nameUrl":"grinning-cat-with-smiling-eyes","emoji":"😸","unicode":"U+1F638Code","shortNames":[":smile_cat:",":grinning_cat_with_smiling_eyes:"]},{"name":"Alien","nameUrl":"alien","emoji":"👽","unicode":"U+1F47DCode","shortNames":[":alien:"]},{"name":"Cloud","nameUrl":"cloud","emoji":"☁️","unicode":"U+2601️","shortNames":[":cloud:"]},{"name":"Fox","nameUrl":"fox","emoji":"🦊","unicode":"U+1F98ACode","shortNames":[":fox_face:",":fox:"]},{"name":"Yawning","nameUrl":"yawning-face","emoji":"🥱","unicode":"U+1F971Code","shortNames":[":yawning_face:"]},{"name":"Vulcan","nameUrl":"vulcan-salute","emoji":"🖖","unicode":"U+1F596Code","shortNames":[":vulcan_salute:",":spock-hand:"]},{"name":"Angry","nameUrl":"angry-face","emoji":"😠","unicode":"U+1F620Code","shortNames":[":angry:",":angry_face:"]},{"name":"Anxious","nameUrl":"anxious-face-with-sweat","emoji":"😰","unicode":"U+1F630Code","shortNames":[":cold_sweat:",":anxious_face_with_sweat:"]},{"name":"Face","nameUrl":"face-vomiting","emoji":"🤮","unicode":"U+1F92ECode","shortNames":[":face_vomiting:",":vomiting_face:",":face_with_open_mouth_vomiting:"]},{"name":"Sweat","nameUrl":"sweat-droplets","emoji":"💦","unicode":"U+1F4A6Code","shortNames":[":sweat_drops:",":sweat_droplets:"]},{"name":"Zebra","nameUrl":"zebra","emoji":"🦓","unicode":"U+1F993Code","shortNames":[":zebra:",":zebra_face:"]},{"name":"Winking","nameUrl":"winking-face-with-tongue","emoji":"😜","unicode":"U+1F61CCode","shortNames":[":stuck_out_tongue_winking_eye:",":winking_face_with_tongue:"]},{"name":"Shushing","nameUrl":"shushing-face","emoji":"🤫","unicode":"U+1F92BCode","shortNames":[":shushing_face:",":face_with_finger_covering_closed_lips:"]},{"name":"Ghost","nameUrl":"ghost","emoji":"👻","unicode":"U+1F47BCode","shortNames":[":ghost:"]},{"name":"Crying","nameUrl":"crying-face","emoji":"😢","unicode":"U+1F622Code","shortNames":[":cry:",":crying_face:"]},{"name":"Rainbow","nameUrl":"rainbow","emoji":"🌈","unicode":"U+1F308Code","shortNames":[":rainbow:"]},{"name":"Smiling","nameUrl":"smiling-cat-with-heart-eyes","emoji":"😻","unicode":"U+1F63BCode","shortNames":[":heart_eyes_cat:",":smiling_cat_with_heart_eyes:"]},{"name":"Water","nameUrl":"water-wave","emoji":"🌊","unicode":"U+1F30ACode","shortNames":[":ocean:",":water_wave:"]},{"name":"Cat","nameUrl":"cat-with-tears-of-joy","emoji":"😹","unicode":"U+1F639Code","shortNames":[":joy_cat:",":cat_with_tears_of_joy:"]},{"name":"Man","nameUrl":"man-tipping-hand","emoji":"💁‍♂️","unicode":"U+1F481‍","shortNames":[":sassy_man:",":man_tipping_hand:",":man-tipping-hand:",":tipping_hand_man:"]},{"name":"Tiger","nameUrl":"tiger","emoji":"🐅","unicode":"U+1F405Code","shortNames":[":tiger2:",":tiger:"]},{"name":"Star-Struck","nameUrl":"star-struck","emoji":"🤩","unicode":"U+1F929Code","shortNames":[":star_struck:",":star-struck:",":grinning_face_with_star_eyes:"]},{"name":"Ewe","nameUrl":"ewe","emoji":"🐑","unicode":"U+1F411Code","shortNames":[":sheep:",":ewe:"]},{"name":"Sleepy","nameUrl":"sleepy-face","emoji":"😪","unicode":"U+1F62ACode","shortNames":[":sleepy:",":sleepy_face:"]},{"name":"Anguished","nameUrl":"anguished-face","emoji":"😧","unicode":"U+1F627Code","shortNames":[":anguished:",":anguished_face:"]},{"name":"Fearful","nameUrl":"fearful-face","emoji":"😨","unicode":"U+1F628Code","shortNames":[":fearful:",":fearful_face:"]},{"name":"Unamused","nameUrl":"unamused-face","emoji":"😒","unicode":"U+1F612Code","shortNames":[":unamused:",":unamused_face:"]},{"name":"Man","nameUrl":"man-raising-hand","emoji":"🙋‍♂️","unicode":"U+1F64B‍","shortNames":[":man_raising_hand:",":man-raising-hand:",":raising_hand_man:"]},{"name":"Crescent","nameUrl":"crescent-moon","emoji":"🌙","unicode":"U+1F319Code","shortNames":[":crescent_moon:"]},{"name":"Speak-No-Evil","nameUrl":"speak-no-evil-monkey","emoji":"🙊","unicode":"U+1F64ACode","shortNames":[":speak_no_evil:",":speak_no_evil_monkey:"]},{"name":"Sad","nameUrl":"sad-but-relieved-face","emoji":"😥","unicode":"U+1F625Code","shortNames":[":disappointed_relieved:",":sad_but_relieved_face:"]},{"name":"Star","nameUrl":"star","emoji":"⭐","unicode":"U+2B50Code","shortNames":[":star:"]},{"name":"Person","nameUrl":"person-bowing","emoji":"🙇","unicode":"U+1F647Code","shortNames":[":bow:",":person_bowing:"]},{"name":"Confused","nameUrl":"confused-face","emoji":"😕","unicode":"U+1F615Code","shortNames":[":confused:",":confused_face:"]},{"name":"Skull","nameUrl":"skull-and-crossbones","emoji":"☠️","unicode":"U+2620️","shortNames":[":skull_and_crossbones:"]},{"name":"Worried","nameUrl":"worried-face","emoji":"😟","unicode":"U+1F61FCode","shortNames":[":worried:",":worried_face:"]},{"name":"Slightly","nameUrl":"slightly-frowning-face","emoji":"🙁","unicode":"U+1F641Code","shortNames":[":slightly_frowning_face:"]},{"name":"Clown","nameUrl":"clown-face","emoji":"🤡","unicode":"U+1F921Code","shortNames":[":clown_face:"]},{"name":"Frowning","nameUrl":"frowning-face-with-open-mouth","emoji":"😦","unicode":"U+1F626Code","shortNames":[":frowning:",":frowning_face_with_open_mouth:"]},{"name":"Girl","nameUrl":"girl","emoji":"👧","unicode":"U+1F467Code","shortNames":[":girl:"]},{"name":"Sparkles","nameUrl":"sparkles","emoji":"✨","unicode":"U+2728Code","shortNames":[":sparkles:"]},{"name":"Angry","nameUrl":"angry-face-with-horns","emoji":"👿","unicode":"U+1F47FCode","shortNames":[":imp:",":angry_face_with_horns:"]},{"name":"Paw","nameUrl":"paw-prints","emoji":"🐾","unicode":"U+1F43ECode","shortNames":[":paw_prints:",":feet:"]},{"name":"Downcast","nameUrl":"downcast-face-with-sweat","emoji":"😓","unicode":"U+1F613Code","shortNames":[":sweat:",":downcast_face_with_sweat:"]},{"name":"Dizzy","nameUrl":"dizzy-face","emoji":"😵","unicode":"U+1F635Code","shortNames":[":dizzy_face:"]},{"name":"Woman","nameUrl":"woman-facepalming","emoji":"🤦‍♀️","unicode":"U+1F926‍","shortNames":[":woman_facepalming:",":woman-facepalming:"]},{"name":"Fire","nameUrl":"fire","emoji":"🔥","unicode":"U+1F525Code","shortNames":[":fire:"]},{"name":"Unicorn","nameUrl":"unicorn","emoji":"🦄","unicode":"U+1F984Code","shortNames":[":unicorn:",":unicorn_face:"]},{"name":"Lion","nameUrl":"lion","emoji":"🦁","unicode":"U+1F981Code","shortNames":[":lion:",":lion_face:"]},{"name":"Umbrella","nameUrl":"umbrella","emoji":"☂️","unicode":"U+2602️","shortNames":[":umbrella:",":open_umbrella:"]},{"name":"Wolf","nameUrl":"wolf","emoji":"🐺","unicode":"U+1F43ACode","shortNames":[":wolf:"]},{"name":"Ring","nameUrl":"ring","emoji":"💍","unicode":"U+1F48DCode","shortNames":[":ring:"]},{"name":"Billed","nameUrl":"billed-cap","emoji":"🧢","unicode":"U+1F9E2Code","shortNames":[":billed_cap:"]},{"name":"Owl","nameUrl":"owl","emoji":"🦉","unicode":"U+1F989Code","shortNames":[":owl:"]},{"name":"Bust","nameUrl":"bust-in-silhouette","emoji":"👤","unicode":"U+1F464Code","shortNames":[":bust_in_silhouette:"]},{"name":"Couple","nameUrl":"couple-with-heart-man-man","emoji":"👨‍❤️‍👨","unicode":"U+1F468‍","shortNames":[":man-heart-man:",":couple_with_heart_man_man:"]},{"name":"Guide","nameUrl":"guide-dog","emoji":"🦮","unicode":"U+1F9AECode","shortNames":[":guide_dog:"]},{"name":"Snowman","nameUrl":"snowman","emoji":"☃️","unicode":"U+2603️","shortNames":[":snowman:",":snowman_with_snow:"]},{"name":"Thong","nameUrl":"thong-sandal","emoji":"🩴","unicode":"U+1FA74Code","shortNames":[":thong_sandal:"]},{"name":"Leopard","nameUrl":"leopard","emoji":"🐆","unicode":"U+1F406Code","shortNames":[":leopard:"]},{"name":"Raccoon","nameUrl":"raccoon","emoji":"🦝","unicode":"U+1F99DCode","shortNames":[":raccoon:"]},{"name":"Dog","nameUrl":"dog","emoji":"🐕","unicode":"U+1F415Code","shortNames":[":dog2:",":dog:"]},{"name":"Last","nameUrl":"last-quarter-moon","emoji":"🌗","unicode":"U+1F317Code","shortNames":[":last_quarter_moon:"]},{"name":"Droplet","nameUrl":"droplet","emoji":"💧","unicode":"U+1F4A7Code","shortNames":[":droplet:"]},{"name":"Man’s","nameUrl":"mans-shoe","emoji":"👞","unicode":"U+1F45ECode","shortNames":[":mans_shoe:",":shoe:"]},{"name":"Running","nameUrl":"running-shoe","emoji":"👟","unicode":"U+1F45FCode","shortNames":[":athletic_shoe:",":running_shoe:"]},{"name":"Comet","nameUrl":"comet","emoji":"☄️","unicode":"U+2604️","shortNames":[":comet:"]},{"name":"Disappointed","nameUrl":"disappointed-face","emoji":"😞","unicode":"U+1F61ECode","shortNames":[":disappointed:",":disappointed_face:"]},{"name":"Waffle","nameUrl":"waffle","emoji":"🧇","unicode":"U+1F9C7Code","shortNames":[":waffle:"]},{"name":"Dango","nameUrl":"dango","emoji":"🍡","unicode":"U+1F361Code","shortNames":[":dango:"]},{"name":"Rabbit","nameUrl":"rabbit-face","emoji":"🐰","unicode":"U+1F430Code","shortNames":[":rabbit:",":rabbit_face:"]},{"name":"Ice","nameUrl":"ice","emoji":"🧊","unicode":"U+1F9CACode","shortNames":[":ice_cube:",":ice:"]},{"name":"Rabbit","nameUrl":"rabbit","emoji":"🐇","unicode":"U+1F407Code","shortNames":[":rabbit2:",":rabbit:"]},{"name":"Cucumber","nameUrl":"cucumber","emoji":"🥒","unicode":"U+1F952Code","shortNames":[":cucumber:"]},{"name":"Kangaroo","nameUrl":"kangaroo","emoji":"🦘","unicode":"U+1F998Code","shortNames":[":kangaroo:"]},{"name":"Beaver","nameUrl":"beaver","emoji":"🦫","unicode":"U+1F9ABCode","shortNames":[":beaver:"]},{"name":"Egg","nameUrl":"egg","emoji":"🥚","unicode":"U+1F95ACode","shortNames":[":egg:"]},{"name":"Honey","nameUrl":"honey-pot","emoji":"🍯","unicode":"U+1F36FCode","shortNames":[":honey_pot:"]},{"name":"Tropical","nameUrl":"tropical-drink","emoji":"🍹","unicode":"U+1F379Code","shortNames":[":tropical_drink:"]},{"name":"French","nameUrl":"french-fries","emoji":"🍟","unicode":"U+1F35FCode","shortNames":[":fries:",":french_fries:"]},{"name":"New","nameUrl":"new-moon-face","emoji":"🌚","unicode":"U+1F31ACode","shortNames":[":new_moon_with_face:",":new_moon_face:"]},{"name":"High","nameUrl":"high-voltage","emoji":"⚡","unicode":"U+26A1Code","shortNames":[":zap:",":high_voltage:"]},{"name":"Snowflake","nameUrl":"snowflake","emoji":"❄️","unicode":"U+2744️","shortNames":[":snowflake:"]},{"name":"Astronaut","nameUrl":"astronaut","emoji":"🧑‍🚀","unicode":"U+1F9D1‍","shortNames":[":astronaut:"]},{"name":"Fog","nameUrl":"fog","emoji":"🌫️","unicode":"U+1F32B️","shortNames":[":fog:"]},{"name":"Older","nameUrl":"older-person","emoji":"🧓","unicode":"U+1F9D3Code","shortNames":[":older_adult:",":older_person:"]},{"name":"Person","nameUrl":"person-in-manual-wheelchair","emoji":"🧑‍🦽","unicode":"U+1F9D1‍","shortNames":[":person_in_manual_wheelchair:"]},{"name":"Man","nameUrl":"man-pilot","emoji":"👨‍✈️","unicode":"U+1F468‍","shortNames":[":man_pilot:",":male-pilot:"]},{"name":"Man","nameUrl":"man-astronaut","emoji":"👨‍🚀","unicode":"U+1F468‍","shortNames":[":man_astronaut:",":male-astronaut:"]},{"name":"Cook","nameUrl":"cook","emoji":"🧑‍🍳","unicode":"U+1F9D1‍","shortNames":[":cook:"]},{"name":"Woman","nameUrl":"woman-pilot","emoji":"👩‍✈️","unicode":"U+1F469‍","shortNames":[":woman_pilot:",":female-pilot:"]},{"name":"Teacher","nameUrl":"teacher","emoji":"🧑‍🏫","unicode":"U+1F9D1‍","shortNames":[":teacher:"]},{"name":"Tanabata","nameUrl":"tanabata-tree","emoji":"🎋","unicode":"U+1F38BCode","shortNames":[":tanabata_tree:"]},{"name":"Dog","nameUrl":"dog-face","emoji":"🐶","unicode":"U+1F436Code","shortNames":[":dog:",":dog_face:"]},{"name":"Man","nameUrl":"man-standing","emoji":"🧍‍♂️","unicode":"U+1F9CD‍","shortNames":[":man_standing:",":standing_man:"]},{"name":"Man","nameUrl":"man-police-officer","emoji":"👮‍♂️","unicode":"U+1F46E‍","shortNames":[":policeman:",":man_police_officer:",":male-police-officer:"]},{"name":"Woman’s","nameUrl":"womans-boot","emoji":"👢","unicode":"U+1F462Code","shortNames":[":boot:",":womans_boot:"]},{"name":"Man","nameUrl":"man-student","emoji":"👨‍🎓","unicode":"U+1F468‍","shortNames":[":man_student:",":male-student:"]},{"name":"Pine","nameUrl":"pine-decoration","emoji":"🎍","unicode":"U+1F38DCode","shortNames":[":bamboo:",":pine_decoration:"]},{"name":"Kiss","nameUrl":"kiss","emoji":"💏","unicode":"U+1F48FCode","shortNames":[":couplekiss:",":kiss:"]},{"name":"Family:","nameUrl":"family-man-woman-girl-girl","emoji":"👨‍👩‍👧‍👧","unicode":"U+1F468‍","shortNames":[":family_man_woman_girl_girl:",":man-woman-girl-girl:"]},{"name":"Skunk","nameUrl":"skunk","emoji":"🦨","unicode":"U+1F9A8Code","shortNames":[":skunk:"]},{"name":"Guitar","nameUrl":"guitar","emoji":"🎸","unicode":"U+1F3B8Code","shortNames":[":guitar:"]},{"name":"Man","nameUrl":"man-biking","emoji":"🚴‍♂️","unicode":"U+1F6B4‍","shortNames":[":biking_man:",":man_biking:",":man-biking:"]},{"name":"Hedgehog","nameUrl":"hedgehog","emoji":"🦔","unicode":"U+1F994Code","shortNames":[":hedgehog:"]},{"name":"Trophy","nameUrl":"trophy","emoji":"🏆","unicode":"U+1F3C6Code","shortNames":[":trophy:"]},{"name":"Video","nameUrl":"video-game","emoji":"🎮","unicode":"U+1F3AECode","shortNames":[":video_game:"]},{"name":"Turkey","nameUrl":"turkey","emoji":"🦃","unicode":"U+1F983Code","shortNames":[":turkey:"]},{"name":"Woman","nameUrl":"woman-biking","emoji":"🚴‍♀️","unicode":"U+1F6B4‍","shortNames":[":biking_woman:",":woman_biking:",":woman-biking:"]},{"name":"Hamster","nameUrl":"hamster","emoji":"🐹","unicode":"U+1F439Code","shortNames":[":hamster:"]},{"name":"Musical","nameUrl":"musical-score","emoji":"🎼","unicode":"U+1F3BCCode","shortNames":[":musical_score:"]},{"name":"Polar","nameUrl":"polar-bear","emoji":"🐻‍❄️","unicode":"U+1F43B‍","shortNames":[":polar_bear:"]},{"name":"Soccer","nameUrl":"soccer-ball","emoji":"⚽","unicode":"U+26BDCode","shortNames":[":soccer:",":soccer_ball:"]},{"name":"Rat","nameUrl":"rat","emoji":"🐀","unicode":"U+1F400Code","shortNames":[":rat:"]},{"name":"Reminder","nameUrl":"reminder-ribbon","emoji":"🎗️","unicode":"U+1F397️","shortNames":[":reminder_ribbon:"]},{"name":"Person","nameUrl":"person-in-suit-levitating","emoji":"🕴️","unicode":"U+1F574️","shortNames":[":business_suit_levitating:",":person_in_suit_levitating:",":man_in_business_suit_levitating:"]},{"name":"Koala","nameUrl":"koala","emoji":"🐨","unicode":"U+1F428Code","shortNames":[":koala:"]},{"name":"Person","nameUrl":"person-lifting-weights","emoji":"🏋️","unicode":"U+1F3CB️","shortNames":[":weight_lifter:",":weight_lifting:",":person_lifting_weights:"]},{"name":"Horse","nameUrl":"horse-racing","emoji":"🏇","unicode":"U+1F3C7Code","shortNames":[":horse_racing:"]},{"name":"Wedding","nameUrl":"wedding","emoji":"💒","unicode":"U+1F492Code","shortNames":[":wedding:"]},{"name":"Sunrise","nameUrl":"sunrise","emoji":"🌅","unicode":"U+1F305Code","shortNames":[":sunrise:"]},{"name":"Violin","nameUrl":"violin","emoji":"🎻","unicode":"U+1F3BBCode","shortNames":[":violin:"]},{"name":"Rocket","nameUrl":"rocket","emoji":"🚀","unicode":"U+1F680Code","shortNames":[":rocket:"]},{"name":"House","nameUrl":"house","emoji":"🏠","unicode":"U+1F3E0Code","shortNames":[":house:"]},{"name":"Japanese","nameUrl":"japanese-castle","emoji":"🏯","unicode":"U+1F3EFCode","shortNames":[":japanese_castle:"]},{"name":"Bow","nameUrl":"bow-and-arrow","emoji":"🏹","unicode":"U+1F3F9Code","shortNames":[":bow_and_arrow:"]},{"name":"Trumpet","nameUrl":"trumpet","emoji":"🎺","unicode":"U+1F3BACode","shortNames":[":trumpet:"]},{"name":"Bus","nameUrl":"bus-stop","emoji":"🚏","unicode":"U+1F68FCode","shortNames":[":busstop:",":bus_stop:"]},{"name":"Headphone","nameUrl":"headphone","emoji":"🎧","unicode":"U+1F3A7Code","shortNames":[":headphones:",":headphone:"]},{"name":"Saxophone","nameUrl":"saxophone","emoji":"🎷","unicode":"U+1F3B7Code","shortNames":[":saxophone:"]},{"name":"Mirror","nameUrl":"mirror","emoji":"🪞","unicode":"U+1FA9ECode","shortNames":[":mirror:"]},{"name":"Fountain","nameUrl":"fountain-pen","emoji":"🖋️","unicode":"U+1F58B️","shortNames":[":fountain_pen:",":lower_left_fountain_pen:"]},{"name":"Locked","nameUrl":"locked-with-key","emoji":"🔐","unicode":"U+1F510Code","shortNames":[":closed_lock_with_key:",":locked_with_key:"]},{"name":"Spiral","nameUrl":"spiral-calendar","emoji":"🗓️","unicode":"U+1F5D3️","shortNames":[":spiral_calendar:",":spiral_calendar_pad:"]},{"name":"Clamp","nameUrl":"clamp","emoji":"🗜️","unicode":"U+1F5DC️","shortNames":[":clamp:",":compression:"]},{"name":"Ballot","nameUrl":"ballot-box-with-ballot","emoji":"🗳️","unicode":"U+1F5F3️","shortNames":[":ballot_box:",":ballot_box_with_ballot:"]},{"name":"Crossed","nameUrl":"crossed-swords","emoji":"⚔️","unicode":"U+2694️","shortNames":[":crossed_swords:"]},{"name":"Wrench","nameUrl":"wrench","emoji":"🔧","unicode":"U+1F527Code","shortNames":[":wrench:"]},{"name":"Alembic","nameUrl":"alembic","emoji":"⚗️","unicode":"U+2697️","shortNames":[":alembic:"]},{"name":"Coin","nameUrl":"coin","emoji":"🪙","unicode":"U+1FA99Code","shortNames":[":coin:"]},{"name":"Pound","nameUrl":"pound-banknote","emoji":"💷","unicode":"U+1F4B7Code","shortNames":[":pound:",":pound_banknote:"]},{"name":"Chains","nameUrl":"chains","emoji":"⛓️","unicode":"U+26D3️","shortNames":[":chains:"]},{"name":"Pick","nameUrl":"pick","emoji":"⛏️","unicode":"U+26CF️","shortNames":[":pick:"]},{"name":"Steaming","nameUrl":"steaming-bowl","emoji":"🍜","unicode":"U+1F35CCode","shortNames":[":ramen:",":steaming_bowl:"]},{"name":"Bar","nameUrl":"bar-chart","emoji":"📊","unicode":"U+1F4CACode","shortNames":[":bar_chart:"]},{"name":"White","nameUrl":"white-cane","emoji":"🦯","unicode":"U+1F9AFCode","shortNames":[":probing_cane:",":white_cane:"]},{"name":"Bread","nameUrl":"bread","emoji":"🍞","unicode":"U+1F35ECode","shortNames":[":bread:"]},{"name":"Pencil","nameUrl":"pencil","emoji":"✏️","unicode":"U+270F️","shortNames":[":pencil2:",":pencil:"]},{"name":"Gear","nameUrl":"gear","emoji":"⚙️","unicode":"U+2699️","shortNames":[":gear:"]},{"name":"Round","nameUrl":"round-pushpin","emoji":"📍","unicode":"U+1F4CDCode","shortNames":[":round_pushpin:"]},{"name":"Teacup","nameUrl":"teacup-without-handle","emoji":"🍵","unicode":"U+1F375Code","shortNames":[":tea:",":teacup_without_handle:"]},{"name":"Money","nameUrl":"money-bag","emoji":"💰","unicode":"U+1F4B0Code","shortNames":[":moneybag:",":money_bag:"]},{"name":"Test","nameUrl":"test-tube","emoji":"🧪","unicode":"U+1F9EACode","shortNames":[":test_tube:"]},{"name":"Couch","nameUrl":"couch-and-lamp","emoji":"🛋️","unicode":"U+1F6CB️","shortNames":[":couch_and_lamp:"]},{"name":"E-Mail","nameUrl":"e-mail","emoji":"📧","unicode":"U+1F4E7Code","shortNames":[":e-mail:",":e_mail:"]},{"name":"Adhesive","nameUrl":"adhesive-bandage","emoji":"🩹","unicode":"U+1FA79Code","shortNames":[":adhesive_bandage:"]},{"name":"Microscope","nameUrl":"microscope","emoji":"🔬","unicode":"U+1F52CCode","shortNames":[":microscope:"]},{"name":"Magnet","nameUrl":"magnet","emoji":"🧲","unicode":"U+1F9F2Code","shortNames":[":magnet:"]},{"name":"Hammer","nameUrl":"hammer-and-pick","emoji":"⚒️","unicode":"U+2692️","shortNames":[":hammer_and_pick:"]},{"name":"Bed","nameUrl":"bed","emoji":"🛏️","unicode":"U+1F6CF️","shortNames":[":bed:"]},{"name":"Drop","nameUrl":"drop-of-blood","emoji":"🩸","unicode":"U+1FA78Code","shortNames":[":drop_of_blood:"]},{"name":"Petri","nameUrl":"petri-dish","emoji":"🧫","unicode":"U+1F9EBCode","shortNames":[":petri_dish:"]},{"name":"Screwdriver","nameUrl":"screwdriver","emoji":"🪛","unicode":"U+1FA9BCode","shortNames":[":screwdriver:"]},{"name":"Carpentry","nameUrl":"carpentry-saw","emoji":"🪚","unicode":"U+1FA9ACode","shortNames":[":carpentry_saw:"]},{"name":"Balance","nameUrl":"balance-scale","emoji":"⚖️","unicode":"U+2696️","shortNames":[":balance_scale:",":scales:"]},{"name":"Bathtub","nameUrl":"bathtub","emoji":"🛁","unicode":"U+1F6C1Code","shortNames":[":bathtub:"]},{"name":"Boomerang","nameUrl":"boomerang","emoji":"🪃","unicode":"U+1FA83Code","shortNames":[":boomerang:"]},{"name":"Window","nameUrl":"window","emoji":"🪟","unicode":"U+1FA9FCode","shortNames":[":window:"]},{"name":"Paintbrush","nameUrl":"paintbrush","emoji":"🖌️","unicode":"U+1F58C️","shortNames":[":paintbrush:",":lower_left_paintbrush:"]},{"name":"Dollar","nameUrl":"dollar-banknote","emoji":"💵","unicode":"U+1F4B5Code","shortNames":[":dollar:",":dollar_banknote:"]},{"name":"Pill","nameUrl":"pill","emoji":"💊","unicode":"U+1F48ACode","shortNames":[":pill:"]},{"name":"Link","nameUrl":"link","emoji":"🔗","unicode":"U+1F517Code","shortNames":[":link:"]},{"name":"Toilet","nameUrl":"toilet","emoji":"🚽","unicode":"U+1F6BDCode","shortNames":[":toilet:"]},{"name":"Satellite","nameUrl":"satellite-antenna","emoji":"📡","unicode":"U+1F4E1Code","shortNames":[":satellite_antenna:",":satellite:"]},{"name":"Axe","nameUrl":"axe","emoji":"🪓","unicode":"U+1FA93Code","shortNames":[":axe:"]},{"name":"Open","nameUrl":"open-mailbox-with-lowered-flag","emoji":"📭","unicode":"U+1F4EDCode","shortNames":[":mailbox_with_no_mail:",":open_mailbox_with_lowered_flag:"]},{"name":"Bubble","nameUrl":"bubble-tea","emoji":"🧋","unicode":"U+1F9CBCode","shortNames":[":bubble_tea:"]},{"name":"Closed","nameUrl":"closed-mailbox-with-raised-flag","emoji":"📫","unicode":"U+1F4EBCode","shortNames":[":mailbox:",":closed_mailbox_with_raised_flag:"]},{"name":"Cooked","nameUrl":"cooked-rice","emoji":"🍚","unicode":"U+1F35ACode","shortNames":[":rice:",":cooked_rice:"]},{"name":"Camera","nameUrl":"camera-with-flash","emoji":"📸","unicode":"U+1F4F8Code","shortNames":[":camera_with_flash:",":camera_flash:"]},{"name":"Hammer","nameUrl":"hammer-and-wrench","emoji":"🛠️","unicode":"U+1F6E0️","shortNames":[":hammer_and_wrench:"]},{"name":"Plunger","nameUrl":"plunger","emoji":"🪠","unicode":"U+1FAA0Code","shortNames":[":plunger:"]},{"name":"Tumbler","nameUrl":"tumbler-glass","emoji":"🥃","unicode":"U+1F943Code","shortNames":[":tumbler_glass:"]},{"name":"Open","nameUrl":"open-mailbox-with-raised-flag","emoji":"📬","unicode":"U+1F4ECCode","shortNames":[":mailbox_with_mail:",":open_mailbox_with_raised_flag:"]},{"name":"Scissors","nameUrl":"scissors","emoji":"✂️","unicode":"U+2702️","shortNames":[":scissors:"]},{"name":"Computer","nameUrl":"computer-mouse","emoji":"🖱️","unicode":"U+1F5B1️","shortNames":[":computer_mouse:",":three_button_mouse:"]},{"name":"Baguette","nameUrl":"baguette-bread","emoji":"🥖","unicode":"U+1F956Code","shortNames":[":baguette_bread:"]},{"name":"Bookmark","nameUrl":"bookmark-tabs","emoji":"📑","unicode":"U+1F4D1Code","shortNames":[":bookmark_tabs:"]},{"name":"Card","nameUrl":"card-file-box","emoji":"🗃️","unicode":"U+1F5C3️","shortNames":[":card_file_box:"]},{"name":"Receipt","nameUrl":"receipt","emoji":"🧾","unicode":"U+1F9FECode","shortNames":[":receipt:"]},{"name":"Door","nameUrl":"door","emoji":"🚪","unicode":"U+1F6AACode","shortNames":[":door:"]},{"name":"Desktop","nameUrl":"desktop-computer","emoji":"🖥️","unicode":"U+1F5A5️","shortNames":[":desktop_computer:"]},{"name":"Pager","nameUrl":"pager","emoji":"📟","unicode":"U+1F4DFCode","shortNames":[":pager:"]},{"name":"Black","nameUrl":"black-nib","emoji":"✒️","unicode":"U+2712️","shortNames":[":black_nib:"]},{"name":"Hammer","nameUrl":"hammer","emoji":"🔨","unicode":"U+1F528Code","shortNames":[":hammer:"]},{"name":"Magnifying","nameUrl":"magnifying-glass-tilted-left","emoji":"🔍","unicode":"U+1F50DCode","shortNames":[":mag:",":magnifying_glass_tilted_left:"]},{"name":"Pen","nameUrl":"pen","emoji":"🖊️","unicode":"U+1F58A️","shortNames":[":pen:",":lower_left_ballpoint_pen:"]},{"name":"Open","nameUrl":"open-book","emoji":"📖","unicode":"U+1F4D6Code","shortNames":[":open_book:",":book:"]},{"name":"Straight","nameUrl":"straight-ruler","emoji":"📏","unicode":"U+1F4CFCode","shortNames":[":straight_ruler:"]},{"name":"Syringe","nameUrl":"syringe","emoji":"💉","unicode":"U+1F489Code","shortNames":[":syringe:"]},{"name":"Nut","nameUrl":"nut-and-bolt","emoji":"🔩","unicode":"U+1F529Code","shortNames":[":nut_and_bolt:"]},{"name":"Triangular","nameUrl":"triangular-ruler","emoji":"📐","unicode":"U+1F4D0Code","shortNames":[":triangular_ruler:"]},{"name":"Locked","nameUrl":"locked-with-pen","emoji":"🔏","unicode":"U+1F50FCode","shortNames":[":lock_with_ink_pen:",":locked_with_pen:"]},{"name":"DNA","nameUrl":"dna","emoji":"🧬","unicode":"U+1F9ECCode","shortNames":[":dna:"]},{"name":"Card","nameUrl":"card-index-dividers","emoji":"🗂️","unicode":"U+1F5C2️","shortNames":[":card_index_dividers:"]},{"name":"Watermelon","nameUrl":"watermelon","emoji":"🍉","unicode":"U+1F349Code","shortNames":[":watermelon:"]},{"name":"DVD","nameUrl":"dvd","emoji":"📀","unicode":"U+1F4C0Code","shortNames":[":dvd:"]},{"name":"Locked","nameUrl":"locked","emoji":"🔒","unicode":"U+1F512Code","shortNames":[":lock:",":locked:"]},{"name":"Clipboard","nameUrl":"clipboard","emoji":"📋","unicode":"U+1F4CBCode","shortNames":[":clipboard:"]},{"name":"Pineapple","nameUrl":"pineapple","emoji":"🍍","unicode":"U+1F34DCode","shortNames":[":pineapple:"]},{"name":"Linked","nameUrl":"linked-paperclips","emoji":"🖇️","unicode":"U+1F587️","shortNames":[":linked_paperclips:",":paperclips:"]},{"name":"Chair","nameUrl":"chair","emoji":"🪑","unicode":"U+1FA91Code","shortNames":[":chair:"]},{"name":"Chart","nameUrl":"chart-decreasing","emoji":"📉","unicode":"U+1F4C9Code","shortNames":[":chart_decreasing:",":chart_with_downwards_trend:"]},{"name":"Television","nameUrl":"television","emoji":"📺","unicode":"U+1F4FACode","shortNames":[":tv:",":television:"]},{"name":"Toolbox","nameUrl":"toolbox","emoji":"🧰","unicode":"U+1F9F0Code","shortNames":[":toolbox:"]},{"name":"Fried","nameUrl":"fried-shrimp","emoji":"🍤","unicode":"U+1F364Code","shortNames":[":fried_shrimp:"]},{"name":"Ladder","nameUrl":"ladder","emoji":"🪜","unicode":"U+1FA9CCode","shortNames":[":ladder:"]},{"name":"Hook","nameUrl":"hook","emoji":"🪝","unicode":"U+1FA9DCode","shortNames":[":hook:"]},{"name":"Calendar","nameUrl":"calendar","emoji":"📅","unicode":"U+1F4C5Code","shortNames":[":date:",":calendar:"]},{"name":"Newspaper","nameUrl":"newspaper","emoji":"📰","unicode":"U+1F4F0Code","shortNames":[":newspaper:"]},{"name":"Stethoscope","nameUrl":"stethoscope","emoji":"🩺","unicode":"U+1FA7ACode","shortNames":[":stethoscope:"]},{"name":"Trackball","nameUrl":"trackball","emoji":"🖲️","unicode":"U+1F5B2️","shortNames":[":trackball:"]},{"name":"Hot","nameUrl":"hot-beverage","emoji":"☕","unicode":"U+2615Code","shortNames":[":coffee:",":hot_beverage:"]},{"name":"Pie","nameUrl":"pie","emoji":"🥧","unicode":"U+1F967Code","shortNames":[":pie:"]},{"name":"Wastebasket","nameUrl":"wastebasket","emoji":"🗑️","unicode":"U+1F5D1️","shortNames":[":wastebasket:"]},{"name":"Pizza","nameUrl":"pizza","emoji":"🍕","unicode":"U+1F355Code","shortNames":[":pizza:"]},{"name":"Taco","nameUrl":"taco","emoji":"🌮","unicode":"U+1F32ECode","shortNames":[":taco:"]},{"name":"Shield","nameUrl":"shield","emoji":"🛡️","unicode":"U+1F6E1️","shortNames":[":shield:"]},{"name":"Strawberry","nameUrl":"strawberry","emoji":"🍓","unicode":"U+1F353Code","shortNames":[":strawberry:"]},{"name":"Peach","nameUrl":"peach","emoji":"🍑","unicode":"U+1F351Code","shortNames":[":peach:"]},{"name":"Film","nameUrl":"film-projector","emoji":"📽️","unicode":"U+1F4FD️","shortNames":[":film_projector:"]},{"name":"Roasted","nameUrl":"roasted-sweet-potato","emoji":"🍠","unicode":"U+1F360Code","shortNames":[":sweet_potato:",":roasted_sweet_potato:"]},{"name":"Telescope","nameUrl":"telescope","emoji":"🔭","unicode":"U+1F52DCode","shortNames":[":telescope:"]},{"name":"Orange","nameUrl":"orange-book","emoji":"📙","unicode":"U+1F4D9Code","shortNames":[":orange_book:"]},{"name":"Dagger","nameUrl":"dagger","emoji":"🗡️","unicode":"U+1F5E1️","shortNames":[":dagger:",":dagger_knife:"]},{"name":"Bookmark","nameUrl":"bookmark","emoji":"🔖","unicode":"U+1F516Code","shortNames":[":bookmark:"]},{"name":"Package","nameUrl":"package","emoji":"📦","unicode":"U+1F4E6Code","shortNames":[":package:"]},{"name":"Cocktail","nameUrl":"cocktail-glass","emoji":"🍸","unicode":"U+1F378Code","shortNames":[":cocktail:",":cocktail_glass:"]},{"name":"Inbox","nameUrl":"inbox-tray","emoji":"📥","unicode":"U+1F4E5Code","shortNames":[":inbox_tray:"]},{"name":"Shower","nameUrl":"shower","emoji":"🚿","unicode":"U+1F6BFCode","shortNames":[":shower:"]},{"name":"Beverage","nameUrl":"beverage-box","emoji":"🧃","unicode":"U+1F9C3Code","shortNames":[":beverage_box:"]},{"name":"Yen","nameUrl":"yen-banknote","emoji":"💴","unicode":"U+1F4B4Code","shortNames":[":yen:",":yen_banknote:"]},{"name":"Teapot","nameUrl":"teapot","emoji":"🫖","unicode":"U+1FAD6Code","shortNames":[":teapot:"]},{"name":"Sandwich","nameUrl":"sandwich","emoji":"🥪","unicode":"U+1F96ACode","shortNames":[":sandwich:"]},{"name":"Peanuts","nameUrl":"peanuts","emoji":"🥜","unicode":"U+1F95CCode","shortNames":[":peanuts:"]},{"name":"Scroll","nameUrl":"scroll","emoji":"📜","unicode":"U+1F4DCCode","shortNames":[":scroll:"]},{"name":"Card","nameUrl":"card-index","emoji":"📇","unicode":"U+1F4C7Code","shortNames":[":card_index:"]},{"name":"Credit","nameUrl":"credit-card","emoji":"💳","unicode":"U+1F4B3Code","shortNames":[":credit_card:"]},{"name":"Notebook","nameUrl":"notebook-with-decorative-cover","emoji":"📔","unicode":"U+1F4D4Code","shortNames":[":notebook_with_decorative_cover:"]},{"name":"Olive","nameUrl":"olive","emoji":"🫒","unicode":"U+1FAD2Code","shortNames":[":olive:"]},{"name":"Mate","nameUrl":"mate","emoji":"🧉","unicode":"U+1F9C9Code","shortNames":[":mate:",":mate_drink:"]},{"name":"Bacon","nameUrl":"bacon","emoji":"🥓","unicode":"U+1F953Code","shortNames":[":bacon:"]},{"name":"Onion","nameUrl":"onion","emoji":"🧅","unicode":"U+1F9C5Code","shortNames":[":onion:"]},{"name":"Croissant","nameUrl":"croissant","emoji":"🥐","unicode":"U+1F950Code","shortNames":[":croissant:"]},{"name":"Memo","nameUrl":"memo","emoji":"📝","unicode":"U+1F4DDCode","shortNames":[":memo:",":pencil:"]},{"name":"Falafel","nameUrl":"falafel","emoji":"🧆","unicode":"U+1F9C6Code","shortNames":[":falafel:"]},{"name":"Bowl","nameUrl":"bowl-with-spoon","emoji":"🥣","unicode":"U+1F963Code","shortNames":[":bowl_with_spoon:"]},{"name":"Chart","nameUrl":"chart-increasing","emoji":"📈","unicode":"U+1F4C8Code","shortNames":[":chart_with_upwards_trend:",":chart_increasing:"]},{"name":"Cup","nameUrl":"cup-with-straw","emoji":"🥤","unicode":"U+1F964Code","shortNames":[":cup_with_straw:"]},{"name":"Dumpling","nameUrl":"dumpling","emoji":"🥟","unicode":"U+1F95FCode","shortNames":[":dumpling:"]},{"name":"Fortune","nameUrl":"fortune-cookie","emoji":"🥠","unicode":"U+1F960Code","shortNames":[":fortune_cookie:"]},{"name":"Crayon","nameUrl":"crayon","emoji":"🖍️","unicode":"U+1F58D️","shortNames":[":crayon:",":lower_left_crayon:"]},{"name":"Label","nameUrl":"label","emoji":"🏷️","unicode":"U+1F3F7️","shortNames":[":label:"]},{"name":"Rice","nameUrl":"rice-cracker","emoji":"🍘","unicode":"U+1F358Code","shortNames":[":rice_cracker:"]},{"name":"Chopsticks","nameUrl":"chopsticks","emoji":"🥢","unicode":"U+1F962Code","shortNames":[":chopsticks:"]},{"name":"Ice","nameUrl":"ice-cream","emoji":"🍨","unicode":"U+1F368Code","shortNames":[":ice_cream:"]},{"name":"Clinking","nameUrl":"clinking-glasses","emoji":"🥂","unicode":"U+1F942Code","shortNames":[":clinking_glasses:"]},{"name":"File","nameUrl":"file-folder","emoji":"📁","unicode":"U+1F4C1Code","shortNames":[":file_folder:"]},{"name":"Chestnut","nameUrl":"chestnut","emoji":"🌰","unicode":"U+1F330Code","shortNames":[":chestnut:"]},{"name":"Cookie","nameUrl":"cookie","emoji":"🍪","unicode":"U+1F36ACode","shortNames":[":cookie:"]},{"name":"Paperclip","nameUrl":"paperclip","emoji":"📎","unicode":"U+1F4CECode","shortNames":[":paperclip:"]},{"name":"Shaved","nameUrl":"shaved-ice","emoji":"🍧","unicode":"U+1F367Code","shortNames":[":shaved_ice:"]},{"name":"Money","nameUrl":"money-with-wings","emoji":"💸","unicode":"U+1F4B8Code","shortNames":[":money_with_wings:"]},{"name":"Flashlight","nameUrl":"flashlight","emoji":"🔦","unicode":"U+1F526Code","shortNames":[":flashlight:"]},{"name":"Pistol","nameUrl":"pistol","emoji":"🔫","unicode":"U+1F52BCode","shortNames":[":gun:",":pistol:"]},{"name":"Doughnut","nameUrl":"doughnut","emoji":"🍩","unicode":"U+1F369Code","shortNames":[":doughnut:"]},{"name":"Unlocked","nameUrl":"unlocked","emoji":"🔓","unicode":"U+1F513Code","shortNames":[":unlock:",":unlocked:"]},{"name":"File","nameUrl":"file-cabinet","emoji":"🗄️","unicode":"U+1F5C4️","shortNames":[":file_cabinet:"]},{"name":"Open","nameUrl":"open-file-folder","emoji":"📂","unicode":"U+1F4C2Code","shortNames":[":open_file_folder:"]},{"name":"Euro","nameUrl":"euro-banknote","emoji":"💶","unicode":"U+1F4B6Code","shortNames":[":euro:",":euro_banknote:"]},{"name":"Envelope","nameUrl":"envelope-with-arrow","emoji":"📩","unicode":"U+1F4E9Code","shortNames":[":envelope_with_arrow:"]},{"name":"Outbox","nameUrl":"outbox-tray","emoji":"📤","unicode":"U+1F4E4Code","shortNames":[":outbox_tray:"]},{"name":"Flatbread","nameUrl":"flatbread","emoji":"🫓","unicode":"U+1FAD3Code","shortNames":[":flatbread:"]},{"name":"Garlic","nameUrl":"garlic","emoji":"🧄","unicode":"U+1F9C4Code","shortNames":[":garlic:"]},{"name":"Bagel","nameUrl":"bagel","emoji":"🥯","unicode":"U+1F96FCode","shortNames":[":bagel:"]},{"name":"Computer","nameUrl":"computer-disk","emoji":"💽","unicode":"U+1F4BDCode","shortNames":[":minidisc:",":computer_disk:"]},{"name":"Old","nameUrl":"old-key","emoji":"🗝️","unicode":"U+1F5DD️","shortNames":[":old_key:"]},{"name":"Broccoli","nameUrl":"broccoli","emoji":"🥦","unicode":"U+1F966Code","shortNames":[":broccoli:"]},{"name":"Green","nameUrl":"green-salad","emoji":"🥗","unicode":"U+1F957Code","shortNames":[":green_salad:"]},{"name":"Bottle","nameUrl":"bottle-with-popping-cork","emoji":"🍾","unicode":"U+1F37ECode","shortNames":[":champagne:",":bottle_with_popping_cork:"]},{"name":"Glass","nameUrl":"glass-of-milk","emoji":"🥛","unicode":"U+1F95BCode","shortNames":[":glass_of_milk:",":milk_glass:"]},{"name":"Pretzel","nameUrl":"pretzel","emoji":"🥨","unicode":"U+1F968Code","shortNames":[":pretzel:"]},{"name":"Pushpin","nameUrl":"pushpin","emoji":"📌","unicode":"U+1F4CCCode","shortNames":[":pushpin:"]},{"name":"Fondue","nameUrl":"fondue","emoji":"🫕","unicode":"U+1FAD5Code","shortNames":[":fondue:"]},{"name":"Moon","nameUrl":"moon-cake","emoji":"🥮","unicode":"U+1F96ECode","shortNames":[":moon_cake:"]},{"name":"Spoon","nameUrl":"spoon","emoji":"🥄","unicode":"U+1F944Code","shortNames":[":spoon:"]},{"name":"Cupcake","nameUrl":"cupcake","emoji":"🧁","unicode":"U+1F9C1Code","shortNames":[":cupcake:"]},{"name":"Baby","nameUrl":"baby-bottle","emoji":"🍼","unicode":"U+1F37CCode","shortNames":[":baby_bottle:"]},{"name":"Oyster","nameUrl":"oyster","emoji":"🦪","unicode":"U+1F9AACode","shortNames":[":oyster:"]},{"name":"Leafy","nameUrl":"leafy-green","emoji":"🥬","unicode":"U+1F96CCode","shortNames":[":leafy_green:"]},{"name":"Chocolate","nameUrl":"chocolate-bar","emoji":"🍫","unicode":"U+1F36BCode","shortNames":[":chocolate_bar:"]},{"name":"Curry","nameUrl":"curry-rice","emoji":"🍛","unicode":"U+1F35BCode","shortNames":[":curry:",":curry_rice:"]},{"name":"Butter","nameUrl":"butter","emoji":"🧈","unicode":"U+1F9C8Code","shortNames":[":butter:"]},{"name":"Telephone","nameUrl":"telephone-receiver","emoji":"📞","unicode":"U+1F4DECode","shortNames":[":telephone_receiver:"]},{"name":"Burrito","nameUrl":"burrito","emoji":"🌯","unicode":"U+1F32FCode","shortNames":[":burrito:"]},{"name":"Fork","nameUrl":"fork-and-knife","emoji":"🍴","unicode":"U+1F374Code","shortNames":[":fork_and_knife:"]},{"name":"Spiral","nameUrl":"spiral-notepad","emoji":"🗒️","unicode":"U+1F5D2️","shortNames":[":spiral_notepad:",":spiral_note_pad:"]},{"name":"Hot","nameUrl":"hot-pepper","emoji":"🌶️","unicode":"U+1F336️","shortNames":[":hot_pepper:"]},{"name":"Stuffed","nameUrl":"stuffed-flatbread","emoji":"🥙","unicode":"U+1F959Code","shortNames":[":stuffed_flatbread:"]},{"name":"Tangerine","nameUrl":"tangerine","emoji":"🍊","unicode":"U+1F34ACode","shortNames":[":tangerine:",":orange:",":mandarin:"]},{"name":"Rice","nameUrl":"rice-ball","emoji":"🍙","unicode":"U+1F359Code","shortNames":[":rice_ball:"]},{"name":"Cooking","nameUrl":"cooking","emoji":"🍳","unicode":"U+1F373Code","shortNames":[":cooking:",":fried_egg:"]},{"name":"Fish","nameUrl":"fish-cake-with-swirl","emoji":"🍥","unicode":"U+1F365Code","shortNames":[":fish_cake:",":fish_cake_with_swirl:"]},{"name":"Shortcake","nameUrl":"shortcake","emoji":"🍰","unicode":"U+1F370Code","shortNames":[":cake:",":shortcake:"]},{"name":"Salt","nameUrl":"salt","emoji":"🧂","unicode":"U+1F9C2Code","shortNames":[":salt:"]},{"name":"Cut","nameUrl":"cut-of-meat","emoji":"🥩","unicode":"U+1F969Code","shortNames":[":cut_of_meat:"]},{"name":"Poultry","nameUrl":"poultry-leg","emoji":"🍗","unicode":"U+1F357Code","shortNames":[":poultry_leg:"]},{"name":"Pot","nameUrl":"pot-of-food","emoji":"🍲","unicode":"U+1F372Code","shortNames":[":stew:",":pot_of_food:"]},{"name":"Canned","nameUrl":"canned-food","emoji":"🥫","unicode":"U+1F96BCode","shortNames":[":canned_food:"]},{"name":"Takeout","nameUrl":"takeout-box","emoji":"🥡","unicode":"U+1F961Code","shortNames":[":takeout_box:"]},{"name":"Hot","nameUrl":"hot-dog","emoji":"🌭","unicode":"U+1F32DCode","shortNames":[":hotdog:",":hot_dog:"]},{"name":"Popcorn","nameUrl":"popcorn","emoji":"🍿","unicode":"U+1F37FCode","shortNames":[":popcorn:"]},{"name":"Pancakes","nameUrl":"pancakes","emoji":"🥞","unicode":"U+1F95ECode","shortNames":[":pancakes:"]},{"name":"Meat","nameUrl":"meat-on-bone","emoji":"🍖","unicode":"U+1F356Code","shortNames":[":meat_on_bone:"]},{"name":"Spaghetti","nameUrl":"spaghetti","emoji":"🍝","unicode":"U+1F35DCode","shortNames":[":spaghetti:"]},{"name":"Melon","nameUrl":"melon","emoji":"🍈","unicode":"U+1F348Code","shortNames":[":melon:"]},{"name":"Bento","nameUrl":"bento-box","emoji":"🍱","unicode":"U+1F371Code","shortNames":[":bento:",":bento_box:"]},{"name":"Soft","nameUrl":"soft-ice-cream","emoji":"🍦","unicode":"U+1F366Code","shortNames":[":icecream:",":soft_ice_cream:"]},{"name":"Custard","nameUrl":"custard","emoji":"🍮","unicode":"U+1F36ECode","shortNames":[":custard:"]},{"name":"Tamale","nameUrl":"tamale","emoji":"🫔","unicode":"U+1FAD4Code","shortNames":[":tamale:"]},{"name":"Rolled-Up","nameUrl":"rolled-up-newspaper","emoji":"🗞️","unicode":"U+1F5DE️","shortNames":[":rolled_up_newspaper:",":newspaper_roll:"]},{"name":"Cheese","nameUrl":"cheese-wedge","emoji":"🧀","unicode":"U+1F9C0Code","shortNames":[":cheese_wedge:",":cheese:"]},{"name":"Fork","nameUrl":"fork-and-knife-with-plate","emoji":"🍽️","unicode":"U+1F37D️","shortNames":[":knife_fork_plate:",":plate_with_cutlery:",":fork_and_knife_with_plate:"]},{"name":"Tear-Off","nameUrl":"tear-off-calendar","emoji":"📆","unicode":"U+1F4C6Code","shortNames":[":calendar:",":tear_off_calendar:"]},{"name":"Candy","nameUrl":"candy","emoji":"🍬","unicode":"U+1F36CCode","shortNames":[":candy:"]},{"name":"Lollipop","nameUrl":"lollipop","emoji":"🍭","unicode":"U+1F36DCode","shortNames":[":lollipop:"]},{"name":"Hamburger","nameUrl":"hamburger","emoji":"🍔","unicode":"U+1F354Code","shortNames":[":hamburger:"]},{"name":"Shallow","nameUrl":"shallow-pan-of-food","emoji":"🥘","unicode":"U+1F958Code","shortNames":[":shallow_pan_of_food:"]},{"name":"Birthday","nameUrl":"birthday-cake","emoji":"🎂","unicode":"U+1F382Code","shortNames":[":birthday:",":birthday_cake:"]},{"name":"Clinking","nameUrl":"clinking-beer-mugs","emoji":"🍻","unicode":"U+1F37BCode","shortNames":[":beers:",":clinking_beer_mugs:"]},{"name":"Envelope","nameUrl":"envelope","emoji":"✉️","unicode":"U+2709️","shortNames":[":envelope:",":email:"]},{"name":"Lemon","nameUrl":"lemon","emoji":"🍋","unicode":"U+1F34BCode","shortNames":[":lemon:"]},{"name":"Wine","nameUrl":"wine-glass","emoji":"🍷","unicode":"U+1F377Code","shortNames":[":wine_glass:"]},{"name":"Mushroom","nameUrl":"mushroom","emoji":"🍄","unicode":"U+1F344Code","shortNames":[":mushroom:"]},{"name":"Beer","nameUrl":"beer-mug","emoji":"🍺","unicode":"U+1F37ACode","shortNames":[":beer:",":beer_mug:"]},{"name":"Incoming","nameUrl":"incoming-envelope","emoji":"📨","unicode":"U+1F4E8Code","shortNames":[":incoming_envelope:"]},{"name":"Red","nameUrl":"red-paper-lantern","emoji":"🏮","unicode":"U+1F3EECode","shortNames":[":lantern:",":izakaya_lantern:",":red_paper_lantern:"]},{"name":"Video","nameUrl":"video-camera","emoji":"📹","unicode":"U+1F4F9Code","shortNames":[":video_camera:"]},{"name":"Sushi","nameUrl":"sushi","emoji":"🍣","unicode":"U+1F363Code","shortNames":[":sushi:"]},{"name":"Page","nameUrl":"page-facing-up","emoji":"📄","unicode":"U+1F4C4Code","shortNames":[":page_facing_up:"]},{"name":"Closed","nameUrl":"closed-mailbox-with-lowered-flag","emoji":"📪","unicode":"U+1F4EACode","shortNames":[":mailbox_closed:",":closed_mailbox_with_lowered_flag:"]},{"name":"Oden","nameUrl":"oden","emoji":"🍢","unicode":"U+1F362Code","shortNames":[":oden:"]},{"name":"Telephone","nameUrl":"telephone","emoji":"☎️","unicode":"U+260E️","shortNames":[":telephone:",":phone:"]},{"name":"Sake","nameUrl":"sake","emoji":"🍶","unicode":"U+1F376Code","shortNames":[":sake:"]},{"name":"Postbox","nameUrl":"postbox","emoji":"📮","unicode":"U+1F4EECode","shortNames":[":postbox:"]},{"name":"Key","nameUrl":"key","emoji":"🔑","unicode":"U+1F511Code","shortNames":[":key:"]},{"name":"Ledger","nameUrl":"ledger","emoji":"📒","unicode":"U+1F4D2Code","shortNames":[":ledger:"]},{"name":"Film","nameUrl":"film-frames","emoji":"🎞️","unicode":"U+1F39E️","shortNames":[":film_frames:",":film_strip:"]},{"name":"Abacus","nameUrl":"abacus","emoji":"🧮","unicode":"U+1F9EECode","shortNames":[":abacus:"]},{"name":"Printer","nameUrl":"printer","emoji":"🖨️","unicode":"U+1F5A8️","shortNames":[":printer:"]},{"name":"Keyboard","nameUrl":"keyboard","emoji":"⌨️","unicode":"U+2328️","shortNames":[":keyboard:"]},{"name":"Diya","nameUrl":"diya-lamp","emoji":"🪔","unicode":"U+1FA94Code","shortNames":[":diya_lamp:"]},{"name":"Battery","nameUrl":"battery","emoji":"🔋","unicode":"U+1F50BCode","shortNames":[":battery:"]},{"name":"Books","nameUrl":"books","emoji":"📚","unicode":"U+1F4DACode","shortNames":[":books:"]},{"name":"Fax","nameUrl":"fax-machine","emoji":"📠","unicode":"U+1F4E0Code","shortNames":[":fax:",":fax_machine:"]},{"name":"Candle","nameUrl":"candle","emoji":"🕯️","unicode":"U+1F56F️","shortNames":[":candle:"]},{"name":"Floppy","nameUrl":"floppy-disk","emoji":"💾","unicode":"U+1F4BECode","shortNames":[":floppy_disk:"]},{"name":"Camera","nameUrl":"camera","emoji":"📷","unicode":"U+1F4F7Code","shortNames":[":camera:"]},{"name":"Optical","nameUrl":"optical-disk","emoji":"💿","unicode":"U+1F4BFCode","shortNames":[":cd:",":optical_disk:"]},{"name":"Light","nameUrl":"light-bulb","emoji":"💡","unicode":"U+1F4A1Code","shortNames":[":bulb:",":light_bulb:"]},{"name":"Laptop","nameUrl":"laptop","emoji":"💻","unicode":"U+1F4BBCode","shortNames":[":computer:",":laptop:"]},{"name":"Notebook","nameUrl":"notebook","emoji":"📓","unicode":"U+1F4D3Code","shortNames":[":notebook:"]},{"name":"Closed","nameUrl":"closed-book","emoji":"📕","unicode":"U+1F4D5Code","shortNames":[":closed_book:"]},{"name":"Blue","nameUrl":"blue-book","emoji":"📘","unicode":"U+1F4D8Code","shortNames":[":blue_book:"]},{"name":"Magnifying","nameUrl":"magnifying-glass-tilted-right","emoji":"🔎","unicode":"U+1F50ECode","shortNames":[":mag_right:",":magnifying_glass_tilted_right:"]},{"name":"Green","nameUrl":"green-book","emoji":"📗","unicode":"U+1F4D7Code","shortNames":[":green_book:"]},{"name":"Electric","nameUrl":"electric-plug","emoji":"🔌","unicode":"U+1F50CCode","shortNames":[":electric_plug:"]},{"name":"Page","nameUrl":"page-with-curl","emoji":"📃","unicode":"U+1F4C3Code","shortNames":[":page_with_curl:"]},{"name":"Pound","nameUrl":"pound-banknote","emoji":"💷","unicode":"U+1F4B7Code","shortNames":[":pound:",":pound_banknote:"]},{"name":"Compass","nameUrl":"compass","emoji":"🧭","unicode":"U+1F9EDCode","shortNames":[":compass:"]}]
+[
+  {
+    "name": "Upside-Down",
+    "nameUrl": "upside-down-face",
+    "emoji": "🙃",
+    "unicode": "U+1F643Code",
+    "shortNames": [":upside_down_face:"]
+  },
+  {
+    "name": "Smiling",
+    "nameUrl": "smiling-face-with-tear",
+    "emoji": "🥲",
+    "unicode": "U+1F972Code",
+    "shortNames": [":smiling_face_with_tear:"]
+  },
+  {
+    "name": "Rolling",
+    "nameUrl": "rolling-on-the-floor-laughing",
+    "emoji": "🤣",
+    "unicode": "U+1F923Code",
+    "shortNames": [":rofl:", ":rolling_on_the_floor_laughing:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-exhaling",
+    "emoji": "😮‍💨",
+    "unicode": "U+1F62E‍",
+    "shortNames": []
+  },
+  {
+    "name": "Pleading",
+    "nameUrl": "pleading-face",
+    "emoji": "🥺",
+    "unicode": "U+1F97ACode",
+    "shortNames": [":pleading_face:"]
+  },
+  {
+    "name": "Hushed",
+    "nameUrl": "hushed-face",
+    "emoji": "😯",
+    "unicode": "U+1F62FCode",
+    "shortNames": [":hushed:", ":hushed_face:"]
+  },
+  {
+    "name": "Grinning",
+    "nameUrl": "grinning-cat",
+    "emoji": "😺",
+    "unicode": "U+1F63ACode",
+    "shortNames": [":smiley_cat:", ":grinning_cat:"]
+  },
+  {
+    "name": "Slightly",
+    "nameUrl": "slightly-smiling-face",
+    "emoji": "🙂",
+    "unicode": "U+1F642Code",
+    "shortNames": [":slightly_smiling_face:"]
+  },
+  {
+    "name": "Smiling",
+    "nameUrl": "smiling-face-with-halo",
+    "emoji": "😇",
+    "unicode": "U+1F607Code",
+    "shortNames": [":innocent:", ":smiling_face_with_halo:"]
+  },
+  {
+    "name": "Grinning",
+    "nameUrl": "grinning-face-with-big-eyes",
+    "emoji": "😃",
+    "unicode": "U+1F603Code",
+    "shortNames": [":smiley:", ":grinning_face_with_big_eyes:"]
+  },
+  {
+    "name": "Flushed",
+    "nameUrl": "flushed-face",
+    "emoji": "😳",
+    "unicode": "U+1F633Code",
+    "shortNames": [":flushed:", ":flushed_face:"]
+  },
+  {
+    "name": "Loudly",
+    "nameUrl": "loudly-crying-face",
+    "emoji": "😭",
+    "unicode": "U+1F62DCode",
+    "shortNames": [":sob:", ":loudly_crying_face:"]
+  },
+  {
+    "name": "Astonished",
+    "nameUrl": "astonished-face",
+    "emoji": "😲",
+    "unicode": "U+1F632Code",
+    "shortNames": [":astonished:", ":astonished_face:"]
+  },
+  {
+    "name": "Person",
+    "nameUrl": "person-shrugging",
+    "emoji": "🤷",
+    "unicode": "U+1F937Code",
+    "shortNames": [":shrug:", ":person_shrugging:"]
+  },
+  {
+    "name": "Couple",
+    "nameUrl": "couple-with-heart",
+    "emoji": "💑",
+    "unicode": "U+1F491Code",
+    "shortNames": [":couple_with_heart:"]
+  },
+  {
+    "name": "Robot",
+    "nameUrl": "robot",
+    "emoji": "🤖",
+    "unicode": "U+1F916Code",
+    "shortNames": [":robot:", ":robot_face:"]
+  },
+  {
+    "name": "Person",
+    "nameUrl": "person-gesturing-ok",
+    "emoji": "🙆",
+    "unicode": "U+1F646Code",
+    "shortNames": [":ok_woman:", ":ok_person:", ":person_gesturing_ok:"]
+  },
+  {
+    "name": "Raising",
+    "nameUrl": "raising-hands",
+    "emoji": "🙌",
+    "unicode": "U+1F64CCode",
+    "shortNames": [":raised_hands:", ":raising_hands:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-with-symbols-on-mouth",
+    "emoji": "🤬",
+    "unicode": "U+1F92CCode",
+    "shortNames": [
+      ":cursing_face:",
+      ":face_with_symbols_on_mouth:",
+      ":serious_face_with_symbols_covering_mouth:"
+    ]
+  },
+  {
+    "name": "Grinning",
+    "nameUrl": "grinning-face-with-sweat",
+    "emoji": "😅",
+    "unicode": "U+1F605Code",
+    "shortNames": [":sweat_smile:", ":grinning_face_with_sweat:"]
+  },
+  {
+    "name": "Smiling",
+    "nameUrl": "smiling-face-with-heart-eyes",
+    "emoji": "😍",
+    "unicode": "U+1F60DCode",
+    "shortNames": [":heart_eyes:", ":smiling_face_with_heart_eyes:"]
+  },
+  {
+    "name": "Hugging",
+    "nameUrl": "hugging-face",
+    "emoji": "🤗",
+    "unicode": "U+1F917Code",
+    "shortNames": [":hugging_face:", ":hugs:"]
+  },
+  {
+    "name": "Smiling",
+    "nameUrl": "smiling-face-with-hearts",
+    "emoji": "🥰",
+    "unicode": "U+1F970Code",
+    "shortNames": [
+      ":smiling_face_with_hearts:",
+      ":smiling_face_with_3_hearts:",
+      ":smiling_face_with_three_hearts:"
+    ]
+  },
+  {
+    "name": "Pensive",
+    "nameUrl": "pensive-face",
+    "emoji": "😔",
+    "unicode": "U+1F614Code",
+    "shortNames": [":pensive:", ":pensive_face:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-with-medical-mask",
+    "emoji": "😷",
+    "unicode": "U+1F637Code",
+    "shortNames": [":mask:", ":face_with_medical_mask:"]
+  },
+  {
+    "name": "Smiling",
+    "nameUrl": "smiling-face-with-sunglasses",
+    "emoji": "😎",
+    "unicode": "U+1F60ECode",
+    "shortNames": [":sunglasses:", ":smiling_face_with_sunglasses:"]
+  },
+  {
+    "name": "Partying",
+    "nameUrl": "partying-face",
+    "emoji": "🥳",
+    "unicode": "U+1F973Code",
+    "shortNames": [":partying_face:"]
+  },
+  {
+    "name": "OK",
+    "nameUrl": "ok-hand",
+    "emoji": "👌",
+    "unicode": "U+1F44CCode",
+    "shortNames": [":ok_hand:"]
+  },
+  {
+    "name": "Pile",
+    "nameUrl": "pile-of-poo",
+    "emoji": "💩",
+    "unicode": "U+1F4A9Code",
+    "shortNames": [":poop:", ":shit:", ":hankey:", ":pile_of_poo:"]
+  },
+  {
+    "name": "Smiling",
+    "nameUrl": "smiling-face-with-horns",
+    "emoji": "😈",
+    "unicode": "U+1F608Code",
+    "shortNames": [":smiling_imp:", ":smiling_face_with_horns:"]
+  },
+  {
+    "name": "Weary",
+    "nameUrl": "weary-face",
+    "emoji": "😩",
+    "unicode": "U+1F629Code",
+    "shortNames": [":weary:", ":weary_face:"]
+  },
+  {
+    "name": "Eyes",
+    "nameUrl": "eyes",
+    "emoji": "👀",
+    "unicode": "U+1F440Code",
+    "shortNames": [":eyes:"]
+  },
+  {
+    "name": "Kissing",
+    "nameUrl": "kissing-face-with-closed-eyes",
+    "emoji": "😚",
+    "unicode": "U+1F61ACode",
+    "shortNames": [":kissing_closed_eyes:", ":kissing_face_with_closed_eyes:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-with-thermometer",
+    "emoji": "🤒",
+    "unicode": "U+1F912Code",
+    "shortNames": [":face_with_thermometer:"]
+  },
+  {
+    "name": "Disguised",
+    "nameUrl": "disguised-face",
+    "emoji": "🥸",
+    "unicode": "U+1F978Code",
+    "shortNames": [":disguised_face:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-blowing-a-kiss",
+    "emoji": "😘",
+    "unicode": "U+1F618Code",
+    "shortNames": [":kissing_heart:", ":face_blowing_a_kiss:"]
+  },
+  {
+    "name": "Money-Mouth",
+    "nameUrl": "money-mouth-face",
+    "emoji": "🤑",
+    "unicode": "U+1F911Code",
+    "shortNames": [":money_mouth_face:"]
+  },
+  {
+    "name": "Old",
+    "nameUrl": "old-woman",
+    "emoji": "👵",
+    "unicode": "U+1F475Code",
+    "shortNames": [":older_woman:", ":old_woman:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-with-steam-from-nose",
+    "emoji": "😤",
+    "unicode": "U+1F624Code",
+    "shortNames": [":triumph:", ":face_with_steam_from_nose:"]
+  },
+  {
+    "name": "Winking",
+    "nameUrl": "winking-face",
+    "emoji": "😉",
+    "unicode": "U+1F609Code",
+    "shortNames": [":wink:", ":winking_face:"]
+  },
+  {
+    "name": "Zany",
+    "nameUrl": "zany-face",
+    "emoji": "🤪",
+    "unicode": "U+1F92ACode",
+    "shortNames": [
+      ":zany_face:",
+      ":grinning_face_with_one_large_and_one_small_eye:"
+    ]
+  },
+  {
+    "name": "Leg",
+    "nameUrl": "leg",
+    "emoji": "🦵",
+    "unicode": "U+1F9B5Code",
+    "shortNames": [":leg:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-with-monocle",
+    "emoji": "🧐",
+    "unicode": "U+1F9D0Code",
+    "shortNames": [":face_with_monocle:", ":monocle_face:"]
+  },
+  {
+    "name": "Goblin",
+    "nameUrl": "goblin",
+    "emoji": "👺",
+    "unicode": "U+1F47ACode",
+    "shortNames": [":japanese_goblin:", ":goblin:"]
+  },
+  {
+    "name": "Beaming",
+    "nameUrl": "beaming-face-with-smiling-eyes",
+    "emoji": "😁",
+    "unicode": "U+1F601Code",
+    "shortNames": [":grin:", ":beaming_face_with_smiling_eyes:"]
+  },
+  {
+    "name": "Thumbs",
+    "nameUrl": "thumbs-down",
+    "emoji": "👎",
+    "unicode": "U+1F44ECode",
+    "shortNames": [":-1:", ":thumbsdown:", ":thumbs_down:"]
+  },
+  {
+    "name": "Grinning",
+    "nameUrl": "grinning-face-with-smiling-eyes",
+    "emoji": "😄",
+    "unicode": "U+1F604Code",
+    "shortNames": [":smile:", ":grinning_face_with_smiling_eyes:"]
+  },
+  {
+    "name": "Tired",
+    "nameUrl": "tired-face",
+    "emoji": "😫",
+    "unicode": "U+1F62BCode",
+    "shortNames": [":tired_face:"]
+  },
+  {
+    "name": "Grinning",
+    "nameUrl": "grinning-face",
+    "emoji": "😀",
+    "unicode": "U+1F600Code",
+    "shortNames": [":grinning:", ":grinning_face:"]
+  },
+  {
+    "name": "Nauseated",
+    "nameUrl": "nauseated-face",
+    "emoji": "🤢",
+    "unicode": "U+1F922Code",
+    "shortNames": [":nauseated_face:"]
+  },
+  {
+    "name": "Persevering",
+    "nameUrl": "persevering-face",
+    "emoji": "😣",
+    "unicode": "U+1F623Code",
+    "shortNames": [":persevere:", ":persevering_face:"]
+  },
+  {
+    "name": "Thinking",
+    "nameUrl": "thinking-face",
+    "emoji": "🤔",
+    "unicode": "U+1F914Code",
+    "shortNames": [":thinking_face:", ":thinking:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-with-rolling-eyes",
+    "emoji": "🙄",
+    "unicode": "U+1F644Code",
+    "shortNames": [":roll_eyes:", ":face_with_rolling_eyes:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-with-head-bandage",
+    "emoji": "🤕",
+    "unicode": "U+1F915Code",
+    "shortNames": [":face_with_head_bandage:"]
+  },
+  {
+    "name": "Flexed",
+    "nameUrl": "flexed-biceps",
+    "emoji": "💪",
+    "unicode": "U+1F4AACode",
+    "shortNames": [":muscle:", ":flexed_biceps:"]
+  },
+  {
+    "name": "Person",
+    "nameUrl": "person-frowning",
+    "emoji": "🙍",
+    "unicode": "U+1F64DCode",
+    "shortNames": [":person_frowning:", ":frowning_person:"]
+  },
+  {
+    "name": "Hot",
+    "nameUrl": "hot-face",
+    "emoji": "🥵",
+    "unicode": "U+1F975Code",
+    "shortNames": [":hot_face:"]
+  },
+  {
+    "name": "Globe",
+    "nameUrl": "globe-with-meridians",
+    "emoji": "🌐",
+    "unicode": "U+1F310Code",
+    "shortNames": [":globe_with_meridians:"]
+  },
+  {
+    "name": "Globe",
+    "nameUrl": "globe-showing-americas",
+    "emoji": "🌎",
+    "unicode": "U+1F30ECode",
+    "shortNames": [":earth_americas:", ":globe_showing_americas:"]
+  },
+  {
+    "name": "Smiling",
+    "nameUrl": "smiling-face",
+    "emoji": "☺️",
+    "unicode": "U+263A️",
+    "shortNames": [":relaxed:", ":smiling_face:"]
+  },
+  {
+    "name": "Sun",
+    "nameUrl": "sun",
+    "emoji": "☀️",
+    "unicode": "U+2600️",
+    "shortNames": [":sunny:", ":sun:"]
+  },
+  {
+    "name": "Cold",
+    "nameUrl": "cold-face",
+    "emoji": "🥶",
+    "unicode": "U+1F976Code",
+    "shortNames": [":cold_face:"]
+  },
+  {
+    "name": "Fish",
+    "nameUrl": "fish",
+    "emoji": "🐟",
+    "unicode": "U+1F41FCode",
+    "shortNames": [":fish:"]
+  },
+  {
+    "name": "Honeybee",
+    "nameUrl": "honeybee",
+    "emoji": "🐝",
+    "unicode": "U+1F41DCode",
+    "shortNames": [":honeybee:", ":bee:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-in-clouds",
+    "emoji": "😶‍🌫️",
+    "unicode": "U+1F636‍",
+    "shortNames": []
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-with-open-mouth",
+    "emoji": "😮",
+    "unicode": "U+1F62ECode",
+    "shortNames": [":open_mouth:", ":face_with_open_mouth:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-savoring-food",
+    "emoji": "😋",
+    "unicode": "U+1F60BCode",
+    "shortNames": [":yum:", ":face_savoring_food:"]
+  },
+  {
+    "name": "Military",
+    "nameUrl": "military-helmet",
+    "emoji": "🪖",
+    "unicode": "U+1FA96Code",
+    "shortNames": [":military_helmet:"]
+  },
+  {
+    "name": "Kissing",
+    "nameUrl": "kissing-face",
+    "emoji": "😗",
+    "unicode": "U+1F617Code",
+    "shortNames": [":kissing:", ":kissing_face:"]
+  },
+  {
+    "name": "Jack-O-Lantern",
+    "nameUrl": "jack-o-lantern",
+    "emoji": "🎃",
+    "unicode": "U+1F383Code",
+    "shortNames": [":jack_o_lantern:"]
+  },
+  {
+    "name": "Sneezing",
+    "nameUrl": "sneezing-face",
+    "emoji": "🤧",
+    "unicode": "U+1F927Code",
+    "shortNames": [":sneezing_face:"]
+  },
+  {
+    "name": "Brain",
+    "nameUrl": "brain",
+    "emoji": "🧠",
+    "unicode": "U+1F9E0Code",
+    "shortNames": [":brain:"]
+  },
+  {
+    "name": "Exploding",
+    "nameUrl": "exploding-head",
+    "emoji": "🤯",
+    "unicode": "U+1F92FCode",
+    "shortNames": [":exploding_head:", ":shocked_face_with_exploding_head:"]
+  },
+  {
+    "name": "Neutral",
+    "nameUrl": "neutral-face",
+    "emoji": "😐",
+    "unicode": "U+1F610Code",
+    "shortNames": [":neutral_face:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-without-mouth",
+    "emoji": "😶",
+    "unicode": "U+1F636Code",
+    "shortNames": [":no_mouth:", ":face_without_mouth:"]
+  },
+  {
+    "name": "Cat",
+    "nameUrl": "cat-with-wry-smile",
+    "emoji": "😼",
+    "unicode": "U+1F63CCode",
+    "shortNames": [":smirk_cat:", ":cat_with_wry_smile:"]
+  },
+  {
+    "name": "Confounded",
+    "nameUrl": "confounded-face",
+    "emoji": "😖",
+    "unicode": "U+1F616Code",
+    "shortNames": [":confounded:", ":confounded_face:"]
+  },
+  {
+    "name": "Bouquet",
+    "nameUrl": "bouquet",
+    "emoji": "💐",
+    "unicode": "U+1F490Code",
+    "shortNames": [":bouquet:"]
+  },
+  {
+    "name": "Victory",
+    "nameUrl": "victory-hand",
+    "emoji": "✌️",
+    "unicode": "U+270C️",
+    "shortNames": [":v:", ":victory_hand:"]
+  },
+  {
+    "name": "Seedling",
+    "nameUrl": "seedling",
+    "emoji": "🌱",
+    "unicode": "U+1F331Code",
+    "shortNames": [":seedling:"]
+  },
+  {
+    "name": "Family:",
+    "nameUrl": "family-man-girl-girl",
+    "emoji": "👨‍👧‍👧",
+    "unicode": "U+1F468‍",
+    "shortNames": [":family_man_girl_girl:", ":man-girl-girl:"]
+  },
+  {
+    "name": "Nail",
+    "nameUrl": "nail-polish",
+    "emoji": "💅",
+    "unicode": "U+1F485Code",
+    "shortNames": [":nail_care:", ":nail_polish:"]
+  },
+  {
+    "name": "Woman",
+    "nameUrl": "woman-student",
+    "emoji": "👩‍🎓",
+    "unicode": "U+1F469‍",
+    "shortNames": [":woman_student:", ":female-student:"]
+  },
+  {
+    "name": "Skull",
+    "nameUrl": "skull",
+    "emoji": "💀",
+    "unicode": "U+1F480Code",
+    "shortNames": [":skull:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-with-tears-of-joy",
+    "emoji": "😂",
+    "unicode": "U+1F602Code",
+    "shortNames": [":joy:", ":face_with_tears_of_joy:"]
+  },
+  {
+    "name": "Smirking",
+    "nameUrl": "smirking-face",
+    "emoji": "😏",
+    "unicode": "U+1F60FCode",
+    "shortNames": [":smirk:", ":smirking_face:"]
+  },
+  {
+    "name": "Expressionless",
+    "nameUrl": "expressionless-face",
+    "emoji": "😑",
+    "unicode": "U+1F611Code",
+    "shortNames": [":expressionless:", ":expressionless_face:"]
+  },
+  {
+    "name": "Kissing",
+    "nameUrl": "kissing-face-with-smiling-eyes",
+    "emoji": "😙",
+    "unicode": "U+1F619Code",
+    "shortNames": [":kissing_smiling_eyes:", ":kissing_face_with_smiling_eyes:"]
+  },
+  {
+    "name": "Smiling",
+    "nameUrl": "smiling-face-with-smiling-eyes",
+    "emoji": "😊",
+    "unicode": "U+1F60ACode",
+    "shortNames": [":blush:", ":smiling_face_with_smiling_eyes:"]
+  },
+  {
+    "name": "Woozy",
+    "nameUrl": "woozy-face",
+    "emoji": "🥴",
+    "unicode": "U+1F974Code",
+    "shortNames": [":woozy_face:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-with-tongue",
+    "emoji": "😛",
+    "unicode": "U+1F61BCode",
+    "shortNames": [":stuck_out_tongue:", ":face_with_tongue:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-with-raised-eyebrow",
+    "emoji": "🤨",
+    "unicode": "U+1F928Code",
+    "shortNames": [
+      ":face_with_raised_eyebrow:",
+      ":raised_eyebrow:",
+      ":face_with_one_eyebrow_raised:"
+    ]
+  },
+  {
+    "name": "Squinting",
+    "nameUrl": "squinting-face-with-tongue",
+    "emoji": "😝",
+    "unicode": "U+1F61DCode",
+    "shortNames": [
+      ":stuck_out_tongue_closed_eyes:",
+      ":squinting_face_with_tongue:"
+    ]
+  },
+  {
+    "name": "Person",
+    "nameUrl": "person-in-lotus-position",
+    "emoji": "🧘",
+    "unicode": "U+1F9D8Code",
+    "shortNames": [":lotus_position:", ":person_in_lotus_position:"]
+  },
+  {
+    "name": "Lying",
+    "nameUrl": "lying-face",
+    "emoji": "🤥",
+    "unicode": "U+1F925Code",
+    "shortNames": [":lying_face:"]
+  },
+  {
+    "name": "Man",
+    "nameUrl": "man-cook",
+    "emoji": "👨‍🍳",
+    "unicode": "U+1F468‍",
+    "shortNames": [":man_cook:", ":male-cook:"]
+  },
+  {
+    "name": "Zipper-Mouth",
+    "nameUrl": "zipper-mouth-face",
+    "emoji": "🤐",
+    "unicode": "U+1F910Code",
+    "shortNames": [":zipper_mouth_face:"]
+  },
+  {
+    "name": "Squid",
+    "nameUrl": "squid",
+    "emoji": "🦑",
+    "unicode": "U+1F991Code",
+    "shortNames": [":squid:"]
+  },
+  {
+    "name": "Tropical",
+    "nameUrl": "tropical-fish",
+    "emoji": "🐠",
+    "unicode": "U+1F420Code",
+    "shortNames": [":tropical_fish:"]
+  },
+  {
+    "name": "Folded",
+    "nameUrl": "folded-hands",
+    "emoji": "🙏",
+    "unicode": "U+1F64FCode",
+    "shortNames": [":pray:", ":folded_hands:"]
+  },
+  {
+    "name": "Grinning",
+    "nameUrl": "grinning-squinting-face",
+    "emoji": "😆",
+    "unicode": "U+1F606Code",
+    "shortNames": [":laughing:", ":satisfied:", ":grinning_squinting_face:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-with-spiral-eyes",
+    "emoji": "😵‍💫",
+    "unicode": "U+1F635‍",
+    "shortNames": []
+  },
+  {
+    "name": "Relieved",
+    "nameUrl": "relieved-face",
+    "emoji": "😌",
+    "unicode": "U+1F60CCode",
+    "shortNames": [":relieved:", ":relieved_face:"]
+  },
+  {
+    "name": "Hand",
+    "nameUrl": "hand-with-fingers-splayed",
+    "emoji": "🖐️",
+    "unicode": "U+1F590️",
+    "shortNames": [
+      ":raised_hand_with_fingers_splayed:",
+      ":hand_with_fingers_splayed:"
+    ]
+  },
+  {
+    "name": "Mechanical",
+    "nameUrl": "mechanical-leg",
+    "emoji": "🦿",
+    "unicode": "U+1F9BFCode",
+    "shortNames": [":mechanical_leg:"]
+  },
+  {
+    "name": "Butterfly",
+    "nameUrl": "butterfly",
+    "emoji": "🦋",
+    "unicode": "U+1F98BCode",
+    "shortNames": [":butterfly:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-with-hand-over-mouth",
+    "emoji": "🤭",
+    "unicode": "U+1F92DCode",
+    "shortNames": [
+      ":face_with_hand_over_mouth:",
+      ":hand_over_mouth:",
+      ":smiling_face_with_smiling_eyes_and_hand_covering_mouth:"
+    ]
+  },
+  {
+    "name": "Full",
+    "nameUrl": "full-moon-face",
+    "emoji": "🌝",
+    "unicode": "U+1F31DCode",
+    "shortNames": [":full_moon_with_face:", ":full_moon_face:"]
+  },
+  {
+    "name": "Pinched",
+    "nameUrl": "pinched-fingers",
+    "emoji": "🤌",
+    "unicode": "U+1F90CCode",
+    "shortNames": [":pinched_fingers:"]
+  },
+  {
+    "name": "Drooling",
+    "nameUrl": "drooling-face",
+    "emoji": "🤤",
+    "unicode": "U+1F924Code",
+    "shortNames": [":drooling_face:"]
+  },
+  {
+    "name": "Handshake",
+    "nameUrl": "handshake",
+    "emoji": "🤝",
+    "unicode": "U+1F91DCode",
+    "shortNames": [":handshake:"]
+  },
+  {
+    "name": "Sunglasses",
+    "nameUrl": "sunglasses",
+    "emoji": "🕶️",
+    "unicode": "U+1F576️",
+    "shortNames": [":dark_sunglasses:", ":sunglasses:"]
+  },
+  {
+    "name": "Woman",
+    "nameUrl": "woman-cook",
+    "emoji": "👩‍🍳",
+    "unicode": "U+1F469‍",
+    "shortNames": [":woman_cook:", ":female-cook:"]
+  },
+  {
+    "name": "Woman",
+    "nameUrl": "woman-farmer",
+    "emoji": "👩‍🌾",
+    "unicode": "U+1F469‍",
+    "shortNames": [":woman_farmer:", ":female-farmer:"]
+  },
+  {
+    "name": "Pouting",
+    "nameUrl": "pouting-face",
+    "emoji": "😡",
+    "unicode": "U+1F621Code",
+    "shortNames": [":rage:", ":pout:", ":pouting_face:"]
+  },
+  {
+    "name": "Grimacing",
+    "nameUrl": "grimacing-face",
+    "emoji": "😬",
+    "unicode": "U+1F62CCode",
+    "shortNames": [":grimacing:", ":grimacing_face:"]
+  },
+  {
+    "name": "Man",
+    "nameUrl": "man-shrugging",
+    "emoji": "🤷‍♂️",
+    "unicode": "U+1F937‍",
+    "shortNames": [":man_shrugging:", ":man-shrugging:"]
+  },
+  {
+    "name": "Blowfish",
+    "nameUrl": "blowfish",
+    "emoji": "🐡",
+    "unicode": "U+1F421Code",
+    "shortNames": [":blowfish:"]
+  },
+  {
+    "name": "Orangutan",
+    "nameUrl": "orangutan",
+    "emoji": "🦧",
+    "unicode": "U+1F9A7Code",
+    "shortNames": [":orangutan:"]
+  },
+  {
+    "name": "Raised",
+    "nameUrl": "raised-back-of-hand",
+    "emoji": "🤚",
+    "unicode": "U+1F91ACode",
+    "shortNames": [":raised_back_of_hand:"]
+  },
+  {
+    "name": "Nerd",
+    "nameUrl": "nerd-face",
+    "emoji": "🤓",
+    "unicode": "U+1F913Code",
+    "shortNames": [":nerd_face:"]
+  },
+  {
+    "name": "Cowboy",
+    "nameUrl": "cowboy-hat-face",
+    "emoji": "🤠",
+    "unicode": "U+1F920Code",
+    "shortNames": [":cowboy_hat_face:", ":face_with_cowboy_hat:"]
+  },
+  {
+    "name": "Goat",
+    "nameUrl": "goat",
+    "emoji": "🐐",
+    "unicode": "U+1F410Code",
+    "shortNames": [":goat:"]
+  },
+  {
+    "name": "Frowning",
+    "nameUrl": "frowning-face",
+    "emoji": "☹️",
+    "unicode": "U+2639️",
+    "shortNames": [":frowning_face:", ":white_frowning_face:"]
+  },
+  {
+    "name": "Nose",
+    "nameUrl": "nose",
+    "emoji": "👃",
+    "unicode": "U+1F443Code",
+    "shortNames": [":nose:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-screaming-in-fear",
+    "emoji": "😱",
+    "unicode": "U+1F631Code",
+    "shortNames": [":scream:", ":face_screaming_in_fear:"]
+  },
+  {
+    "name": "Anatomical",
+    "nameUrl": "anatomical-heart",
+    "emoji": "🫀",
+    "unicode": "U+1FAC0Code",
+    "shortNames": [":anatomical_heart:"]
+  },
+  {
+    "name": "Pouting",
+    "nameUrl": "pouting-cat",
+    "emoji": "😾",
+    "unicode": "U+1F63ECode",
+    "shortNames": [":pouting_cat:"]
+  },
+  {
+    "name": "Grinning",
+    "nameUrl": "grinning-cat-with-smiling-eyes",
+    "emoji": "😸",
+    "unicode": "U+1F638Code",
+    "shortNames": [":smile_cat:", ":grinning_cat_with_smiling_eyes:"]
+  },
+  {
+    "name": "Alien",
+    "nameUrl": "alien",
+    "emoji": "👽",
+    "unicode": "U+1F47DCode",
+    "shortNames": [":alien:"]
+  },
+  {
+    "name": "Cloud",
+    "nameUrl": "cloud",
+    "emoji": "☁️",
+    "unicode": "U+2601️",
+    "shortNames": [":cloud:"]
+  },
+  {
+    "name": "Fox",
+    "nameUrl": "fox",
+    "emoji": "🦊",
+    "unicode": "U+1F98ACode",
+    "shortNames": [":fox_face:", ":fox:"]
+  },
+  {
+    "name": "Yawning",
+    "nameUrl": "yawning-face",
+    "emoji": "🥱",
+    "unicode": "U+1F971Code",
+    "shortNames": [":yawning_face:"]
+  },
+  {
+    "name": "Vulcan",
+    "nameUrl": "vulcan-salute",
+    "emoji": "🖖",
+    "unicode": "U+1F596Code",
+    "shortNames": [":vulcan_salute:", ":spock-hand:"]
+  },
+  {
+    "name": "Angry",
+    "nameUrl": "angry-face",
+    "emoji": "😠",
+    "unicode": "U+1F620Code",
+    "shortNames": [":angry:", ":angry_face:"]
+  },
+  {
+    "name": "Anxious",
+    "nameUrl": "anxious-face-with-sweat",
+    "emoji": "😰",
+    "unicode": "U+1F630Code",
+    "shortNames": [":cold_sweat:", ":anxious_face_with_sweat:"]
+  },
+  {
+    "name": "Face",
+    "nameUrl": "face-vomiting",
+    "emoji": "🤮",
+    "unicode": "U+1F92ECode",
+    "shortNames": [
+      ":face_vomiting:",
+      ":vomiting_face:",
+      ":face_with_open_mouth_vomiting:"
+    ]
+  },
+  {
+    "name": "Sweat",
+    "nameUrl": "sweat-droplets",
+    "emoji": "💦",
+    "unicode": "U+1F4A6Code",
+    "shortNames": [":sweat_drops:", ":sweat_droplets:"]
+  },
+  {
+    "name": "Zebra",
+    "nameUrl": "zebra",
+    "emoji": "🦓",
+    "unicode": "U+1F993Code",
+    "shortNames": [":zebra:", ":zebra_face:"]
+  },
+  {
+    "name": "Winking",
+    "nameUrl": "winking-face-with-tongue",
+    "emoji": "😜",
+    "unicode": "U+1F61CCode",
+    "shortNames": [
+      ":stuck_out_tongue_winking_eye:",
+      ":winking_face_with_tongue:"
+    ]
+  },
+  {
+    "name": "Shushing",
+    "nameUrl": "shushing-face",
+    "emoji": "🤫",
+    "unicode": "U+1F92BCode",
+    "shortNames": [":shushing_face:", ":face_with_finger_covering_closed_lips:"]
+  },
+  {
+    "name": "Ghost",
+    "nameUrl": "ghost",
+    "emoji": "👻",
+    "unicode": "U+1F47BCode",
+    "shortNames": [":ghost:"]
+  },
+  {
+    "name": "Crying",
+    "nameUrl": "crying-face",
+    "emoji": "😢",
+    "unicode": "U+1F622Code",
+    "shortNames": [":cry:", ":crying_face:"]
+  },
+  {
+    "name": "Rainbow",
+    "nameUrl": "rainbow",
+    "emoji": "🌈",
+    "unicode": "U+1F308Code",
+    "shortNames": [":rainbow:"]
+  },
+  {
+    "name": "Smiling",
+    "nameUrl": "smiling-cat-with-heart-eyes",
+    "emoji": "😻",
+    "unicode": "U+1F63BCode",
+    "shortNames": [":heart_eyes_cat:", ":smiling_cat_with_heart_eyes:"]
+  },
+  {
+    "name": "Water",
+    "nameUrl": "water-wave",
+    "emoji": "🌊",
+    "unicode": "U+1F30ACode",
+    "shortNames": [":ocean:", ":water_wave:"]
+  },
+  {
+    "name": "Cat",
+    "nameUrl": "cat-with-tears-of-joy",
+    "emoji": "😹",
+    "unicode": "U+1F639Code",
+    "shortNames": [":joy_cat:", ":cat_with_tears_of_joy:"]
+  },
+  {
+    "name": "Man",
+    "nameUrl": "man-tipping-hand",
+    "emoji": "💁‍♂️",
+    "unicode": "U+1F481‍",
+    "shortNames": [
+      ":sassy_man:",
+      ":man_tipping_hand:",
+      ":man-tipping-hand:",
+      ":tipping_hand_man:"
+    ]
+  },
+  {
+    "name": "Tiger",
+    "nameUrl": "tiger",
+    "emoji": "🐅",
+    "unicode": "U+1F405Code",
+    "shortNames": [":tiger2:", ":tiger:"]
+  },
+  {
+    "name": "Star-Struck",
+    "nameUrl": "star-struck",
+    "emoji": "🤩",
+    "unicode": "U+1F929Code",
+    "shortNames": [
+      ":star_struck:",
+      ":star-struck:",
+      ":grinning_face_with_star_eyes:"
+    ]
+  },
+  {
+    "name": "Ewe",
+    "nameUrl": "ewe",
+    "emoji": "🐑",
+    "unicode": "U+1F411Code",
+    "shortNames": [":sheep:", ":ewe:"]
+  },
+  {
+    "name": "Sleepy",
+    "nameUrl": "sleepy-face",
+    "emoji": "😪",
+    "unicode": "U+1F62ACode",
+    "shortNames": [":sleepy:", ":sleepy_face:"]
+  },
+  {
+    "name": "Anguished",
+    "nameUrl": "anguished-face",
+    "emoji": "😧",
+    "unicode": "U+1F627Code",
+    "shortNames": [":anguished:", ":anguished_face:"]
+  },
+  {
+    "name": "Fearful",
+    "nameUrl": "fearful-face",
+    "emoji": "😨",
+    "unicode": "U+1F628Code",
+    "shortNames": [":fearful:", ":fearful_face:"]
+  },
+  {
+    "name": "Unamused",
+    "nameUrl": "unamused-face",
+    "emoji": "😒",
+    "unicode": "U+1F612Code",
+    "shortNames": [":unamused:", ":unamused_face:"]
+  },
+  {
+    "name": "Man",
+    "nameUrl": "man-raising-hand",
+    "emoji": "🙋‍♂️",
+    "unicode": "U+1F64B‍",
+    "shortNames": [
+      ":man_raising_hand:",
+      ":man-raising-hand:",
+      ":raising_hand_man:"
+    ]
+  },
+  {
+    "name": "Crescent",
+    "nameUrl": "crescent-moon",
+    "emoji": "🌙",
+    "unicode": "U+1F319Code",
+    "shortNames": [":crescent_moon:"]
+  },
+  {
+    "name": "Speak-No-Evil",
+    "nameUrl": "speak-no-evil-monkey",
+    "emoji": "🙊",
+    "unicode": "U+1F64ACode",
+    "shortNames": [":speak_no_evil:", ":speak_no_evil_monkey:"]
+  },
+  {
+    "name": "Sad",
+    "nameUrl": "sad-but-relieved-face",
+    "emoji": "😥",
+    "unicode": "U+1F625Code",
+    "shortNames": [":disappointed_relieved:", ":sad_but_relieved_face:"]
+  },
+  {
+    "name": "Star",
+    "nameUrl": "star",
+    "emoji": "⭐",
+    "unicode": "U+2B50Code",
+    "shortNames": [":star:"]
+  },
+  {
+    "name": "Person",
+    "nameUrl": "person-bowing",
+    "emoji": "🙇",
+    "unicode": "U+1F647Code",
+    "shortNames": [":bow:", ":person_bowing:"]
+  },
+  {
+    "name": "Confused",
+    "nameUrl": "confused-face",
+    "emoji": "😕",
+    "unicode": "U+1F615Code",
+    "shortNames": [":confused:", ":confused_face:"]
+  },
+  {
+    "name": "Skull",
+    "nameUrl": "skull-and-crossbones",
+    "emoji": "☠️",
+    "unicode": "U+2620️",
+    "shortNames": [":skull_and_crossbones:"]
+  },
+  {
+    "name": "Worried",
+    "nameUrl": "worried-face",
+    "emoji": "😟",
+    "unicode": "U+1F61FCode",
+    "shortNames": [":worried:", ":worried_face:"]
+  },
+  {
+    "name": "Slightly",
+    "nameUrl": "slightly-frowning-face",
+    "emoji": "🙁",
+    "unicode": "U+1F641Code",
+    "shortNames": [":slightly_frowning_face:"]
+  },
+  {
+    "name": "Clown",
+    "nameUrl": "clown-face",
+    "emoji": "🤡",
+    "unicode": "U+1F921Code",
+    "shortNames": [":clown_face:"]
+  },
+  {
+    "name": "Frowning",
+    "nameUrl": "frowning-face-with-open-mouth",
+    "emoji": "😦",
+    "unicode": "U+1F626Code",
+    "shortNames": [":frowning:", ":frowning_face_with_open_mouth:"]
+  },
+  {
+    "name": "Girl",
+    "nameUrl": "girl",
+    "emoji": "👧",
+    "unicode": "U+1F467Code",
+    "shortNames": [":girl:"]
+  },
+  {
+    "name": "Sparkles",
+    "nameUrl": "sparkles",
+    "emoji": "✨",
+    "unicode": "U+2728Code",
+    "shortNames": [":sparkles:"]
+  },
+  {
+    "name": "Angry",
+    "nameUrl": "angry-face-with-horns",
+    "emoji": "👿",
+    "unicode": "U+1F47FCode",
+    "shortNames": [":imp:", ":angry_face_with_horns:"]
+  },
+  {
+    "name": "Paw",
+    "nameUrl": "paw-prints",
+    "emoji": "🐾",
+    "unicode": "U+1F43ECode",
+    "shortNames": [":paw_prints:", ":feet:"]
+  },
+  {
+    "name": "Downcast",
+    "nameUrl": "downcast-face-with-sweat",
+    "emoji": "😓",
+    "unicode": "U+1F613Code",
+    "shortNames": [":sweat:", ":downcast_face_with_sweat:"]
+  },
+  {
+    "name": "Dizzy",
+    "nameUrl": "dizzy-face",
+    "emoji": "😵",
+    "unicode": "U+1F635Code",
+    "shortNames": [":dizzy_face:"]
+  },
+  {
+    "name": "Woman",
+    "nameUrl": "woman-facepalming",
+    "emoji": "🤦‍♀️",
+    "unicode": "U+1F926‍",
+    "shortNames": [":woman_facepalming:", ":woman-facepalming:"]
+  },
+  {
+    "name": "Fire",
+    "nameUrl": "fire",
+    "emoji": "🔥",
+    "unicode": "U+1F525Code",
+    "shortNames": [":fire:"]
+  },
+  {
+    "name": "Unicorn",
+    "nameUrl": "unicorn",
+    "emoji": "🦄",
+    "unicode": "U+1F984Code",
+    "shortNames": [":unicorn:", ":unicorn_face:"]
+  },
+  {
+    "name": "Lion",
+    "nameUrl": "lion",
+    "emoji": "🦁",
+    "unicode": "U+1F981Code",
+    "shortNames": [":lion:", ":lion_face:"]
+  },
+  {
+    "name": "Umbrella",
+    "nameUrl": "umbrella",
+    "emoji": "☂️",
+    "unicode": "U+2602️",
+    "shortNames": [":umbrella:", ":open_umbrella:"]
+  },
+  {
+    "name": "Wolf",
+    "nameUrl": "wolf",
+    "emoji": "🐺",
+    "unicode": "U+1F43ACode",
+    "shortNames": [":wolf:"]
+  },
+  {
+    "name": "Ring",
+    "nameUrl": "ring",
+    "emoji": "💍",
+    "unicode": "U+1F48DCode",
+    "shortNames": [":ring:"]
+  },
+  {
+    "name": "Billed",
+    "nameUrl": "billed-cap",
+    "emoji": "🧢",
+    "unicode": "U+1F9E2Code",
+    "shortNames": [":billed_cap:"]
+  },
+  {
+    "name": "Owl",
+    "nameUrl": "owl",
+    "emoji": "🦉",
+    "unicode": "U+1F989Code",
+    "shortNames": [":owl:"]
+  },
+  {
+    "name": "Bust",
+    "nameUrl": "bust-in-silhouette",
+    "emoji": "👤",
+    "unicode": "U+1F464Code",
+    "shortNames": [":bust_in_silhouette:"]
+  },
+  {
+    "name": "Couple",
+    "nameUrl": "couple-with-heart-man-man",
+    "emoji": "👨‍❤️‍👨",
+    "unicode": "U+1F468‍",
+    "shortNames": [":man-heart-man:", ":couple_with_heart_man_man:"]
+  },
+  {
+    "name": "Guide",
+    "nameUrl": "guide-dog",
+    "emoji": "🦮",
+    "unicode": "U+1F9AECode",
+    "shortNames": [":guide_dog:"]
+  },
+  {
+    "name": "Snowman",
+    "nameUrl": "snowman",
+    "emoji": "☃️",
+    "unicode": "U+2603️",
+    "shortNames": [":snowman:", ":snowman_with_snow:"]
+  },
+  {
+    "name": "Thong",
+    "nameUrl": "thong-sandal",
+    "emoji": "🩴",
+    "unicode": "U+1FA74Code",
+    "shortNames": [":thong_sandal:"]
+  },
+  {
+    "name": "Leopard",
+    "nameUrl": "leopard",
+    "emoji": "🐆",
+    "unicode": "U+1F406Code",
+    "shortNames": [":leopard:"]
+  },
+  {
+    "name": "Raccoon",
+    "nameUrl": "raccoon",
+    "emoji": "🦝",
+    "unicode": "U+1F99DCode",
+    "shortNames": [":raccoon:"]
+  },
+  {
+    "name": "Dog",
+    "nameUrl": "dog",
+    "emoji": "🐕",
+    "unicode": "U+1F415Code",
+    "shortNames": [":dog2:", ":dog:"]
+  },
+  {
+    "name": "Last",
+    "nameUrl": "last-quarter-moon",
+    "emoji": "🌗",
+    "unicode": "U+1F317Code",
+    "shortNames": [":last_quarter_moon:"]
+  },
+  {
+    "name": "Droplet",
+    "nameUrl": "droplet",
+    "emoji": "💧",
+    "unicode": "U+1F4A7Code",
+    "shortNames": [":droplet:"]
+  },
+  {
+    "name": "Man’s",
+    "nameUrl": "mans-shoe",
+    "emoji": "👞",
+    "unicode": "U+1F45ECode",
+    "shortNames": [":mans_shoe:", ":shoe:"]
+  },
+  {
+    "name": "Running",
+    "nameUrl": "running-shoe",
+    "emoji": "👟",
+    "unicode": "U+1F45FCode",
+    "shortNames": [":athletic_shoe:", ":running_shoe:"]
+  },
+  {
+    "name": "Comet",
+    "nameUrl": "comet",
+    "emoji": "☄️",
+    "unicode": "U+2604️",
+    "shortNames": [":comet:"]
+  },
+  {
+    "name": "Disappointed",
+    "nameUrl": "disappointed-face",
+    "emoji": "😞",
+    "unicode": "U+1F61ECode",
+    "shortNames": [":disappointed:", ":disappointed_face:"]
+  },
+  {
+    "name": "Waffle",
+    "nameUrl": "waffle",
+    "emoji": "🧇",
+    "unicode": "U+1F9C7Code",
+    "shortNames": [":waffle:"]
+  },
+  {
+    "name": "Dango",
+    "nameUrl": "dango",
+    "emoji": "🍡",
+    "unicode": "U+1F361Code",
+    "shortNames": [":dango:"]
+  },
+  {
+    "name": "Rabbit",
+    "nameUrl": "rabbit-face",
+    "emoji": "🐰",
+    "unicode": "U+1F430Code",
+    "shortNames": [":rabbit:", ":rabbit_face:"]
+  },
+  {
+    "name": "Ice",
+    "nameUrl": "ice",
+    "emoji": "🧊",
+    "unicode": "U+1F9CACode",
+    "shortNames": [":ice_cube:", ":ice:"]
+  },
+  {
+    "name": "Rabbit",
+    "nameUrl": "rabbit",
+    "emoji": "🐇",
+    "unicode": "U+1F407Code",
+    "shortNames": [":rabbit2:", ":rabbit:"]
+  },
+  {
+    "name": "Cucumber",
+    "nameUrl": "cucumber",
+    "emoji": "🥒",
+    "unicode": "U+1F952Code",
+    "shortNames": [":cucumber:"]
+  },
+  {
+    "name": "Kangaroo",
+    "nameUrl": "kangaroo",
+    "emoji": "🦘",
+    "unicode": "U+1F998Code",
+    "shortNames": [":kangaroo:"]
+  },
+  {
+    "name": "Beaver",
+    "nameUrl": "beaver",
+    "emoji": "🦫",
+    "unicode": "U+1F9ABCode",
+    "shortNames": [":beaver:"]
+  },
+  {
+    "name": "Egg",
+    "nameUrl": "egg",
+    "emoji": "🥚",
+    "unicode": "U+1F95ACode",
+    "shortNames": [":egg:"]
+  },
+  {
+    "name": "Honey",
+    "nameUrl": "honey-pot",
+    "emoji": "🍯",
+    "unicode": "U+1F36FCode",
+    "shortNames": [":honey_pot:"]
+  },
+  {
+    "name": "Tropical",
+    "nameUrl": "tropical-drink",
+    "emoji": "🍹",
+    "unicode": "U+1F379Code",
+    "shortNames": [":tropical_drink:"]
+  },
+  {
+    "name": "French",
+    "nameUrl": "french-fries",
+    "emoji": "🍟",
+    "unicode": "U+1F35FCode",
+    "shortNames": [":fries:", ":french_fries:"]
+  },
+  {
+    "name": "New",
+    "nameUrl": "new-moon-face",
+    "emoji": "🌚",
+    "unicode": "U+1F31ACode",
+    "shortNames": [":new_moon_with_face:", ":new_moon_face:"]
+  },
+  {
+    "name": "High",
+    "nameUrl": "high-voltage",
+    "emoji": "⚡",
+    "unicode": "U+26A1Code",
+    "shortNames": [":zap:", ":high_voltage:"]
+  },
+  {
+    "name": "Snowflake",
+    "nameUrl": "snowflake",
+    "emoji": "❄️",
+    "unicode": "U+2744️",
+    "shortNames": [":snowflake:"]
+  },
+  {
+    "name": "Astronaut",
+    "nameUrl": "astronaut",
+    "emoji": "🧑‍🚀",
+    "unicode": "U+1F9D1‍",
+    "shortNames": [":astronaut:"]
+  },
+  {
+    "name": "Fog",
+    "nameUrl": "fog",
+    "emoji": "🌫️",
+    "unicode": "U+1F32B️",
+    "shortNames": [":fog:"]
+  },
+  {
+    "name": "Older",
+    "nameUrl": "older-person",
+    "emoji": "🧓",
+    "unicode": "U+1F9D3Code",
+    "shortNames": [":older_adult:", ":older_person:"]
+  },
+  {
+    "name": "Person",
+    "nameUrl": "person-in-manual-wheelchair",
+    "emoji": "🧑‍🦽",
+    "unicode": "U+1F9D1‍",
+    "shortNames": [":person_in_manual_wheelchair:"]
+  },
+  {
+    "name": "Man",
+    "nameUrl": "man-pilot",
+    "emoji": "👨‍✈️",
+    "unicode": "U+1F468‍",
+    "shortNames": [":man_pilot:", ":male-pilot:"]
+  },
+  {
+    "name": "Man",
+    "nameUrl": "man-astronaut",
+    "emoji": "👨‍🚀",
+    "unicode": "U+1F468‍",
+    "shortNames": [":man_astronaut:", ":male-astronaut:"]
+  },
+  {
+    "name": "Cook",
+    "nameUrl": "cook",
+    "emoji": "🧑‍🍳",
+    "unicode": "U+1F9D1‍",
+    "shortNames": [":cook:"]
+  },
+  {
+    "name": "Woman",
+    "nameUrl": "woman-pilot",
+    "emoji": "👩‍✈️",
+    "unicode": "U+1F469‍",
+    "shortNames": [":woman_pilot:", ":female-pilot:"]
+  },
+  {
+    "name": "Teacher",
+    "nameUrl": "teacher",
+    "emoji": "🧑‍🏫",
+    "unicode": "U+1F9D1‍",
+    "shortNames": [":teacher:"]
+  },
+  {
+    "name": "Tanabata",
+    "nameUrl": "tanabata-tree",
+    "emoji": "🎋",
+    "unicode": "U+1F38BCode",
+    "shortNames": [":tanabata_tree:"]
+  },
+  {
+    "name": "Dog",
+    "nameUrl": "dog-face",
+    "emoji": "🐶",
+    "unicode": "U+1F436Code",
+    "shortNames": [":dog:", ":dog_face:"]
+  },
+  {
+    "name": "Man",
+    "nameUrl": "man-standing",
+    "emoji": "🧍‍♂️",
+    "unicode": "U+1F9CD‍",
+    "shortNames": [":man_standing:", ":standing_man:"]
+  },
+  {
+    "name": "Man",
+    "nameUrl": "man-police-officer",
+    "emoji": "👮‍♂️",
+    "unicode": "U+1F46E‍",
+    "shortNames": [
+      ":policeman:",
+      ":man_police_officer:",
+      ":male-police-officer:"
+    ]
+  },
+  {
+    "name": "Woman’s",
+    "nameUrl": "womans-boot",
+    "emoji": "👢",
+    "unicode": "U+1F462Code",
+    "shortNames": [":boot:", ":womans_boot:"]
+  },
+  {
+    "name": "Man",
+    "nameUrl": "man-student",
+    "emoji": "👨‍🎓",
+    "unicode": "U+1F468‍",
+    "shortNames": [":man_student:", ":male-student:"]
+  },
+  {
+    "name": "Pine",
+    "nameUrl": "pine-decoration",
+    "emoji": "🎍",
+    "unicode": "U+1F38DCode",
+    "shortNames": [":bamboo:", ":pine_decoration:"]
+  },
+  {
+    "name": "Kiss",
+    "nameUrl": "kiss",
+    "emoji": "💏",
+    "unicode": "U+1F48FCode",
+    "shortNames": [":couplekiss:", ":kiss:"]
+  },
+  {
+    "name": "Family:",
+    "nameUrl": "family-man-woman-girl-girl",
+    "emoji": "👨‍👩‍👧‍👧",
+    "unicode": "U+1F468‍",
+    "shortNames": [":family_man_woman_girl_girl:", ":man-woman-girl-girl:"]
+  },
+  {
+    "name": "Skunk",
+    "nameUrl": "skunk",
+    "emoji": "🦨",
+    "unicode": "U+1F9A8Code",
+    "shortNames": [":skunk:"]
+  },
+  {
+    "name": "Guitar",
+    "nameUrl": "guitar",
+    "emoji": "🎸",
+    "unicode": "U+1F3B8Code",
+    "shortNames": [":guitar:"]
+  },
+  {
+    "name": "Man",
+    "nameUrl": "man-biking",
+    "emoji": "🚴‍♂️",
+    "unicode": "U+1F6B4‍",
+    "shortNames": [":biking_man:", ":man_biking:", ":man-biking:"]
+  },
+  {
+    "name": "Hedgehog",
+    "nameUrl": "hedgehog",
+    "emoji": "🦔",
+    "unicode": "U+1F994Code",
+    "shortNames": [":hedgehog:"]
+  },
+  {
+    "name": "Trophy",
+    "nameUrl": "trophy",
+    "emoji": "🏆",
+    "unicode": "U+1F3C6Code",
+    "shortNames": [":trophy:"]
+  },
+  {
+    "name": "Video",
+    "nameUrl": "video-game",
+    "emoji": "🎮",
+    "unicode": "U+1F3AECode",
+    "shortNames": [":video_game:"]
+  },
+  {
+    "name": "Turkey",
+    "nameUrl": "turkey",
+    "emoji": "🦃",
+    "unicode": "U+1F983Code",
+    "shortNames": [":turkey:"]
+  },
+  {
+    "name": "Woman",
+    "nameUrl": "woman-biking",
+    "emoji": "🚴‍♀️",
+    "unicode": "U+1F6B4‍",
+    "shortNames": [":biking_woman:", ":woman_biking:", ":woman-biking:"]
+  },
+  {
+    "name": "Hamster",
+    "nameUrl": "hamster",
+    "emoji": "🐹",
+    "unicode": "U+1F439Code",
+    "shortNames": [":hamster:"]
+  },
+  {
+    "name": "Musical",
+    "nameUrl": "musical-score",
+    "emoji": "🎼",
+    "unicode": "U+1F3BCCode",
+    "shortNames": [":musical_score:"]
+  },
+  {
+    "name": "Polar",
+    "nameUrl": "polar-bear",
+    "emoji": "🐻‍❄️",
+    "unicode": "U+1F43B‍",
+    "shortNames": [":polar_bear:"]
+  },
+  {
+    "name": "Soccer",
+    "nameUrl": "soccer-ball",
+    "emoji": "⚽",
+    "unicode": "U+26BDCode",
+    "shortNames": [":soccer:", ":soccer_ball:"]
+  },
+  {
+    "name": "Rat",
+    "nameUrl": "rat",
+    "emoji": "🐀",
+    "unicode": "U+1F400Code",
+    "shortNames": [":rat:"]
+  },
+  {
+    "name": "Reminder",
+    "nameUrl": "reminder-ribbon",
+    "emoji": "🎗️",
+    "unicode": "U+1F397️",
+    "shortNames": [":reminder_ribbon:"]
+  },
+  {
+    "name": "Person",
+    "nameUrl": "person-in-suit-levitating",
+    "emoji": "🕴️",
+    "unicode": "U+1F574️",
+    "shortNames": [
+      ":business_suit_levitating:",
+      ":person_in_suit_levitating:",
+      ":man_in_business_suit_levitating:"
+    ]
+  },
+  {
+    "name": "Koala",
+    "nameUrl": "koala",
+    "emoji": "🐨",
+    "unicode": "U+1F428Code",
+    "shortNames": [":koala:"]
+  },
+  {
+    "name": "Person",
+    "nameUrl": "person-lifting-weights",
+    "emoji": "🏋️",
+    "unicode": "U+1F3CB️",
+    "shortNames": [
+      ":weight_lifter:",
+      ":weight_lifting:",
+      ":person_lifting_weights:"
+    ]
+  },
+  {
+    "name": "Horse",
+    "nameUrl": "horse-racing",
+    "emoji": "🏇",
+    "unicode": "U+1F3C7Code",
+    "shortNames": [":horse_racing:"]
+  },
+  {
+    "name": "Wedding",
+    "nameUrl": "wedding",
+    "emoji": "💒",
+    "unicode": "U+1F492Code",
+    "shortNames": [":wedding:"]
+  },
+  {
+    "name": "Sunrise",
+    "nameUrl": "sunrise",
+    "emoji": "🌅",
+    "unicode": "U+1F305Code",
+    "shortNames": [":sunrise:"]
+  },
+  {
+    "name": "Violin",
+    "nameUrl": "violin",
+    "emoji": "🎻",
+    "unicode": "U+1F3BBCode",
+    "shortNames": [":violin:"]
+  },
+  {
+    "name": "Rocket",
+    "nameUrl": "rocket",
+    "emoji": "🚀",
+    "unicode": "U+1F680Code",
+    "shortNames": [":rocket:"]
+  },
+  {
+    "name": "House",
+    "nameUrl": "house",
+    "emoji": "🏠",
+    "unicode": "U+1F3E0Code",
+    "shortNames": [":house:"]
+  },
+  {
+    "name": "Japanese",
+    "nameUrl": "japanese-castle",
+    "emoji": "🏯",
+    "unicode": "U+1F3EFCode",
+    "shortNames": [":japanese_castle:"]
+  },
+  {
+    "name": "Bow",
+    "nameUrl": "bow-and-arrow",
+    "emoji": "🏹",
+    "unicode": "U+1F3F9Code",
+    "shortNames": [":bow_and_arrow:"]
+  },
+  {
+    "name": "Trumpet",
+    "nameUrl": "trumpet",
+    "emoji": "🎺",
+    "unicode": "U+1F3BACode",
+    "shortNames": [":trumpet:"]
+  },
+  {
+    "name": "Bus",
+    "nameUrl": "bus-stop",
+    "emoji": "🚏",
+    "unicode": "U+1F68FCode",
+    "shortNames": [":busstop:", ":bus_stop:"]
+  },
+  {
+    "name": "Headphone",
+    "nameUrl": "headphone",
+    "emoji": "🎧",
+    "unicode": "U+1F3A7Code",
+    "shortNames": [":headphones:", ":headphone:"]
+  },
+  {
+    "name": "Saxophone",
+    "nameUrl": "saxophone",
+    "emoji": "🎷",
+    "unicode": "U+1F3B7Code",
+    "shortNames": [":saxophone:"]
+  },
+  {
+    "name": "Mirror",
+    "nameUrl": "mirror",
+    "emoji": "🪞",
+    "unicode": "U+1FA9ECode",
+    "shortNames": [":mirror:"]
+  },
+  {
+    "name": "Fountain",
+    "nameUrl": "fountain-pen",
+    "emoji": "🖋️",
+    "unicode": "U+1F58B️",
+    "shortNames": [":fountain_pen:", ":lower_left_fountain_pen:"]
+  },
+  {
+    "name": "Locked",
+    "nameUrl": "locked-with-key",
+    "emoji": "🔐",
+    "unicode": "U+1F510Code",
+    "shortNames": [":closed_lock_with_key:", ":locked_with_key:"]
+  },
+  {
+    "name": "Spiral",
+    "nameUrl": "spiral-calendar",
+    "emoji": "🗓️",
+    "unicode": "U+1F5D3️",
+    "shortNames": [":spiral_calendar:", ":spiral_calendar_pad:"]
+  },
+  {
+    "name": "Clamp",
+    "nameUrl": "clamp",
+    "emoji": "🗜️",
+    "unicode": "U+1F5DC️",
+    "shortNames": [":clamp:", ":compression:"]
+  },
+  {
+    "name": "Ballot",
+    "nameUrl": "ballot-box-with-ballot",
+    "emoji": "🗳️",
+    "unicode": "U+1F5F3️",
+    "shortNames": [":ballot_box:", ":ballot_box_with_ballot:"]
+  },
+  {
+    "name": "Crossed",
+    "nameUrl": "crossed-swords",
+    "emoji": "⚔️",
+    "unicode": "U+2694️",
+    "shortNames": [":crossed_swords:"]
+  },
+  {
+    "name": "Wrench",
+    "nameUrl": "wrench",
+    "emoji": "🔧",
+    "unicode": "U+1F527Code",
+    "shortNames": [":wrench:"]
+  },
+  {
+    "name": "Alembic",
+    "nameUrl": "alembic",
+    "emoji": "⚗️",
+    "unicode": "U+2697️",
+    "shortNames": [":alembic:"]
+  },
+  {
+    "name": "Coin",
+    "nameUrl": "coin",
+    "emoji": "🪙",
+    "unicode": "U+1FA99Code",
+    "shortNames": [":coin:"]
+  },
+  {
+    "name": "Pound",
+    "nameUrl": "pound-banknote",
+    "emoji": "💷",
+    "unicode": "U+1F4B7Code",
+    "shortNames": [":pound:", ":pound_banknote:"]
+  },
+  {
+    "name": "Chains",
+    "nameUrl": "chains",
+    "emoji": "⛓️",
+    "unicode": "U+26D3️",
+    "shortNames": [":chains:"]
+  },
+  {
+    "name": "Pick",
+    "nameUrl": "pick",
+    "emoji": "⛏️",
+    "unicode": "U+26CF️",
+    "shortNames": [":pick:"]
+  },
+  {
+    "name": "Steaming",
+    "nameUrl": "steaming-bowl",
+    "emoji": "🍜",
+    "unicode": "U+1F35CCode",
+    "shortNames": [":ramen:", ":steaming_bowl:"]
+  },
+  {
+    "name": "Bar",
+    "nameUrl": "bar-chart",
+    "emoji": "📊",
+    "unicode": "U+1F4CACode",
+    "shortNames": [":bar_chart:"]
+  },
+  {
+    "name": "White",
+    "nameUrl": "white-cane",
+    "emoji": "🦯",
+    "unicode": "U+1F9AFCode",
+    "shortNames": [":probing_cane:", ":white_cane:"]
+  },
+  {
+    "name": "Bread",
+    "nameUrl": "bread",
+    "emoji": "🍞",
+    "unicode": "U+1F35ECode",
+    "shortNames": [":bread:"]
+  },
+  {
+    "name": "Pencil",
+    "nameUrl": "pencil",
+    "emoji": "✏️",
+    "unicode": "U+270F️",
+    "shortNames": [":pencil2:", ":pencil:"]
+  },
+  {
+    "name": "Gear",
+    "nameUrl": "gear",
+    "emoji": "⚙️",
+    "unicode": "U+2699️",
+    "shortNames": [":gear:"]
+  },
+  {
+    "name": "Round",
+    "nameUrl": "round-pushpin",
+    "emoji": "📍",
+    "unicode": "U+1F4CDCode",
+    "shortNames": [":round_pushpin:"]
+  },
+  {
+    "name": "Teacup",
+    "nameUrl": "teacup-without-handle",
+    "emoji": "🍵",
+    "unicode": "U+1F375Code",
+    "shortNames": [":tea:", ":teacup_without_handle:"]
+  },
+  {
+    "name": "Money",
+    "nameUrl": "money-bag",
+    "emoji": "💰",
+    "unicode": "U+1F4B0Code",
+    "shortNames": [":moneybag:", ":money_bag:"]
+  },
+  {
+    "name": "Test",
+    "nameUrl": "test-tube",
+    "emoji": "🧪",
+    "unicode": "U+1F9EACode",
+    "shortNames": [":test_tube:"]
+  },
+  {
+    "name": "Couch",
+    "nameUrl": "couch-and-lamp",
+    "emoji": "🛋️",
+    "unicode": "U+1F6CB️",
+    "shortNames": [":couch_and_lamp:"]
+  },
+  {
+    "name": "E-Mail",
+    "nameUrl": "e-mail",
+    "emoji": "📧",
+    "unicode": "U+1F4E7Code",
+    "shortNames": [":e-mail:", ":e_mail:"]
+  },
+  {
+    "name": "Adhesive",
+    "nameUrl": "adhesive-bandage",
+    "emoji": "🩹",
+    "unicode": "U+1FA79Code",
+    "shortNames": [":adhesive_bandage:"]
+  },
+  {
+    "name": "Microscope",
+    "nameUrl": "microscope",
+    "emoji": "🔬",
+    "unicode": "U+1F52CCode",
+    "shortNames": [":microscope:"]
+  },
+  {
+    "name": "Magnet",
+    "nameUrl": "magnet",
+    "emoji": "🧲",
+    "unicode": "U+1F9F2Code",
+    "shortNames": [":magnet:"]
+  },
+  {
+    "name": "Hammer",
+    "nameUrl": "hammer-and-pick",
+    "emoji": "⚒️",
+    "unicode": "U+2692️",
+    "shortNames": [":hammer_and_pick:"]
+  },
+  {
+    "name": "Bed",
+    "nameUrl": "bed",
+    "emoji": "🛏️",
+    "unicode": "U+1F6CF️",
+    "shortNames": [":bed:"]
+  },
+  {
+    "name": "Drop",
+    "nameUrl": "drop-of-blood",
+    "emoji": "🩸",
+    "unicode": "U+1FA78Code",
+    "shortNames": [":drop_of_blood:"]
+  },
+  {
+    "name": "Petri",
+    "nameUrl": "petri-dish",
+    "emoji": "🧫",
+    "unicode": "U+1F9EBCode",
+    "shortNames": [":petri_dish:"]
+  },
+  {
+    "name": "Screwdriver",
+    "nameUrl": "screwdriver",
+    "emoji": "🪛",
+    "unicode": "U+1FA9BCode",
+    "shortNames": [":screwdriver:"]
+  },
+  {
+    "name": "Carpentry",
+    "nameUrl": "carpentry-saw",
+    "emoji": "🪚",
+    "unicode": "U+1FA9ACode",
+    "shortNames": [":carpentry_saw:"]
+  },
+  {
+    "name": "Balance",
+    "nameUrl": "balance-scale",
+    "emoji": "⚖️",
+    "unicode": "U+2696️",
+    "shortNames": [":balance_scale:", ":scales:"]
+  },
+  {
+    "name": "Bathtub",
+    "nameUrl": "bathtub",
+    "emoji": "🛁",
+    "unicode": "U+1F6C1Code",
+    "shortNames": [":bathtub:"]
+  },
+  {
+    "name": "Boomerang",
+    "nameUrl": "boomerang",
+    "emoji": "🪃",
+    "unicode": "U+1FA83Code",
+    "shortNames": [":boomerang:"]
+  },
+  {
+    "name": "Window",
+    "nameUrl": "window",
+    "emoji": "🪟",
+    "unicode": "U+1FA9FCode",
+    "shortNames": [":window:"]
+  },
+  {
+    "name": "Paintbrush",
+    "nameUrl": "paintbrush",
+    "emoji": "🖌️",
+    "unicode": "U+1F58C️",
+    "shortNames": [":paintbrush:", ":lower_left_paintbrush:"]
+  },
+  {
+    "name": "Dollar",
+    "nameUrl": "dollar-banknote",
+    "emoji": "💵",
+    "unicode": "U+1F4B5Code",
+    "shortNames": [":dollar:", ":dollar_banknote:"]
+  },
+  {
+    "name": "Pill",
+    "nameUrl": "pill",
+    "emoji": "💊",
+    "unicode": "U+1F48ACode",
+    "shortNames": [":pill:"]
+  },
+  {
+    "name": "Link",
+    "nameUrl": "link",
+    "emoji": "🔗",
+    "unicode": "U+1F517Code",
+    "shortNames": [":link:"]
+  },
+  {
+    "name": "Toilet",
+    "nameUrl": "toilet",
+    "emoji": "🚽",
+    "unicode": "U+1F6BDCode",
+    "shortNames": [":toilet:"]
+  },
+  {
+    "name": "Satellite",
+    "nameUrl": "satellite-antenna",
+    "emoji": "📡",
+    "unicode": "U+1F4E1Code",
+    "shortNames": [":satellite_antenna:", ":satellite:"]
+  },
+  {
+    "name": "Axe",
+    "nameUrl": "axe",
+    "emoji": "🪓",
+    "unicode": "U+1FA93Code",
+    "shortNames": [":axe:"]
+  },
+  {
+    "name": "Open",
+    "nameUrl": "open-mailbox-with-lowered-flag",
+    "emoji": "📭",
+    "unicode": "U+1F4EDCode",
+    "shortNames": [":mailbox_with_no_mail:", ":open_mailbox_with_lowered_flag:"]
+  },
+  {
+    "name": "Bubble",
+    "nameUrl": "bubble-tea",
+    "emoji": "🧋",
+    "unicode": "U+1F9CBCode",
+    "shortNames": [":bubble_tea:"]
+  },
+  {
+    "name": "Closed",
+    "nameUrl": "closed-mailbox-with-raised-flag",
+    "emoji": "📫",
+    "unicode": "U+1F4EBCode",
+    "shortNames": [":mailbox:", ":closed_mailbox_with_raised_flag:"]
+  },
+  {
+    "name": "Cooked",
+    "nameUrl": "cooked-rice",
+    "emoji": "🍚",
+    "unicode": "U+1F35ACode",
+    "shortNames": [":rice:", ":cooked_rice:"]
+  },
+  {
+    "name": "Camera",
+    "nameUrl": "camera-with-flash",
+    "emoji": "📸",
+    "unicode": "U+1F4F8Code",
+    "shortNames": [":camera_with_flash:", ":camera_flash:"]
+  },
+  {
+    "name": "Hammer",
+    "nameUrl": "hammer-and-wrench",
+    "emoji": "🛠️",
+    "unicode": "U+1F6E0️",
+    "shortNames": [":hammer_and_wrench:"]
+  },
+  {
+    "name": "Plunger",
+    "nameUrl": "plunger",
+    "emoji": "🪠",
+    "unicode": "U+1FAA0Code",
+    "shortNames": [":plunger:"]
+  },
+  {
+    "name": "Tumbler",
+    "nameUrl": "tumbler-glass",
+    "emoji": "🥃",
+    "unicode": "U+1F943Code",
+    "shortNames": [":tumbler_glass:"]
+  },
+  {
+    "name": "Open",
+    "nameUrl": "open-mailbox-with-raised-flag",
+    "emoji": "📬",
+    "unicode": "U+1F4ECCode",
+    "shortNames": [":mailbox_with_mail:", ":open_mailbox_with_raised_flag:"]
+  },
+  {
+    "name": "Scissors",
+    "nameUrl": "scissors",
+    "emoji": "✂️",
+    "unicode": "U+2702️",
+    "shortNames": [":scissors:"]
+  },
+  {
+    "name": "Computer",
+    "nameUrl": "computer-mouse",
+    "emoji": "🖱️",
+    "unicode": "U+1F5B1️",
+    "shortNames": [":computer_mouse:", ":three_button_mouse:"]
+  },
+  {
+    "name": "Baguette",
+    "nameUrl": "baguette-bread",
+    "emoji": "🥖",
+    "unicode": "U+1F956Code",
+    "shortNames": [":baguette_bread:"]
+  },
+  {
+    "name": "Bookmark",
+    "nameUrl": "bookmark-tabs",
+    "emoji": "📑",
+    "unicode": "U+1F4D1Code",
+    "shortNames": [":bookmark_tabs:"]
+  },
+  {
+    "name": "Card",
+    "nameUrl": "card-file-box",
+    "emoji": "🗃️",
+    "unicode": "U+1F5C3️",
+    "shortNames": [":card_file_box:"]
+  },
+  {
+    "name": "Receipt",
+    "nameUrl": "receipt",
+    "emoji": "🧾",
+    "unicode": "U+1F9FECode",
+    "shortNames": [":receipt:"]
+  },
+  {
+    "name": "Door",
+    "nameUrl": "door",
+    "emoji": "🚪",
+    "unicode": "U+1F6AACode",
+    "shortNames": [":door:"]
+  },
+  {
+    "name": "Desktop",
+    "nameUrl": "desktop-computer",
+    "emoji": "🖥️",
+    "unicode": "U+1F5A5️",
+    "shortNames": [":desktop_computer:"]
+  },
+  {
+    "name": "Pager",
+    "nameUrl": "pager",
+    "emoji": "📟",
+    "unicode": "U+1F4DFCode",
+    "shortNames": [":pager:"]
+  },
+  {
+    "name": "Black",
+    "nameUrl": "black-nib",
+    "emoji": "✒️",
+    "unicode": "U+2712️",
+    "shortNames": [":black_nib:"]
+  },
+  {
+    "name": "Hammer",
+    "nameUrl": "hammer",
+    "emoji": "🔨",
+    "unicode": "U+1F528Code",
+    "shortNames": [":hammer:"]
+  },
+  {
+    "name": "Magnifying",
+    "nameUrl": "magnifying-glass-tilted-left",
+    "emoji": "🔍",
+    "unicode": "U+1F50DCode",
+    "shortNames": [":mag:", ":magnifying_glass_tilted_left:"]
+  },
+  {
+    "name": "Pen",
+    "nameUrl": "pen",
+    "emoji": "🖊️",
+    "unicode": "U+1F58A️",
+    "shortNames": [":pen:", ":lower_left_ballpoint_pen:"]
+  },
+  {
+    "name": "Open",
+    "nameUrl": "open-book",
+    "emoji": "📖",
+    "unicode": "U+1F4D6Code",
+    "shortNames": [":open_book:", ":book:"]
+  },
+  {
+    "name": "Straight",
+    "nameUrl": "straight-ruler",
+    "emoji": "📏",
+    "unicode": "U+1F4CFCode",
+    "shortNames": [":straight_ruler:"]
+  },
+  {
+    "name": "Syringe",
+    "nameUrl": "syringe",
+    "emoji": "💉",
+    "unicode": "U+1F489Code",
+    "shortNames": [":syringe:"]
+  },
+  {
+    "name": "Nut",
+    "nameUrl": "nut-and-bolt",
+    "emoji": "🔩",
+    "unicode": "U+1F529Code",
+    "shortNames": [":nut_and_bolt:"]
+  },
+  {
+    "name": "Triangular",
+    "nameUrl": "triangular-ruler",
+    "emoji": "📐",
+    "unicode": "U+1F4D0Code",
+    "shortNames": [":triangular_ruler:"]
+  },
+  {
+    "name": "Locked",
+    "nameUrl": "locked-with-pen",
+    "emoji": "🔏",
+    "unicode": "U+1F50FCode",
+    "shortNames": [":lock_with_ink_pen:", ":locked_with_pen:"]
+  },
+  {
+    "name": "DNA",
+    "nameUrl": "dna",
+    "emoji": "🧬",
+    "unicode": "U+1F9ECCode",
+    "shortNames": [":dna:"]
+  },
+  {
+    "name": "Card",
+    "nameUrl": "card-index-dividers",
+    "emoji": "🗂️",
+    "unicode": "U+1F5C2️",
+    "shortNames": [":card_index_dividers:"]
+  },
+  {
+    "name": "Watermelon",
+    "nameUrl": "watermelon",
+    "emoji": "🍉",
+    "unicode": "U+1F349Code",
+    "shortNames": [":watermelon:"]
+  },
+  {
+    "name": "DVD",
+    "nameUrl": "dvd",
+    "emoji": "📀",
+    "unicode": "U+1F4C0Code",
+    "shortNames": [":dvd:"]
+  },
+  {
+    "name": "Locked",
+    "nameUrl": "locked",
+    "emoji": "🔒",
+    "unicode": "U+1F512Code",
+    "shortNames": [":lock:", ":locked:"]
+  },
+  {
+    "name": "Clipboard",
+    "nameUrl": "clipboard",
+    "emoji": "📋",
+    "unicode": "U+1F4CBCode",
+    "shortNames": [":clipboard:"]
+  },
+  {
+    "name": "Pineapple",
+    "nameUrl": "pineapple",
+    "emoji": "🍍",
+    "unicode": "U+1F34DCode",
+    "shortNames": [":pineapple:"]
+  },
+  {
+    "name": "Linked",
+    "nameUrl": "linked-paperclips",
+    "emoji": "🖇️",
+    "unicode": "U+1F587️",
+    "shortNames": [":linked_paperclips:", ":paperclips:"]
+  },
+  {
+    "name": "Chair",
+    "nameUrl": "chair",
+    "emoji": "🪑",
+    "unicode": "U+1FA91Code",
+    "shortNames": [":chair:"]
+  },
+  {
+    "name": "Chart",
+    "nameUrl": "chart-decreasing",
+    "emoji": "📉",
+    "unicode": "U+1F4C9Code",
+    "shortNames": [":chart_decreasing:", ":chart_with_downwards_trend:"]
+  },
+  {
+    "name": "Television",
+    "nameUrl": "television",
+    "emoji": "📺",
+    "unicode": "U+1F4FACode",
+    "shortNames": [":tv:", ":television:"]
+  },
+  {
+    "name": "Toolbox",
+    "nameUrl": "toolbox",
+    "emoji": "🧰",
+    "unicode": "U+1F9F0Code",
+    "shortNames": [":toolbox:"]
+  },
+  {
+    "name": "Fried",
+    "nameUrl": "fried-shrimp",
+    "emoji": "🍤",
+    "unicode": "U+1F364Code",
+    "shortNames": [":fried_shrimp:"]
+  },
+  {
+    "name": "Ladder",
+    "nameUrl": "ladder",
+    "emoji": "🪜",
+    "unicode": "U+1FA9CCode",
+    "shortNames": [":ladder:"]
+  },
+  {
+    "name": "Hook",
+    "nameUrl": "hook",
+    "emoji": "🪝",
+    "unicode": "U+1FA9DCode",
+    "shortNames": [":hook:"]
+  },
+  {
+    "name": "Calendar",
+    "nameUrl": "calendar",
+    "emoji": "📅",
+    "unicode": "U+1F4C5Code",
+    "shortNames": [":date:", ":calendar:"]
+  },
+  {
+    "name": "Newspaper",
+    "nameUrl": "newspaper",
+    "emoji": "📰",
+    "unicode": "U+1F4F0Code",
+    "shortNames": [":newspaper:"]
+  },
+  {
+    "name": "Stethoscope",
+    "nameUrl": "stethoscope",
+    "emoji": "🩺",
+    "unicode": "U+1FA7ACode",
+    "shortNames": [":stethoscope:"]
+  },
+  {
+    "name": "Trackball",
+    "nameUrl": "trackball",
+    "emoji": "🖲️",
+    "unicode": "U+1F5B2️",
+    "shortNames": [":trackball:"]
+  },
+  {
+    "name": "Hot",
+    "nameUrl": "hot-beverage",
+    "emoji": "☕",
+    "unicode": "U+2615Code",
+    "shortNames": [":coffee:", ":hot_beverage:"]
+  },
+  {
+    "name": "Pie",
+    "nameUrl": "pie",
+    "emoji": "🥧",
+    "unicode": "U+1F967Code",
+    "shortNames": [":pie:"]
+  },
+  {
+    "name": "Wastebasket",
+    "nameUrl": "wastebasket",
+    "emoji": "🗑️",
+    "unicode": "U+1F5D1️",
+    "shortNames": [":wastebasket:"]
+  },
+  {
+    "name": "Pizza",
+    "nameUrl": "pizza",
+    "emoji": "🍕",
+    "unicode": "U+1F355Code",
+    "shortNames": [":pizza:"]
+  },
+  {
+    "name": "Taco",
+    "nameUrl": "taco",
+    "emoji": "🌮",
+    "unicode": "U+1F32ECode",
+    "shortNames": [":taco:"]
+  },
+  {
+    "name": "Shield",
+    "nameUrl": "shield",
+    "emoji": "🛡️",
+    "unicode": "U+1F6E1️",
+    "shortNames": [":shield:"]
+  },
+  {
+    "name": "Strawberry",
+    "nameUrl": "strawberry",
+    "emoji": "🍓",
+    "unicode": "U+1F353Code",
+    "shortNames": [":strawberry:"]
+  },
+  {
+    "name": "Peach",
+    "nameUrl": "peach",
+    "emoji": "🍑",
+    "unicode": "U+1F351Code",
+    "shortNames": [":peach:"]
+  },
+  {
+    "name": "Film",
+    "nameUrl": "film-projector",
+    "emoji": "📽️",
+    "unicode": "U+1F4FD️",
+    "shortNames": [":film_projector:"]
+  },
+  {
+    "name": "Roasted",
+    "nameUrl": "roasted-sweet-potato",
+    "emoji": "🍠",
+    "unicode": "U+1F360Code",
+    "shortNames": [":sweet_potato:", ":roasted_sweet_potato:"]
+  },
+  {
+    "name": "Telescope",
+    "nameUrl": "telescope",
+    "emoji": "🔭",
+    "unicode": "U+1F52DCode",
+    "shortNames": [":telescope:"]
+  },
+  {
+    "name": "Orange",
+    "nameUrl": "orange-book",
+    "emoji": "📙",
+    "unicode": "U+1F4D9Code",
+    "shortNames": [":orange_book:"]
+  },
+  {
+    "name": "Dagger",
+    "nameUrl": "dagger",
+    "emoji": "🗡️",
+    "unicode": "U+1F5E1️",
+    "shortNames": [":dagger:", ":dagger_knife:"]
+  },
+  {
+    "name": "Bookmark",
+    "nameUrl": "bookmark",
+    "emoji": "🔖",
+    "unicode": "U+1F516Code",
+    "shortNames": [":bookmark:"]
+  },
+  {
+    "name": "Package",
+    "nameUrl": "package",
+    "emoji": "📦",
+    "unicode": "U+1F4E6Code",
+    "shortNames": [":package:"]
+  },
+  {
+    "name": "Cocktail",
+    "nameUrl": "cocktail-glass",
+    "emoji": "🍸",
+    "unicode": "U+1F378Code",
+    "shortNames": [":cocktail:", ":cocktail_glass:"]
+  },
+  {
+    "name": "Inbox",
+    "nameUrl": "inbox-tray",
+    "emoji": "📥",
+    "unicode": "U+1F4E5Code",
+    "shortNames": [":inbox_tray:"]
+  },
+  {
+    "name": "Shower",
+    "nameUrl": "shower",
+    "emoji": "🚿",
+    "unicode": "U+1F6BFCode",
+    "shortNames": [":shower:"]
+  },
+  {
+    "name": "Beverage",
+    "nameUrl": "beverage-box",
+    "emoji": "🧃",
+    "unicode": "U+1F9C3Code",
+    "shortNames": [":beverage_box:"]
+  },
+  {
+    "name": "Yen",
+    "nameUrl": "yen-banknote",
+    "emoji": "💴",
+    "unicode": "U+1F4B4Code",
+    "shortNames": [":yen:", ":yen_banknote:"]
+  },
+  {
+    "name": "Teapot",
+    "nameUrl": "teapot",
+    "emoji": "🫖",
+    "unicode": "U+1FAD6Code",
+    "shortNames": [":teapot:"]
+  },
+  {
+    "name": "Sandwich",
+    "nameUrl": "sandwich",
+    "emoji": "🥪",
+    "unicode": "U+1F96ACode",
+    "shortNames": [":sandwich:"]
+  },
+  {
+    "name": "Peanuts",
+    "nameUrl": "peanuts",
+    "emoji": "🥜",
+    "unicode": "U+1F95CCode",
+    "shortNames": [":peanuts:"]
+  },
+  {
+    "name": "Scroll",
+    "nameUrl": "scroll",
+    "emoji": "📜",
+    "unicode": "U+1F4DCCode",
+    "shortNames": [":scroll:"]
+  },
+  {
+    "name": "Card",
+    "nameUrl": "card-index",
+    "emoji": "📇",
+    "unicode": "U+1F4C7Code",
+    "shortNames": [":card_index:"]
+  },
+  {
+    "name": "Credit",
+    "nameUrl": "credit-card",
+    "emoji": "💳",
+    "unicode": "U+1F4B3Code",
+    "shortNames": [":credit_card:"]
+  },
+  {
+    "name": "Notebook",
+    "nameUrl": "notebook-with-decorative-cover",
+    "emoji": "📔",
+    "unicode": "U+1F4D4Code",
+    "shortNames": [":notebook_with_decorative_cover:"]
+  },
+  {
+    "name": "Olive",
+    "nameUrl": "olive",
+    "emoji": "🫒",
+    "unicode": "U+1FAD2Code",
+    "shortNames": [":olive:"]
+  },
+  {
+    "name": "Mate",
+    "nameUrl": "mate",
+    "emoji": "🧉",
+    "unicode": "U+1F9C9Code",
+    "shortNames": [":mate:", ":mate_drink:"]
+  },
+  {
+    "name": "Bacon",
+    "nameUrl": "bacon",
+    "emoji": "🥓",
+    "unicode": "U+1F953Code",
+    "shortNames": [":bacon:"]
+  },
+  {
+    "name": "Onion",
+    "nameUrl": "onion",
+    "emoji": "🧅",
+    "unicode": "U+1F9C5Code",
+    "shortNames": [":onion:"]
+  },
+  {
+    "name": "Croissant",
+    "nameUrl": "croissant",
+    "emoji": "🥐",
+    "unicode": "U+1F950Code",
+    "shortNames": [":croissant:"]
+  },
+  {
+    "name": "Memo",
+    "nameUrl": "memo",
+    "emoji": "📝",
+    "unicode": "U+1F4DDCode",
+    "shortNames": [":memo:", ":pencil:"]
+  },
+  {
+    "name": "Falafel",
+    "nameUrl": "falafel",
+    "emoji": "🧆",
+    "unicode": "U+1F9C6Code",
+    "shortNames": [":falafel:"]
+  },
+  {
+    "name": "Bowl",
+    "nameUrl": "bowl-with-spoon",
+    "emoji": "🥣",
+    "unicode": "U+1F963Code",
+    "shortNames": [":bowl_with_spoon:"]
+  },
+  {
+    "name": "Chart",
+    "nameUrl": "chart-increasing",
+    "emoji": "📈",
+    "unicode": "U+1F4C8Code",
+    "shortNames": [":chart_with_upwards_trend:", ":chart_increasing:"]
+  },
+  {
+    "name": "Cup",
+    "nameUrl": "cup-with-straw",
+    "emoji": "🥤",
+    "unicode": "U+1F964Code",
+    "shortNames": [":cup_with_straw:"]
+  },
+  {
+    "name": "Dumpling",
+    "nameUrl": "dumpling",
+    "emoji": "🥟",
+    "unicode": "U+1F95FCode",
+    "shortNames": [":dumpling:"]
+  },
+  {
+    "name": "Fortune",
+    "nameUrl": "fortune-cookie",
+    "emoji": "🥠",
+    "unicode": "U+1F960Code",
+    "shortNames": [":fortune_cookie:"]
+  },
+  {
+    "name": "Crayon",
+    "nameUrl": "crayon",
+    "emoji": "🖍️",
+    "unicode": "U+1F58D️",
+    "shortNames": [":crayon:", ":lower_left_crayon:"]
+  },
+  {
+    "name": "Label",
+    "nameUrl": "label",
+    "emoji": "🏷️",
+    "unicode": "U+1F3F7️",
+    "shortNames": [":label:"]
+  },
+  {
+    "name": "Rice",
+    "nameUrl": "rice-cracker",
+    "emoji": "🍘",
+    "unicode": "U+1F358Code",
+    "shortNames": [":rice_cracker:"]
+  },
+  {
+    "name": "Chopsticks",
+    "nameUrl": "chopsticks",
+    "emoji": "🥢",
+    "unicode": "U+1F962Code",
+    "shortNames": [":chopsticks:"]
+  },
+  {
+    "name": "Ice",
+    "nameUrl": "ice-cream",
+    "emoji": "🍨",
+    "unicode": "U+1F368Code",
+    "shortNames": [":ice_cream:"]
+  },
+  {
+    "name": "Clinking",
+    "nameUrl": "clinking-glasses",
+    "emoji": "🥂",
+    "unicode": "U+1F942Code",
+    "shortNames": [":clinking_glasses:"]
+  },
+  {
+    "name": "File",
+    "nameUrl": "file-folder",
+    "emoji": "📁",
+    "unicode": "U+1F4C1Code",
+    "shortNames": [":file_folder:"]
+  },
+  {
+    "name": "Chestnut",
+    "nameUrl": "chestnut",
+    "emoji": "🌰",
+    "unicode": "U+1F330Code",
+    "shortNames": [":chestnut:"]
+  },
+  {
+    "name": "Cookie",
+    "nameUrl": "cookie",
+    "emoji": "🍪",
+    "unicode": "U+1F36ACode",
+    "shortNames": [":cookie:"]
+  },
+  {
+    "name": "Paperclip",
+    "nameUrl": "paperclip",
+    "emoji": "📎",
+    "unicode": "U+1F4CECode",
+    "shortNames": [":paperclip:"]
+  },
+  {
+    "name": "Shaved",
+    "nameUrl": "shaved-ice",
+    "emoji": "🍧",
+    "unicode": "U+1F367Code",
+    "shortNames": [":shaved_ice:"]
+  },
+  {
+    "name": "Money",
+    "nameUrl": "money-with-wings",
+    "emoji": "💸",
+    "unicode": "U+1F4B8Code",
+    "shortNames": [":money_with_wings:"]
+  },
+  {
+    "name": "Flashlight",
+    "nameUrl": "flashlight",
+    "emoji": "🔦",
+    "unicode": "U+1F526Code",
+    "shortNames": [":flashlight:"]
+  },
+  {
+    "name": "Pistol",
+    "nameUrl": "pistol",
+    "emoji": "🔫",
+    "unicode": "U+1F52BCode",
+    "shortNames": [":gun:", ":pistol:"]
+  },
+  {
+    "name": "Doughnut",
+    "nameUrl": "doughnut",
+    "emoji": "🍩",
+    "unicode": "U+1F369Code",
+    "shortNames": [":doughnut:"]
+  },
+  {
+    "name": "Unlocked",
+    "nameUrl": "unlocked",
+    "emoji": "🔓",
+    "unicode": "U+1F513Code",
+    "shortNames": [":unlock:", ":unlocked:"]
+  },
+  {
+    "name": "File",
+    "nameUrl": "file-cabinet",
+    "emoji": "🗄️",
+    "unicode": "U+1F5C4️",
+    "shortNames": [":file_cabinet:"]
+  },
+  {
+    "name": "Open",
+    "nameUrl": "open-file-folder",
+    "emoji": "📂",
+    "unicode": "U+1F4C2Code",
+    "shortNames": [":open_file_folder:"]
+  },
+  {
+    "name": "Euro",
+    "nameUrl": "euro-banknote",
+    "emoji": "💶",
+    "unicode": "U+1F4B6Code",
+    "shortNames": [":euro:", ":euro_banknote:"]
+  },
+  {
+    "name": "Envelope",
+    "nameUrl": "envelope-with-arrow",
+    "emoji": "📩",
+    "unicode": "U+1F4E9Code",
+    "shortNames": [":envelope_with_arrow:"]
+  },
+  {
+    "name": "Outbox",
+    "nameUrl": "outbox-tray",
+    "emoji": "📤",
+    "unicode": "U+1F4E4Code",
+    "shortNames": [":outbox_tray:"]
+  },
+  {
+    "name": "Flatbread",
+    "nameUrl": "flatbread",
+    "emoji": "🫓",
+    "unicode": "U+1FAD3Code",
+    "shortNames": [":flatbread:"]
+  },
+  {
+    "name": "Garlic",
+    "nameUrl": "garlic",
+    "emoji": "🧄",
+    "unicode": "U+1F9C4Code",
+    "shortNames": [":garlic:"]
+  },
+  {
+    "name": "Bagel",
+    "nameUrl": "bagel",
+    "emoji": "🥯",
+    "unicode": "U+1F96FCode",
+    "shortNames": [":bagel:"]
+  },
+  {
+    "name": "Computer",
+    "nameUrl": "computer-disk",
+    "emoji": "💽",
+    "unicode": "U+1F4BDCode",
+    "shortNames": [":minidisc:", ":computer_disk:"]
+  },
+  {
+    "name": "Old",
+    "nameUrl": "old-key",
+    "emoji": "🗝️",
+    "unicode": "U+1F5DD️",
+    "shortNames": [":old_key:"]
+  },
+  {
+    "name": "Broccoli",
+    "nameUrl": "broccoli",
+    "emoji": "🥦",
+    "unicode": "U+1F966Code",
+    "shortNames": [":broccoli:"]
+  },
+  {
+    "name": "Green",
+    "nameUrl": "green-salad",
+    "emoji": "🥗",
+    "unicode": "U+1F957Code",
+    "shortNames": [":green_salad:"]
+  },
+  {
+    "name": "Bottle",
+    "nameUrl": "bottle-with-popping-cork",
+    "emoji": "🍾",
+    "unicode": "U+1F37ECode",
+    "shortNames": [":champagne:", ":bottle_with_popping_cork:"]
+  },
+  {
+    "name": "Glass",
+    "nameUrl": "glass-of-milk",
+    "emoji": "🥛",
+    "unicode": "U+1F95BCode",
+    "shortNames": [":glass_of_milk:", ":milk_glass:"]
+  },
+  {
+    "name": "Pretzel",
+    "nameUrl": "pretzel",
+    "emoji": "🥨",
+    "unicode": "U+1F968Code",
+    "shortNames": [":pretzel:"]
+  },
+  {
+    "name": "Pushpin",
+    "nameUrl": "pushpin",
+    "emoji": "📌",
+    "unicode": "U+1F4CCCode",
+    "shortNames": [":pushpin:"]
+  },
+  {
+    "name": "Fondue",
+    "nameUrl": "fondue",
+    "emoji": "🫕",
+    "unicode": "U+1FAD5Code",
+    "shortNames": [":fondue:"]
+  },
+  {
+    "name": "Moon",
+    "nameUrl": "moon-cake",
+    "emoji": "🥮",
+    "unicode": "U+1F96ECode",
+    "shortNames": [":moon_cake:"]
+  },
+  {
+    "name": "Spoon",
+    "nameUrl": "spoon",
+    "emoji": "🥄",
+    "unicode": "U+1F944Code",
+    "shortNames": [":spoon:"]
+  },
+  {
+    "name": "Cupcake",
+    "nameUrl": "cupcake",
+    "emoji": "🧁",
+    "unicode": "U+1F9C1Code",
+    "shortNames": [":cupcake:"]
+  },
+  {
+    "name": "Baby",
+    "nameUrl": "baby-bottle",
+    "emoji": "🍼",
+    "unicode": "U+1F37CCode",
+    "shortNames": [":baby_bottle:"]
+  },
+  {
+    "name": "Oyster",
+    "nameUrl": "oyster",
+    "emoji": "🦪",
+    "unicode": "U+1F9AACode",
+    "shortNames": [":oyster:"]
+  },
+  {
+    "name": "Leafy",
+    "nameUrl": "leafy-green",
+    "emoji": "🥬",
+    "unicode": "U+1F96CCode",
+    "shortNames": [":leafy_green:"]
+  },
+  {
+    "name": "Chocolate",
+    "nameUrl": "chocolate-bar",
+    "emoji": "🍫",
+    "unicode": "U+1F36BCode",
+    "shortNames": [":chocolate_bar:"]
+  },
+  {
+    "name": "Curry",
+    "nameUrl": "curry-rice",
+    "emoji": "🍛",
+    "unicode": "U+1F35BCode",
+    "shortNames": [":curry:", ":curry_rice:"]
+  },
+  {
+    "name": "Butter",
+    "nameUrl": "butter",
+    "emoji": "🧈",
+    "unicode": "U+1F9C8Code",
+    "shortNames": [":butter:"]
+  },
+  {
+    "name": "Telephone",
+    "nameUrl": "telephone-receiver",
+    "emoji": "📞",
+    "unicode": "U+1F4DECode",
+    "shortNames": [":telephone_receiver:"]
+  },
+  {
+    "name": "Burrito",
+    "nameUrl": "burrito",
+    "emoji": "🌯",
+    "unicode": "U+1F32FCode",
+    "shortNames": [":burrito:"]
+  },
+  {
+    "name": "Fork",
+    "nameUrl": "fork-and-knife",
+    "emoji": "🍴",
+    "unicode": "U+1F374Code",
+    "shortNames": [":fork_and_knife:"]
+  },
+  {
+    "name": "Spiral",
+    "nameUrl": "spiral-notepad",
+    "emoji": "🗒️",
+    "unicode": "U+1F5D2️",
+    "shortNames": [":spiral_notepad:", ":spiral_note_pad:"]
+  },
+  {
+    "name": "Hot",
+    "nameUrl": "hot-pepper",
+    "emoji": "🌶️",
+    "unicode": "U+1F336️",
+    "shortNames": [":hot_pepper:"]
+  },
+  {
+    "name": "Stuffed",
+    "nameUrl": "stuffed-flatbread",
+    "emoji": "🥙",
+    "unicode": "U+1F959Code",
+    "shortNames": [":stuffed_flatbread:"]
+  },
+  {
+    "name": "Tangerine",
+    "nameUrl": "tangerine",
+    "emoji": "🍊",
+    "unicode": "U+1F34ACode",
+    "shortNames": [":tangerine:", ":orange:", ":mandarin:"]
+  },
+  {
+    "name": "Rice",
+    "nameUrl": "rice-ball",
+    "emoji": "🍙",
+    "unicode": "U+1F359Code",
+    "shortNames": [":rice_ball:"]
+  },
+  {
+    "name": "Cooking",
+    "nameUrl": "cooking",
+    "emoji": "🍳",
+    "unicode": "U+1F373Code",
+    "shortNames": [":cooking:", ":fried_egg:"]
+  },
+  {
+    "name": "Fish",
+    "nameUrl": "fish-cake-with-swirl",
+    "emoji": "🍥",
+    "unicode": "U+1F365Code",
+    "shortNames": [":fish_cake:", ":fish_cake_with_swirl:"]
+  },
+  {
+    "name": "Shortcake",
+    "nameUrl": "shortcake",
+    "emoji": "🍰",
+    "unicode": "U+1F370Code",
+    "shortNames": [":cake:", ":shortcake:"]
+  },
+  {
+    "name": "Salt",
+    "nameUrl": "salt",
+    "emoji": "🧂",
+    "unicode": "U+1F9C2Code",
+    "shortNames": [":salt:"]
+  },
+  {
+    "name": "Cut",
+    "nameUrl": "cut-of-meat",
+    "emoji": "🥩",
+    "unicode": "U+1F969Code",
+    "shortNames": [":cut_of_meat:"]
+  },
+  {
+    "name": "Poultry",
+    "nameUrl": "poultry-leg",
+    "emoji": "🍗",
+    "unicode": "U+1F357Code",
+    "shortNames": [":poultry_leg:"]
+  },
+  {
+    "name": "Pot",
+    "nameUrl": "pot-of-food",
+    "emoji": "🍲",
+    "unicode": "U+1F372Code",
+    "shortNames": [":stew:", ":pot_of_food:"]
+  },
+  {
+    "name": "Canned",
+    "nameUrl": "canned-food",
+    "emoji": "🥫",
+    "unicode": "U+1F96BCode",
+    "shortNames": [":canned_food:"]
+  },
+  {
+    "name": "Takeout",
+    "nameUrl": "takeout-box",
+    "emoji": "🥡",
+    "unicode": "U+1F961Code",
+    "shortNames": [":takeout_box:"]
+  },
+  {
+    "name": "Hot",
+    "nameUrl": "hot-dog",
+    "emoji": "🌭",
+    "unicode": "U+1F32DCode",
+    "shortNames": [":hotdog:", ":hot_dog:"]
+  },
+  {
+    "name": "Popcorn",
+    "nameUrl": "popcorn",
+    "emoji": "🍿",
+    "unicode": "U+1F37FCode",
+    "shortNames": [":popcorn:"]
+  },
+  {
+    "name": "Pancakes",
+    "nameUrl": "pancakes",
+    "emoji": "🥞",
+    "unicode": "U+1F95ECode",
+    "shortNames": [":pancakes:"]
+  },
+  {
+    "name": "Meat",
+    "nameUrl": "meat-on-bone",
+    "emoji": "🍖",
+    "unicode": "U+1F356Code",
+    "shortNames": [":meat_on_bone:"]
+  },
+  {
+    "name": "Spaghetti",
+    "nameUrl": "spaghetti",
+    "emoji": "🍝",
+    "unicode": "U+1F35DCode",
+    "shortNames": [":spaghetti:"]
+  },
+  {
+    "name": "Melon",
+    "nameUrl": "melon",
+    "emoji": "🍈",
+    "unicode": "U+1F348Code",
+    "shortNames": [":melon:"]
+  },
+  {
+    "name": "Bento",
+    "nameUrl": "bento-box",
+    "emoji": "🍱",
+    "unicode": "U+1F371Code",
+    "shortNames": [":bento:", ":bento_box:"]
+  },
+  {
+    "name": "Soft",
+    "nameUrl": "soft-ice-cream",
+    "emoji": "🍦",
+    "unicode": "U+1F366Code",
+    "shortNames": [":icecream:", ":soft_ice_cream:"]
+  },
+  {
+    "name": "Custard",
+    "nameUrl": "custard",
+    "emoji": "🍮",
+    "unicode": "U+1F36ECode",
+    "shortNames": [":custard:"]
+  },
+  {
+    "name": "Tamale",
+    "nameUrl": "tamale",
+    "emoji": "🫔",
+    "unicode": "U+1FAD4Code",
+    "shortNames": [":tamale:"]
+  },
+  {
+    "name": "Rolled-Up",
+    "nameUrl": "rolled-up-newspaper",
+    "emoji": "🗞️",
+    "unicode": "U+1F5DE️",
+    "shortNames": [":rolled_up_newspaper:", ":newspaper_roll:"]
+  },
+  {
+    "name": "Cheese",
+    "nameUrl": "cheese-wedge",
+    "emoji": "🧀",
+    "unicode": "U+1F9C0Code",
+    "shortNames": [":cheese_wedge:", ":cheese:"]
+  },
+  {
+    "name": "Fork",
+    "nameUrl": "fork-and-knife-with-plate",
+    "emoji": "🍽️",
+    "unicode": "U+1F37D️",
+    "shortNames": [
+      ":knife_fork_plate:",
+      ":plate_with_cutlery:",
+      ":fork_and_knife_with_plate:"
+    ]
+  },
+  {
+    "name": "Tear-Off",
+    "nameUrl": "tear-off-calendar",
+    "emoji": "📆",
+    "unicode": "U+1F4C6Code",
+    "shortNames": [":calendar:", ":tear_off_calendar:"]
+  },
+  {
+    "name": "Candy",
+    "nameUrl": "candy",
+    "emoji": "🍬",
+    "unicode": "U+1F36CCode",
+    "shortNames": [":candy:"]
+  },
+  {
+    "name": "Lollipop",
+    "nameUrl": "lollipop",
+    "emoji": "🍭",
+    "unicode": "U+1F36DCode",
+    "shortNames": [":lollipop:"]
+  },
+  {
+    "name": "Hamburger",
+    "nameUrl": "hamburger",
+    "emoji": "🍔",
+    "unicode": "U+1F354Code",
+    "shortNames": [":hamburger:"]
+  },
+  {
+    "name": "Shallow",
+    "nameUrl": "shallow-pan-of-food",
+    "emoji": "🥘",
+    "unicode": "U+1F958Code",
+    "shortNames": [":shallow_pan_of_food:"]
+  },
+  {
+    "name": "Birthday",
+    "nameUrl": "birthday-cake",
+    "emoji": "🎂",
+    "unicode": "U+1F382Code",
+    "shortNames": [":birthday:", ":birthday_cake:"]
+  },
+  {
+    "name": "Clinking",
+    "nameUrl": "clinking-beer-mugs",
+    "emoji": "🍻",
+    "unicode": "U+1F37BCode",
+    "shortNames": [":beers:", ":clinking_beer_mugs:"]
+  },
+  {
+    "name": "Envelope",
+    "nameUrl": "envelope",
+    "emoji": "✉️",
+    "unicode": "U+2709️",
+    "shortNames": [":envelope:", ":email:"]
+  },
+  {
+    "name": "Lemon",
+    "nameUrl": "lemon",
+    "emoji": "🍋",
+    "unicode": "U+1F34BCode",
+    "shortNames": [":lemon:"]
+  },
+  {
+    "name": "Wine",
+    "nameUrl": "wine-glass",
+    "emoji": "🍷",
+    "unicode": "U+1F377Code",
+    "shortNames": [":wine_glass:"]
+  },
+  {
+    "name": "Mushroom",
+    "nameUrl": "mushroom",
+    "emoji": "🍄",
+    "unicode": "U+1F344Code",
+    "shortNames": [":mushroom:"]
+  },
+  {
+    "name": "Beer",
+    "nameUrl": "beer-mug",
+    "emoji": "🍺",
+    "unicode": "U+1F37ACode",
+    "shortNames": [":beer:", ":beer_mug:"]
+  },
+  {
+    "name": "Incoming",
+    "nameUrl": "incoming-envelope",
+    "emoji": "📨",
+    "unicode": "U+1F4E8Code",
+    "shortNames": [":incoming_envelope:"]
+  },
+  {
+    "name": "Red",
+    "nameUrl": "red-paper-lantern",
+    "emoji": "🏮",
+    "unicode": "U+1F3EECode",
+    "shortNames": [":lantern:", ":izakaya_lantern:", ":red_paper_lantern:"]
+  },
+  {
+    "name": "Video",
+    "nameUrl": "video-camera",
+    "emoji": "📹",
+    "unicode": "U+1F4F9Code",
+    "shortNames": [":video_camera:"]
+  },
+  {
+    "name": "Sushi",
+    "nameUrl": "sushi",
+    "emoji": "🍣",
+    "unicode": "U+1F363Code",
+    "shortNames": [":sushi:"]
+  },
+  {
+    "name": "Page",
+    "nameUrl": "page-facing-up",
+    "emoji": "📄",
+    "unicode": "U+1F4C4Code",
+    "shortNames": [":page_facing_up:"]
+  },
+  {
+    "name": "Closed",
+    "nameUrl": "closed-mailbox-with-lowered-flag",
+    "emoji": "📪",
+    "unicode": "U+1F4EACode",
+    "shortNames": [":mailbox_closed:", ":closed_mailbox_with_lowered_flag:"]
+  },
+  {
+    "name": "Oden",
+    "nameUrl": "oden",
+    "emoji": "🍢",
+    "unicode": "U+1F362Code",
+    "shortNames": [":oden:"]
+  },
+  {
+    "name": "Telephone",
+    "nameUrl": "telephone",
+    "emoji": "☎️",
+    "unicode": "U+260E️",
+    "shortNames": [":telephone:", ":phone:"]
+  },
+  {
+    "name": "Sake",
+    "nameUrl": "sake",
+    "emoji": "🍶",
+    "unicode": "U+1F376Code",
+    "shortNames": [":sake:"]
+  },
+  {
+    "name": "Postbox",
+    "nameUrl": "postbox",
+    "emoji": "📮",
+    "unicode": "U+1F4EECode",
+    "shortNames": [":postbox:"]
+  },
+  {
+    "name": "Key",
+    "nameUrl": "key",
+    "emoji": "🔑",
+    "unicode": "U+1F511Code",
+    "shortNames": [":key:"]
+  },
+  {
+    "name": "Ledger",
+    "nameUrl": "ledger",
+    "emoji": "📒",
+    "unicode": "U+1F4D2Code",
+    "shortNames": [":ledger:"]
+  },
+  {
+    "name": "Film",
+    "nameUrl": "film-frames",
+    "emoji": "🎞️",
+    "unicode": "U+1F39E️",
+    "shortNames": [":film_frames:", ":film_strip:"]
+  },
+  {
+    "name": "Abacus",
+    "nameUrl": "abacus",
+    "emoji": "🧮",
+    "unicode": "U+1F9EECode",
+    "shortNames": [":abacus:"]
+  },
+  {
+    "name": "Printer",
+    "nameUrl": "printer",
+    "emoji": "🖨️",
+    "unicode": "U+1F5A8️",
+    "shortNames": [":printer:"]
+  },
+  {
+    "name": "Keyboard",
+    "nameUrl": "keyboard",
+    "emoji": "⌨️",
+    "unicode": "U+2328️",
+    "shortNames": [":keyboard:"]
+  },
+  {
+    "name": "Diya",
+    "nameUrl": "diya-lamp",
+    "emoji": "🪔",
+    "unicode": "U+1FA94Code",
+    "shortNames": [":diya_lamp:"]
+  },
+  {
+    "name": "Battery",
+    "nameUrl": "battery",
+    "emoji": "🔋",
+    "unicode": "U+1F50BCode",
+    "shortNames": [":battery:"]
+  },
+  {
+    "name": "Books",
+    "nameUrl": "books",
+    "emoji": "📚",
+    "unicode": "U+1F4DACode",
+    "shortNames": [":books:"]
+  },
+  {
+    "name": "Fax",
+    "nameUrl": "fax-machine",
+    "emoji": "📠",
+    "unicode": "U+1F4E0Code",
+    "shortNames": [":fax:", ":fax_machine:"]
+  },
+  {
+    "name": "Candle",
+    "nameUrl": "candle",
+    "emoji": "🕯️",
+    "unicode": "U+1F56F️",
+    "shortNames": [":candle:"]
+  },
+  {
+    "name": "Floppy",
+    "nameUrl": "floppy-disk",
+    "emoji": "💾",
+    "unicode": "U+1F4BECode",
+    "shortNames": [":floppy_disk:"]
+  },
+  {
+    "name": "Camera",
+    "nameUrl": "camera",
+    "emoji": "📷",
+    "unicode": "U+1F4F7Code",
+    "shortNames": [":camera:"]
+  },
+  {
+    "name": "Optical",
+    "nameUrl": "optical-disk",
+    "emoji": "💿",
+    "unicode": "U+1F4BFCode",
+    "shortNames": [":cd:", ":optical_disk:"]
+  },
+  {
+    "name": "Light",
+    "nameUrl": "light-bulb",
+    "emoji": "💡",
+    "unicode": "U+1F4A1Code",
+    "shortNames": [":bulb:", ":light_bulb:"]
+  },
+  {
+    "name": "Laptop",
+    "nameUrl": "laptop",
+    "emoji": "💻",
+    "unicode": "U+1F4BBCode",
+    "shortNames": [":computer:", ":laptop:"]
+  },
+  {
+    "name": "Notebook",
+    "nameUrl": "notebook",
+    "emoji": "📓",
+    "unicode": "U+1F4D3Code",
+    "shortNames": [":notebook:"]
+  },
+  {
+    "name": "Closed",
+    "nameUrl": "closed-book",
+    "emoji": "📕",
+    "unicode": "U+1F4D5Code",
+    "shortNames": [":closed_book:"]
+  },
+  {
+    "name": "Blue",
+    "nameUrl": "blue-book",
+    "emoji": "📘",
+    "unicode": "U+1F4D8Code",
+    "shortNames": [":blue_book:"]
+  },
+  {
+    "name": "Magnifying",
+    "nameUrl": "magnifying-glass-tilted-right",
+    "emoji": "🔎",
+    "unicode": "U+1F50ECode",
+    "shortNames": [":mag_right:", ":magnifying_glass_tilted_right:"]
+  },
+  {
+    "name": "Green",
+    "nameUrl": "green-book",
+    "emoji": "📗",
+    "unicode": "U+1F4D7Code",
+    "shortNames": [":green_book:"]
+  },
+  {
+    "name": "Electric",
+    "nameUrl": "electric-plug",
+    "emoji": "🔌",
+    "unicode": "U+1F50CCode",
+    "shortNames": [":electric_plug:"]
+  },
+  {
+    "name": "Page",
+    "nameUrl": "page-with-curl",
+    "emoji": "📃",
+    "unicode": "U+1F4C3Code",
+    "shortNames": [":page_with_curl:"]
+  },
+  {
+    "name": "Pound",
+    "nameUrl": "pound-banknote",
+    "emoji": "💷",
+    "unicode": "U+1F4B7Code",
+    "shortNames": [":pound:", ":pound_banknote:"]
+  },
+  {
+    "name": "Compass",
+    "nameUrl": "compass",
+    "emoji": "🧭",
+    "unicode": "U+1F9EDCode",
+    "shortNames": [":compass:"]
+  }
+]
