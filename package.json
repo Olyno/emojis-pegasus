@@ -1,11 +1,12 @@
 {
   "name": "emojis-pegasus",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Get all emojis available up to date automatically",
-  "main": "lib/index.js",
+  "main": "dist/index.js",
+  "type": "module",
   "scripts": {
     "build": "tsc",
-    "start": "tsc && node lib",
+    "export": "tsc && node scripts/export.js",
     "format": "prettier --write .",
     "deploy": "yarn publish"
   },
@@ -27,16 +28,20 @@
     "emojis.json",
     "README.md",
     "LICENSE",
-    "lib"
+    "dist"
   ],
+  "engines": {
+    "node": ">=14"
+  },
   "devDependencies": {
     "@types/cheerio": "^0.22.21",
+    "@types/debug": "^4.1.7",
     "@types/node": "^14.6.0",
-    "prettier": "^2.3.2",
-    "typescript": "^4.0.2"
-  },
-  "dependencies": {
     "axios": "^0.21.1",
-    "cheerio": "^1.0.0-rc.3"
-  }
+    "cheerio": "^1.0.0-rc.10",
+    "debug": "^4.3.2",
+    "prettier": "^2.3.2",
+    "typescript": "^4.4.2"
+  },
+  "dependencies": {}
 }

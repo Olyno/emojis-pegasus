@@ -1,14 +1,15 @@
 {
   "compilerOptions": {
-    "target": "es6",
-    "module": "commonjs",
-    "lib": ["esnext", "dom"],
-    "outDir": "./lib",
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": ["esnext"],
+    "outDir": "./dist",
     "rootDir": "./src",
     "declaration": true,
     "strict": true,
     "noImplicitAny": false,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "moduleResolution": "Node"
   },
-  "exclude": ["lib", "node_modules"]
+  "exclude": ["dist", "node_modules"]
 }
