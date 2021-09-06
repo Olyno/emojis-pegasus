@@ -1,4 +1,4 @@
-import { CategoryModel } from './models/category.model';
+import { CategoryModel } from './models';
 
 export const categories: CategoryModel[] = [
   { name: 'Smileys & People', url: 'people' },
@@ -8,4 +8,5 @@ export const categories: CategoryModel[] = [
   { name: 'Travel & Places', url: 'travel-places' },
   { name: 'Objects', url: 'objects' },
   { name: 'Symbols', url: 'symbols' },
+  { name: 'Flags', url: 'flags' },
 ];
