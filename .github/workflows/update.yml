@@ -34,7 +34,7 @@ jobs:
         with:
           author_name: Olyno
           author_email: ${{ secrets.EMAIL }}
-          message: Updated emojislist
+          message: 'build(emojis): update list'
           add: emojis.json
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
