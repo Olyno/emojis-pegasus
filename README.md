@@ -4,7 +4,7 @@
 
 All emojis based on [Emojipedia](https://emojipedia.org) up to date automatically each weeks.
 
-**\*To note:** The package was initially available on Github Package Registry, but due to some issues and not friendly installation, it will not be updated anymore, so please don't try to use it.\*
+**To note:** The package was initially available on Github Package Registry, but due to some issues and not friendly installation, it will not be updated anymore, so please don't try to use it.\*
 
 ## Install
 
@@ -16,8 +16,30 @@ All emojis based on [Emojipedia](https://emojipedia.org) up to date automaticall
 
 ## Usage
 
+### With ESM syntax
+
+```js
+import emojisList from 'emojis-pegasus';
+
+const emojis = emojisList.getEmojis();
+
+// Get a specific emoji
+const brainEmoji = emojisList.getEmoji('brain');
+const brainEmoji = emojisList.getEmoji(':brain:');
+const brainEmoji = emojisList.getEmoji('🧠');
+const brainEmoji = emojisList.getEmoji('U+1F9E0');
+
+// Get values
+console.log('Emoji name:', brain.name);
+console.log('Emoji unicode:', brain.unicode);
+console.log('Emoji shortNames:', brain.shortNames);
+```
+
+### With commonjs syntax
+
 ```js
 const emojisList = require('emojis-pegasus').default;
+
 const emojis = emojisList.getEmojis();
 
 // Get a specific emoji
