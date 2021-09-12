@@ -42,5 +42,6 @@
     "debug": "^4.3.2",
     "prettier": "^2.3.2",
     "typescript": "^4.4.2"
-  }
+  },
+  "packageManager": "yarn@3.1.0-rc.3"
 }
