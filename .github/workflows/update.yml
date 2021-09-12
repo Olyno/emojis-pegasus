@@ -35,6 +35,8 @@ jobs:
 
       - name: Export emojis
         run: yarn export
+        env:
+          DEBUG: emojis
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
