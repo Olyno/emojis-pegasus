@@ -7,7 +7,7 @@ import { categories } from './constants.js';
 import { EmojiModel } from './models/index.js';
 
 function defined<T>(arg: T | null | undefined): arg is T {
-  return arg != null;
+  return arg !== null;
 }
 
 export class Emojis {
